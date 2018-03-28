@@ -27,3 +27,10 @@ body {
   letter-spacing: .02rem;
 
 }
+
+p {
+  max-width: $xl;
+  .text--center & { margin-left: auto; margin-right: auto; }
+  &.text--xl { max-width: $xxl; }
+  &.text--xxl { max-width: 100%; }
+}

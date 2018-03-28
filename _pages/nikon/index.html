@@ -1,0 +1,63 @@
+---
+layout: default
+id: nikon
+title: Nikon
+nav: true
+nav-order: 7
+nav-title: Nikon
+
+intro: >
+  <p class="text--xl text--bold">Begin your very own photographic journey with Nikon.</p>
+  <p class="text--xl">Whether you’re an aspiring or a professional photographer, make your next camera a Nikon. Graduate to the D7500, for crisp, high-definition shots with rich tonal gradations. It’s the perfect tool for stepping up your photography and capturing the perfect moment with ease.</p>
+  <p class="text--xl">If you’re already a fluent photographer, the D850 is built for you. Extreme resolution meets extreme speed, for a package that will offer a brand new perspective to your photographic creativity.</p>
+
+features:
+
+  - id: nikon-d7500
+    title: Nikon D7500
+    content: The search for the perfect image can take you anywhere. Go there with the powerful, nimble, and fully connected D7500. Catch the beauty you find with flagship DX image quality inherited from Nikon’s D500.
+
+  - id: nikon-d850
+    title: Nikon D850
+    content: When you’ve got the ultimate combination of resolution, speed, and light sensitivity to work with, you don’t just execute incredible work. You show your mastery.
+
+  - id: nikkor-lenses
+    title: NIKKOR Lenses
+    content: A great camera is only as good as the lens you've chosen. Expand your creative vision and unlock your camera's full potential with a choice of over 90 NIKKOR lenses - each optimised to give crystal clear images, whatever the subject.
+
+---
+
+
+
+<div class="bg--grey-darker">
+  <div class="container container--xxl vpad--xxl text--center">
+    {{page.intro}}
+  </div>
+</div>
+
+
+
+<div class="container vpad--xl">
+  {% for feature in page.features %}
+  <div class="bob vpad--xl{% cycle "", " bob--swap" %}">
+    <a href="" class="bob__img bg-img bg-img--16-9" style="background-image: url({{site.img}}/content/nikon/{{feature.id}}.jpg);">
+      <span class="bg-img__content">
+        <img class="bg-img--zoom" src="{{site.img}}/content/nikon/{{feature.id}}-title.png" width="200">
+      </span>
+    </a>
+    <div class="bob__text">
+      <h3 class="title title--lg">{{feature.title}}</h3>
+      <p class="text--lg">{{feature.content}}</p>
+      <div class="space--sm"></div>
+      <a href="{{feature.link}}" class="btn btn--solid">Find out more</a>
+    </div>
+  </div>
+  {% endfor %}
+</div>
+
+
+
+{% include page/promo-nikon.html %}
+{% include page/promo-competition.html %}
+
+

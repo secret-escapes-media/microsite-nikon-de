@@ -4,41 +4,64 @@ layout: default
 {% assign page-photos = site.data[page.group-parent] %}
 
 
-<div class="bg--grey-darker">
-  <div class="container vpad--xxl text--center">
-    {{page.intro.long}}
-    <a href="javascript:void(0);" data-modal-item="{{page-photos[0].id}}" data-modal-group="page" class="js-open-modal btn btn--solid">View gallery</a>
+
+<!-- VIDEO SECTION -->
+<div class="section">
+  <div class="container container--xxl vpad--xxl text--center">
+    <a href="javascript:void(0);" data-modal-item="{{page.group-parent}}-video" class="js-open-modal bg-img bg-img--16-9" style="background-image: url({{site.img}}/content/{{page.group-parent}}/video.jpg);">
+      <span class="bg-img__play bg-img--zoom"></span>
+    </a>
   </div>
 </div>
 
 
-{% for section in page.sections %}
-<div class="container vpad--xxl">
 
-  <h2 class="title title--xxl">{{section.title}}</h2>
-  {{section.intro}}
-  <div class="space--xxl"></div>
+
+<!-- JOURNEY -->
+{% for section in page.sections %}
+
+  <div class="container vpad--none">
+    <!-- JOURNEY TITLE & INTRO -->
+    <h2 class="title title--xxl text--bold">{{section.title}}</h2>
+    <div class="space--sm"></div>
+    {{section.intro}}
+  </div>
 
   <!-- Looping through section photos -->
   {% for photo in section.photos %}
     {% assign photo-data = page-photos | where: "id", photo.id %}
     {% for photo in photo-data %}
 
-      <div class="bob{% cycle ""," bob--swap" %}">
-        <div class="bob__img">
-          <a href="javascript:void(0);" data-modal-item="{{photo.id}}" data-modal-group="section" class="js-open-modal bg-img bg-img--3-2" style="background-image:url({{site.img}}/content/{{page.group-parent}}/photos/{{photo.id}}.jpg);"></a>
-        </div>
+      {% if photo.orientation == 'portrait' %}
+      <div class="container container--xxl">
+      {% else %}
+      <div class="container">
+      {% endif %}
 
-        <div class="bob__text">
-          <h4 class="title title--md">{{photo.title}}</h4>
-          <p class="title text--wide-kern text--upper">Captured by <span class="text--bold">{{photo.photographer}}</span></p>
-          <p class="text--lg">{{photo.content}}</p>
+        <div class="row row--valign-center row--gutters-lg{% cycle ""," row--reverse" %}">
+
+          <div class="col col--7">
+            {% if photo.orientation == 'portrait' %}
+              <a href="javascript:void(0);" data-modal-item="{{photo.id}}" data-modal-group="section" class="js-open-modal bg-img bg-img--2-3" style="background-image:url({{site.img}}/content/{{page.group-parent}}/photos/{{photo.id}}.jpg);"></a>
+            {% else %}
+              <a href="javascript:void(0);" data-modal-item="{{photo.id}}" data-modal-group="section" class="js-open-modal bg-img bg-img--16-9" style="background-image:url({{site.img}}/content/{{page.group-parent}}/photos/{{photo.id}}.jpg);"></a>
+            {% endif %}
+          </div>
+
+          <div class="col col--5">
+            <h4 class="title title--md text--bold">{{photo.title}}</h4>
+            <p class="title title--xxxs">By <span class="text--bold">{{photo.photographer}}</span></p>
+            <p>{{photo.content}}</p>
+          </div>
+
         </div>
       </div>
 
     {% endfor %}
   {% endfor %}
 
-</div>
 {% endfor %}
 
+
+
+{% include page/promo-competition.html %}

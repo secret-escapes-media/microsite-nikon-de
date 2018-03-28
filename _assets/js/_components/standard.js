@@ -82,7 +82,6 @@ function accordion(trigger,target){
   }else{
     $('.accordion__trigger.accordion--triggered').removeClass('accordion--triggered');
     trigger.addClass('accordion--triggered');
-    accordion.slideUp().removeClass('accordion--open').addClass('accordion--closed');
     targetAccordion.slideDown().removeClass('accordion--closed').addClass('accordion--open');
   }
 }
@@ -94,7 +93,7 @@ $('.accordion--closed').each(function(){
 
 $('.accordion__trigger').click(function(event){
   var trigger = $(this);
-  var target = $(this).attr('data-target');
+  var target = $(this).attr('data-accordion-id');
 
   accordion(trigger,target);
 });

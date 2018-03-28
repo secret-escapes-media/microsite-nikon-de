@@ -13,7 +13,7 @@ intro: >
 
 
 <div class="bg--grey-darker">
-  <div class="container vpad--xxl text--center">
+  <div class="container container--xxl vpad--xxl text--center">
     {{page.intro}}
   </div>
 </div>
@@ -29,18 +29,20 @@ intro: >
       <div class="bob__img">
 
         <div class="boxpad--sm">
-          <a href="{{site.baseurl}}{{destination.url}}" class="bg-img bg-img--16-9" style="background-image: url('{{site.img}}/img.jpg');"></a>
+          <a href="javascript:void(0);" data-modal-item="{{destination.id}}-video" class="js-open-modal bg-img bg-img--16-9" style="background-image: url('{{site.img}}/content/overview/{{destination.id}}.jpg');">
+            <span class="bg-img__play bg-img--zoom"></span>
+          </a>
         </div>
 
         <div class="row row--6-6 row--no-gutters">
           <div class="col">
             <div class="boxpad--sm">
-              <div class="bg-img bg-img--4-3" style="background-image: url('{{site.img}}/img.jpg');"></div>
+              <div class="bg-img bg-img--16-9" style="background-image: url('{{site.img}}/content/overview/{{destination.id}}-1.jpg');"></div>
             </div>
           </div>
           <div class="col">
             <div class="boxpad--sm">
-              <div class="bg-img bg-img--4-3" style="background-image: url('{{site.img}}/img.jpg');"></div>
+              <div class="bg-img bg-img--16-9" style="background-image: url('{{site.img}}/content/overview/{{destination.id}}-2.jpg');"></div>
             </div>
           </div>
         </div>

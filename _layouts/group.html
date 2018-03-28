@@ -21,10 +21,11 @@ layout: default
     <div class="bob{% cycle ""," bob--swap" %}">
       <div class="bob__img">
         <a href="{{site.baseurl}}{{group-page.url}}">
-          <div class="bg-img bg-img--3-2" style="background-image: url('{{site.img}}/img.jpg');"></div>
+          <div class="bg-img bg-img--3-2" style="background-image: url('{{site.img}}/nav/{{group-page.id}}.jpg');"></div>
         </a>
       </div>
       <div class="bob__text">
+        <h3 class="title title--sm text--bold">{{group-page.page-title}}</h3>
         <p class="text--lg">{{group-page.intro.parent}}</p>
         <div class="space--md"></div>
         <a href="{{site.baseurl}}{{group-page.url}}" class="btn btn--solid">Read more</a>

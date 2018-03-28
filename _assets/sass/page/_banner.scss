@@ -34,19 +34,8 @@
     z-index: $z-content;
     background-color: $grey-dark;
     @include background-attributes;
-    // &:before {
-    //   // optional colour overlay on bg image
-    //   content: '';
-    //   position: absolute;
-    //   top: 0;
-    //   left: 0;
-    //   right: 0;
-    //   bottom: 0;
-    //   background-color: rgba($black,.15);
-    // }
   }
   &__nav {
-    // optional container for navigation include
     & .site-nav {
       position: absolute;
       right: 0;
@@ -64,3 +53,27 @@
     }
   }
 }
+
+// BANNER ARTICLE - For journey and guide pages
+.banner--article {
+  height: 100%;
+  .banner {
+    &__wrap {
+      padding-left: 0;
+      padding-right: 0;
+    }
+    &__content {
+      width: 50%;
+      position: absolute;
+      left: 0;
+      top: 0;
+      bottom: 0;
+      background-color: rgba($grey-darkest,0.8);
+      padding: $s4;
+      display: flex;
+      align-items: center;
+    }
+  }
+}
+
+

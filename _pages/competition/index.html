@@ -1,0 +1,70 @@
+---
+layout: default
+id: competition
+title: Compet&shy;ition
+nav: true
+nav-order: 6
+nav-title: Competition
+
+intro: >
+  <p class="text--xl text--bold">Win a photographic adventure in New York for two</p>
+  <p class="text--xl">If our New York adventure has left your wanderlust reeling, don’t fret – it could all be yours. With four nights at the Hotel 50 Bowery on the Lower East Side, plus a Nikon D7500 and training at the Nikon School, you’ll have all you need to capture your own Manhattan journey.</p>
+  <div class="space--lg"></div>
+  <a href="#enter" class="btn btn--solid btn--lg">Enter now</a>
+
+prizes:
+
+  - id: hotel
+    title: In the Heart of the Cultural Melting-Pot
+    content: Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Maecenas faucibus mollis interdum. Curabitur blandit tempus porttitor. Donec ullamcorper nulla non metus auctor fringilla. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Nullam quis risus eget urna mollis ornare vel eu leo.
+
+  - id: new-york
+    title: Lower East Side and Beyond
+    content: Donec ullamcorper nulla non metus auctor fringilla. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Nullam quis risus eget urna mollis ornare vel eu leo. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Maecenas faucibus mollis interdum. Curabitur blandit tempus porttitor.
+
+  - id: nikon
+    title: Capture your Journey
+    content: Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Aenean lacinia bibendum nulla sed consectetur. Vestibulum id ligula porta felis euismod semper. Donec ullamcorper nulla non metus auctor fringilla. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Nullam quis risus eget urna mollis ornare vel eu leo. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Maecenas faucibus mollis interdum.
+
+---
+
+
+
+<div class="bg--grey-darker">
+  <div class="container container--xxl vpad--xxl text--center">
+    {{page.intro}}
+  </div>
+</div>
+
+
+
+<div class="container container--100 container--no-padding row row--4-4-4 row--no-gutters">
+  <div class="col bg-img bg-img--4-3" style="background-image: url({{site.img}}/img.jpg);"></div>
+  <div class="col bg-img bg-img--4-3" style="background-image: url({{site.img}}/img.jpg);"></div>
+  <div class="col bg-img bg-img--4-3" style="background-image: url({{site.img}}/img.jpg);"></div>
+</div>
+
+
+
+<div class="container">
+  {% for prize in page.prizes %}
+  <div class="row row--gutters row--valign-center vpad--lg{% cycle ""," row--reverse" %}">
+    <div class="col col--5">
+      <div class="bg-img bg-img--4-3" style="background-image: url({{site.img}}/img.jpg);"></div>
+    </div>
+    <div class="col col--7">
+      <h3 class="title title--sm">{{prize.title}}</h3>
+      <p class="text--lg">{{prize.content}}</p>
+    </div>
+  </div>
+  {% endfor %}
+</div>
+
+
+
+<div class="container container--xxl text--center vpad--xxl">
+  <div class="wp" id="enter"></div>
+  <h3 class="title title--sm">Enter below...</h3>
+</div>
+
+

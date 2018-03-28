@@ -138,7 +138,7 @@ $modaltransition-distance: 4em;
 .modal-photo {
   padding: $icon-size-sm 0;
   @include bp($lg){
-    padding: $icon-size 0;
+    padding: $icon-size 0 14em;
   }
   &__img {
     position: relative;
@@ -167,6 +167,19 @@ $modaltransition-distance: 4em;
           margin: auto;
         }
       }
+    }
+  }
+
+  &__content {
+    background-color: rgba($grey-darkest,0.8);
+    border-top: 5px solid $n-yellow;
+    padding: $s2 $s4;
+    @include bp($lg){
+      position: fixed;
+      bottom: 0;
+      left: 8em;
+      width: $xl;
+      padding: $s4 $s6;
     }
   }
 }

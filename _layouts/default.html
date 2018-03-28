@@ -9,14 +9,22 @@
 
     {% include page/header.html %}
 
-    {% include page/banner.html %}
+    {% if page.id == 'overview' %}
+      {% include banner/carousel.html %}
+    {% elsif page.layout == 'journey' %}
+      {% include banner/journey.html %}
+    {% elsif page.layout == 'guide' %}
+      {% include banner/guide.html %}
+    {% else %}
+      {% include banner/default.html %}
+    {% endif %}
 
     <div class="content-spacing section-spacing">
       {{ content }}
     </div>
 
     {% include page/footer.html %}
-    
+
     {% include modal/modal.html %}
 
   </body>

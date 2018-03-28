@@ -4,8 +4,32 @@
     <img src="{{site.img}}/content/{{item.page}}/photos/{{item.id}}.jpg" alt="{{item.title}}">
   </div>
 
-  <div class="modal-photo__title text--white">
-    <h3 class="title title--xxs">{{item.title}}</h3>
+  <div class="modal-photo__content text--white vpad--lg accordion__trigger" data-accordion-id="{{item.id}}-accordion">
+    <h3 class="title title--lg text--bold">{{item.title}}</h3>
+    <div class="space--xs"></div>
+    <p class="title title--xxs">By <span class="text--bold">{{item.photographer}}</span></p>
+    <div class="space--sm"></div>
+
+    <div class="accordion accordion--open" id="{{item.id}}-accordion">
+      <p>{{item.content}}</p>
+      <hr>
+      <h5 class="title title--xxs">Shot on a <span class="text--bold">{{item.camera}}</span></h5>
+      <div class="row">
+        <div class="col col--6">
+          <ul class="list--lined">
+            <li>Lens: {{item.lens}}</li>
+            <li>Aperture: {{item.aperture}}</li>
+          </ul>
+        </div>
+        <div class="col col--6">
+          <ul class="list--lined">
+            <li>Shutter Speed: {{item.shutterspeed}}</li>
+            <li>Focal Length: {{item.focallength}}</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+
   </div>
 
 </div>

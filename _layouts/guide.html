@@ -1,0 +1,74 @@
+---
+layout: default
+---
+
+
+
+<div class="bg--grey-darker">
+  <div class="container vpad--xxl text--center">
+    {{page.intro.long}}
+  </div>
+</div>
+
+
+
+<div class="container vpad--xxl">
+
+  {% for section in page.features %}
+    <div class="bob{% cycle ""," bob--swap" %}">
+
+      <div class="bob__img">
+        <div class="bg-img bg-img--16-9" style="background-image:url({{site.img}}/content/{{page.group-parent}}/pois/{{section.id}}.jpg);"></div>
+      </div>
+
+      <div class="bob__text">
+        <h3 class="title title--md text--bold">{{section.title}}</h3>
+        {{section.content}}
+      </div>
+    </div>
+  {% endfor %}
+
+</div>
+
+
+
+{% for section in page.sections %}
+<div class="bg--grey-darker vpad--xxl">
+
+  <div class="container">
+    <h3 class="title title--xxl text--bold">{{section.title}}</h3>
+    <div class="space--sm"></div>
+    {{section.content}}
+  </div>
+
+  <div class="container">
+    <div class="row row--4-4-4 row--gutters">
+      {% for poi in section.pois %}
+      <div class="col">
+        <div class="bg-img bg-img--16-9" style="background-image:url({{site.img}}/content/{{page.group-parent}}/pois/{{poi.id}}.jpg);"></div>
+        <div class="space--sm"></div>
+        <h5 class="title title--xxs text--bold">{{poi.title}}</h5>
+        <p>{{poi.content}}</p>
+        <div class="space--md"></div>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+
+</div>
+{% endfor %}
+
+
+
+<div class="bg--grey-darker">
+  <div class="container text--center">
+    <h3 class="title title--lg text--bold">Get inspired by our journey</h3>
+    <div class="space--lg"></div>
+    <a href="{{site.baseurl}}/{{page.group-parent}}/journey" class="btn btn--solid btn--lg">Discover the journey</a>
+    <div class="space--xxl"></div>
+  </div>
+</div>
+
+
+
+{% include page/promo-competition.html %}

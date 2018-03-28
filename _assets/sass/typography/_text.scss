@@ -10,6 +10,7 @@
   // styles
   &--italic       { font-style: italic; }
   &--light        { font-weight: 200; }
+  &--normal       { font-weight: 400; }
   &--bold         { font-weight: 600; }
   &--bolder       { font-weight: 800; }
   &--wide-kern    { letter-spacing: .15em; }
@@ -19,6 +20,10 @@
   // colours
   &--white { color: $grey-lightest; }
   &--black { color: $grey-dark; }
+  &--default {
+    color: $grey;
+    & .title { color: $grey-dark; }
+  }
 
   // alignment
   &--left   { text-align: left; }

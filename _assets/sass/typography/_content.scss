@@ -15,6 +15,9 @@ a[href]:not([class]) {
   &:hover { color: $orange-darker; }
 }
 
+
+
+// lists
 li {
   list-style-position:
   outside; margin-left: $s1;
@@ -22,9 +25,25 @@ li {
 ul li   { list-style-type: disc; }
 ol li   { list-style-type: decimal; }
 
+.list--lined {
+  padding: $s0 0;
+  & li {
+    list-style: none;
+    margin-left: 0;
+    padding: $s0 0;
+    border-bottom: 1px solid rgba($white,0.2);
+    &:first-child { border-top: 1px solid rgba($white,0.2); }
+  }
+}
+
+
+// hr
 hr {
   border: 0;
   height: 1px;
-  background-color: $grey-lightest;
+  background-color: rgba($white,0.2);
   margin: $s1 0;
 }
+.text--black hr    { background-color: rgba($grey-darkest,0.2); }
+.text--default hr { background-color: rgba($grey-darkest,0.2); }
+.text--white hr   { background-color: rgba($white,0.2); }
