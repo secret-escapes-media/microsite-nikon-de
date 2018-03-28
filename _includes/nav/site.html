@@ -18,8 +18,10 @@
             {% endif %}
           </a>
 
+          {% if nav-page.group-nav %}
           {% if nav-page.group and include.theme != "footer" %}
             {% include nav/site-group.html group-id=nav-page.id %}
+          {% endif %}
           {% endif %}
 
         </span>{% endfor %}

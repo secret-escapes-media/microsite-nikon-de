@@ -44,16 +44,69 @@ $('.js-toggle-mobile-nav').on('click', function(e) {
 
 
 ///////////////////////////////////////
-//   query string searcher
+//        GET QUERY STRING VALUE
+//-------------------------------------
+//        ?modal=video
+//        var queryValue = queryString('modal');
+//        queryValue = "video"
 ///////////////////////////////////////
 
-// searches for specific queryString, returns value or true if empty value
-function getQueryStringByName(name, url) {
-  if (!url) url = window.location.href;
-  name = name.replace(/[\[\]]/g, "\\$&");
-  var regex = new RegExp("[?&]" + name + "(=([^&#]*)|&|#|$)"),
-      results = regex.exec(url);
-  if (!results) return null;
-  if (!results[2]) return true;
-  return decodeURIComponent(results[2].replace(/\+/g, " "));
+
+function queryString(sParam){
+  var sPageURL = window.location.search.substring(1);
+  var sURLVariables = sPageURL.split("&");
+  for (var i = 0; i < sURLVariables.length; i++){
+    var sParameterName = sURLVariables[i].split("=");
+    if (sParameterName[0] == sParam){
+      return sParameterName[1];
+    }
+  }
+}
+
+
+
+
+
+// =========================================
+//  ACCORDION
+// =========================================
+
+
+function accordion(trigger,target){
+  var accordion = $('.accordion');
+  var targetAccordion = $('#' + target);
+
+  if(targetAccordion.hasClass('accordion--open')){
+    trigger.removeClass('accordion--triggered');
+    targetAccordion.slideUp().removeClass('accordion--open').addClass('accordion--closed');
+  }else{
+    $('.accordion__trigger.accordion--triggered').removeClass('accordion--triggered');
+    trigger.addClass('accordion--triggered');
+    accordion.slideUp().removeClass('accordion--open').addClass('accordion--closed');
+    targetAccordion.slideDown().removeClass('accordion--closed').addClass('accordion--open');
+  }
+}
+
+
+$('.accordion--closed').each(function(){
+  $(this).hide();
+});
+
+$('.accordion__trigger').click(function(event){
+  var trigger = $(this);
+  var target = $(this).attr('data-target');
+
+  accordion(trigger,target);
+});
+
+
+function accordionReset(){
+  var trigger = $('.modal__content__text-btn.accordion--triggered');
+  var accordion = $('.modal__content__text-content.accordion--closed');
+  accordion.each(function(){
+    $(this).slideDown(0).removeClass('accordion--closed').addClass('accordion--open');
+  });
+  trigger.each(function(){
+    $(this).removeClass('accordion--triggered');
+  });
 }

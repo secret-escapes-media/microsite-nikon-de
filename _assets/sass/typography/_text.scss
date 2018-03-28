@@ -10,10 +10,10 @@
   // styles
   &--italic       { font-style: italic; }
   &--light        { font-weight: 200; }
-  &--bold         { font-style: bold; }
-  &--bolder       { font-style: bolder; }
-  &--wide-kern    { letter-spacing: .25em; }
-  &--wide-kern-lg { letter-spacing: .5em; }
+  &--bold         { font-weight: 600; }
+  &--bolder       { font-weight: 800; }
+  &--wide-kern    { letter-spacing: .15em; }
+  &--wide-kern-lg { letter-spacing: .3em; }
   &--upper        { text-transform: uppercase; }
 
   // colours

@@ -47,14 +47,20 @@
   }
   &__nav {
     // optional container for navigation include
-    position: absolute;
-    right: 0;
-    left: 0;
-    bottom: 0;
-    z-index: $z-nav;
-    &--top {
+    & .site-nav {
+      position: absolute;
+      right: 0;
+      left: 0;
+      bottom: 0;
+      z-index: $z-nav;
+    }
+    &--top .site-nav {
       top: 0;
       bottom: auto;
+    }
+    &--bottom .site-nav {
+      bottom: 0;
+      top: auto;
     }
   }
 }

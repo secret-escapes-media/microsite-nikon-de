@@ -1,0 +1,44 @@
+---
+layout: default
+---
+{% assign page-photos = site.data[page.group-parent] %}
+
+
+<div class="bg--grey-darker">
+  <div class="container vpad--xxl text--center">
+    {{page.intro.long}}
+    <a href="javascript:void(0);" data-modal-item="{{page-photos[0].id}}" data-modal-group="page" class="js-open-modal btn btn--solid">View gallery</a>
+  </div>
+</div>
+
+
+{% for section in page.sections %}
+<div class="container vpad--xxl">
+
+  <h2 class="title title--xxl">{{section.title}}</h2>
+  {{section.intro}}
+  <div class="space--xxl"></div>
+
+  <!-- Looping through section photos -->
+  {% for photo in section.photos %}
+    {% assign photo-data = page-photos | where: "id", photo.id %}
+    {% for photo in photo-data %}
+
+      <div class="bob{% cycle ""," bob--swap" %}">
+        <div class="bob__img">
+          <a href="javascript:void(0);" data-modal-item="{{photo.id}}" data-modal-group="section" class="js-open-modal bg-img bg-img--3-2" style="background-image:url({{site.img}}/content/{{page.group-parent}}/photos/{{photo.id}}.jpg);"></a>
+        </div>
+
+        <div class="bob__text">
+          <h4 class="title title--md">{{photo.title}}</h4>
+          <p class="title text--wide-kern text--upper">Captured by <span class="text--bold">{{photo.photographer}}</span></p>
+          <p class="text--lg">{{photo.content}}</p>
+        </div>
+      </div>
+
+    {% endfor %}
+  {% endfor %}
+
+</div>
+{% endfor %}
+

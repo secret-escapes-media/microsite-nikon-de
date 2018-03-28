@@ -35,4 +35,7 @@
       background-color: $orange;
     }
   }
+  &--solid { background-color: $n-yellow; color: $grey-darkest;
+    &:hover { background-color: darken($n-yellow,5); }
+  }
 }

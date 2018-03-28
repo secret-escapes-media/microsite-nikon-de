@@ -2,7 +2,38 @@
 layout: default
 ---
 
-<div class="container vpad--xxl text--center">
-  <h1 class="title title--lg">{{page.title}}</h1>
-  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sint odit aliquam reprehenderit magni eius, esse quisquam minima inventore, adipisci excepturi. Quibusdam sequi eum labore vitae recusandae aliquam commodi, consectetur itaque.</p>
+
+
+<div class="bg--grey-darker">
+  <div class="container vpad--xxl text--center">
+    {{page.intro.long}}
+  </div>
 </div>
+
+
+
+{% assign group-id = page.id %}
+{% assign group-pages = site.html_pages | where: 'group-parent', group-id | sort: 'group-order' %}
+
+<div class="container-100 vpad--xxl">
+  <div class="container">
+    {% for group-page in group-pages %}
+    <div class="bob{% cycle ""," bob--swap" %}">
+      <div class="bob__img">
+        <a href="{{site.baseurl}}{{group-page.url}}">
+          <div class="bg-img bg-img--3-2" style="background-image: url('{{site.img}}/img.jpg');"></div>
+        </a>
+      </div>
+      <div class="bob__text">
+        <p class="text--lg">{{group-page.intro.parent}}</p>
+        <div class="space--md"></div>
+        <a href="{{site.baseurl}}{{group-page.url}}" class="btn btn--solid">Read more</a>
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+</div>
+
+
+
+{% include page/promo-competition.html %}
