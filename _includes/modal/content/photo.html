@@ -1,27 +1,36 @@
 <div class="container container--100 container--no-padding modal-photo">
 
+
+
   <div class="modal-photo__img modal-photo__img--{{item.orientation}}">
     <img src="{{site.img}}/content/{{item.page}}/photos/{{item.id}}.jpg" alt="{{item.title}}">
   </div>
 
-  <div class="modal-photo__content text--white vpad--lg accordion__trigger" data-accordion-id="{{item.id}}-accordion">
-    <h3 class="title title--lg text--bold">{{item.title}}</h3>
+
+
+  <div class="modal-photo__content text--white vpad--l">
+
+    <div class="modal-photo__content-toggle accordion__trigger accordion--open" data-accordion-id="{{item.id}}-accordion">
+      <img src="{{site.img}}/icons/arrow-down-dark.svg">
+    </div>
+
+    <h3 class="title title--sm text--bold">{{item.title}}</h3>
     <div class="space--xs"></div>
-    <p class="title title--xxs">By <span class="text--bold">{{item.photographer}}</span></p>
+    <p class="title title--xxxs">By <span class="text--bold">{{item.photographer}}</span></p>
     <div class="space--sm"></div>
 
     <div class="accordion accordion--open" id="{{item.id}}-accordion">
       <p>{{item.content}}</p>
       <hr>
-      <h5 class="title title--xxs">Shot on a <span class="text--bold">{{item.camera}}</span></h5>
-      <div class="row">
-        <div class="col col--6">
+      <h5 class="title title--xxxs">Shot on a <span class="text--bold">{{item.camera}}</span></h5>
+      <div class="row row--6-6 row--constant-6-6">
+        <div class="col">
           <ul class="list--lined">
             <li>Lens: {{item.lens}}</li>
             <li>Aperture: {{item.aperture}}</li>
           </ul>
         </div>
-        <div class="col col--6">
+        <div class="col">
           <ul class="list--lined">
             <li>Shutter Speed: {{item.shutterspeed}}</li>
             <li>Focal Length: {{item.focallength}}</li>
@@ -29,7 +38,8 @@
         </div>
       </div>
     </div>
-
   </div>
+
+
 
 </div>

@@ -16,7 +16,7 @@
   }
   &__wrap {
     position: relative;
-    z-index: $z-content-upper;
+    z-index: $z-overlay;
     display: flex;
     width: 100%;
     flex-grow: 1;
@@ -52,6 +52,18 @@
       top: auto;
     }
   }
+  &__overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    @include background-attributes;
+    background-image: url('../img/banner/components/vignette.png');
+    background-color: rgba($grey-darkest,0.2);
+    z-index: $z-content-upper;
+    pointer-events: none;
+  }
 }
 
 // BANNER ARTICLE - For journey and guide pages
@@ -72,7 +84,27 @@
       padding: $s4;
       display: flex;
       align-items: center;
+      text-align: right;
     }
+  }
+}
+
+
+// BANNER CAROUSEL
+.banner--carousel {
+  text-align: center;
+  min-height: 90%;
+  .banner {
+    &__wrap { pointer-events: none; }
+    &__slide {
+      transition: all 8000ms cubic-bezier(0,0,1,1);
+      @include background-attributes();
+      background-size: auto 100%;
+      background-position: center;
+    }
+  }
+  .owl-item.active .banner__slide {
+    background-size: auto 115%;
   }
 }
 

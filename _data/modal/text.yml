@@ -1,11 +1,10 @@
 
 
 
-
-- id: photographer-eleanor
+- id: eleanor-cording-booth
   title: Eleanor Cording-Booth
-  subtitle: >
-    UK Managing Editor | londontravelgirl
+  job: UK Managing Editor
+  instagram: londontravelgirl
   content: >
     <p class="text--lg">This is Eleanor, the Managing Editor for Secret Escapes. She loves travelling and documenting her adventures, but is ready to take her photos to the next level with a Nikon D-SLR. She joined Craig to explore Iceland and learn how to capture great snapshots of this enchanting land.</p>
   section: photographers
@@ -14,13 +13,63 @@
 
 
 
-- id: photographer-craig
+- id: craig-howes
   title: Craig Howes
-  subtitle: >
-    Professional Photographer | craighowes
+  job: Professional Photographer
+  instagram: craighowes
   content: >
     <p class="text--lg">Craig has travelled all over the world and his inspiring panoramic images have made him one of the most-followed travel photographers around. Craig has previously filmed in Iceland so has inside knowledge on the best spots to capture those awe inspiring shots.</p>
   section: photographers
   pages:
     - id: iceland-journey
+
+
+
+- id: louis-adams
+  title: Louis Adams
+  job: Supply Manager
+  instagram: louisoadams
+  content: >
+    <p class="text--lg">This is Louis, Supply Planning Manager at Secret Escapes. He’d never used a D-SLR before this trip and always found himself frustrated at not being able to take better photos when away on his travels. To learn the art of great travel photography, he set off with Ross to explore the incredibly diverse country of Morocco.</p>
+  section: photographers
+  pages:
+    - id: morocco-journey
+
+
+
+- id: ross-walker
+  title: Ross Walker
+  job: Professional Photographer
+  instagram: rosscarmaltwalker
+  content: >
+    <p class="text--lg">Ross Walker is a passionate photographer with a love of travel. He has travelled the world exploring incredible destinations, always looking to meet locals and capture their lives with his camera. His ambition is to immerse his audience into the myriad of cultures he explores.</p>
+  section: photographers
+  pages:
+    - id: morocco-journey
+
+
+
+- id: marianna-sgherri
+  title: Marianna Sgherri
+  job: Italian Managing Editor
+  instagram: mariannasgherri
+  content: >
+    <p class="text--lg">Marianna is the Managing Editor for Italy at Secret Escapes. She has a passion for storytelling, documenting her travels around the world through social media and blogs. To complement her stories, she was keen to learn more about D-SLR photography on a trip to iconic New York.</p>
+  section: photographers
+  pages:
+    - id: new-york-journey
+
+
+
+- id: victoria-campbell
+  title: Victoria Campbell
+  job: Professional Photographer
+  instagram: vicsjcampbell
+  content: >
+    <p class="text--lg">Victoria is a British native currently living in Minnesota, USA. Vic began photographing at age 16 with her step-dad's 35mm Nikon film camera. When Vic isn’t photographing the North Shore of Minnesota, she can be found in different international locations capturing anything from rugged landscapes to the bustle of city life.</p>
+  section: photographers
+  pages:
+    - id: new-york-journey
+
+
 

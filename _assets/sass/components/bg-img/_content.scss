@@ -4,6 +4,10 @@
   // Vertically centered content in bg-image
   background-color: $grey-dark;
   @include transition;
+  &--bgzoom {
+    background-size: 100% auto;
+    &:hover { background-size: 105% auto; }
+  }
   &__link {
     position: absolute;
     top: 0;
@@ -40,8 +44,8 @@
   &:hover &__bg-overlay { background-color: rgba($black,.6); }
 
   &__play {
-    $play-button-width-sm: 110px;
-    $play-button-width: 180px;
+    $play-button-width-sm: 120px;
+    $play-button-width: 160px;
     width: $play-button-width-sm;
     height: $play-button-width-sm;
     display: block;
@@ -62,10 +66,38 @@
       margin-left: -$play-button-width/2;
     }
   }
-
   &--zoom {
     @include transition();
     transform: scale(1);
   }
   &:hover &--zoom { transform: scale(1.1); }
+
+  $expand-size-sm: 3.2em;
+  $expand-size:    4em;
+  &__expand {
+    @include transition();
+    height: $expand-size-sm;
+    width: $expand-size-sm;
+    background-size: $expand-size-sm*0.7;
+    background-image: url(../img/icons/icon-expand.png);
+    background-color: rgba($grey-darkest,0.6);
+    background-position: center;
+    background-repeat: no-repeat;
+    position: absolute;
+    left: 0;
+    top: 0;
+    z-index: $z-content-upper;
+    @include bp($lg){
+      height: $expand-size;
+      width: $expand-size;
+    }
+  }
+  &:hover &__expand {
+    background-color: rgba($grey-darkest,0.8);
+    background-size: $expand-size-sm*0.8;
+  }
+
+  // modifiers
+  &--shadow { box-shadow: 0px 0px 30px 0px rgba($grey-darkest,0.8); }
+  &--rounded { border-radius: 4px; }
 }

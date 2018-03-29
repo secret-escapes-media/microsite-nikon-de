@@ -12,5 +12,18 @@
     {% endif %}
   </div>
   {% include nav/site.html %}
-  <div class="banner__bg" style="background-image: url('{{site.img}}/banner/{{page.id}}.jpg')"></div>
+
+  <div class="banner__bg">
+    <div class="banner__overlay"></div>
+    <div class="carousel owl-carousel" id="banner-carousel">
+      <div class="banner__slide" style="background-image: url('{{site.img}}/banner/{{page.id}}/01.jpg');"></div>
+      <div class="banner__slide" style="background-image: url('{{site.img}}/banner/{{page.id}}/02.jpg');"></div>
+      <div class="banner__slide" style="background-image: url('{{site.img}}/banner/{{page.id}}/03.jpg');"></div>
+    </div>
+    <div class="carousel-nav">
+      <div class="carousel-navitem carousel-navitem-next" id="owl-carousel-next"></div>
+      <div class="carousel-navitem carousel-navitem-prev" id="owl-carousel-prev"></div>
+    </div>
+  </div>
+
 </div>

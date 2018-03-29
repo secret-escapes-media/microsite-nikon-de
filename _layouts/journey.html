@@ -6,12 +6,13 @@ layout: default
 
 
 <!-- VIDEO SECTION -->
-<div class="section">
+<div class="section bg--fixed journey__video-section" style="background-image: url({{site.img}}/content/{{page.group-parent}}/video-bg.jpg);">
   <div class="container container--xxl vpad--xxl text--center">
-    <a href="javascript:void(0);" data-modal-item="{{page.group-parent}}-video" class="js-open-modal bg-img bg-img--16-9" style="background-image: url({{site.img}}/content/{{page.group-parent}}/video.jpg);">
+    <a href="javascript:void(0);" data-modal-item="{{page.group-parent}}-video" class="js-open-modal journey__video bg-img bg-img--16-9" style="background-image: url({{site.img}}/content/{{page.group-parent}}/video.jpg);">
       <span class="bg-img__play bg-img--zoom"></span>
     </a>
   </div>
+  <div class="journey__video-fade"></div>
 </div>
 
 
@@ -33,25 +34,34 @@ layout: default
     {% for photo in photo-data %}
 
       {% if photo.orientation == 'portrait' %}
-      <div class="container container--xxl">
+      <div class="container container--xxl journey__photo">
       {% else %}
-      <div class="container">
+      <div class="container journey__photo">
       {% endif %}
 
         <div class="row row--valign-center row--gutters-lg{% cycle ""," row--reverse" %}">
 
-          <div class="col col--7">
+          <div class="col col--7 journey__photo-image">
             {% if photo.orientation == 'portrait' %}
-              <a href="javascript:void(0);" data-modal-item="{{photo.id}}" data-modal-group="section" class="js-open-modal bg-img bg-img--2-3" style="background-image:url({{site.img}}/content/{{page.group-parent}}/photos/{{photo.id}}.jpg);"></a>
+              <a href="javascript:void(0);" data-modal-item="{{photo.id}}" data-modal-group="section" class="js-open-modal bg-img bg-img--2-3" style="background-image:url({{site.img}}/content/{{page.group-parent}}/photos/{{photo.id}}.jpg);">
+                <span class="bg-img__expand"></span>
+              </a>
             {% else %}
-              <a href="javascript:void(0);" data-modal-item="{{photo.id}}" data-modal-group="section" class="js-open-modal bg-img bg-img--16-9" style="background-image:url({{site.img}}/content/{{page.group-parent}}/photos/{{photo.id}}.jpg);"></a>
+              <a href="javascript:void(0);" data-modal-item="{{photo.id}}" data-modal-group="section" class="js-open-modal bg-img bg-img--16-9" style="background-image:url({{site.img}}/content/{{page.group-parent}}/photos/{{photo.id}}.jpg);">
+                <span class="bg-img__expand"></span>
+              </a>
             {% endif %}
           </div>
 
-          <div class="col col--5">
+          <div class="col col--5 journey__photo-text">
             <h4 class="title title--md text--bold">{{photo.title}}</h4>
             <p class="title title--xxxs">By <span class="text--bold">{{photo.photographer}}</span></p>
             <p>{{photo.content}}</p>
+            {% if photo.coordinates %}
+              <div class="space--md"></div>
+              <a class="bg-img bg-img--16-9 journey__photo-map bg-img--bgzoom" href="https://www.google.co.uk/maps/place/@{{photo.coordinates}},20z/" target="_blank" style="background-image: url({{site.img}}/content/{{page.group-parent}}/map/{{photo.id}}.jpg);"></a>
+            {% endif %}
+
           </div>
 
         </div>
@@ -61,6 +71,34 @@ layout: default
   {% endfor %}
 
 {% endfor %}
+
+
+
+<!-- CONCLUSION -->
+<div class="container vpad--xxl">
+  <div class="row row--6-6 row--gutters">
+
+    <div class="col">
+      <h2 class="title title--xxl text--bold">Conclusion</h2>
+      {{page.conclusion.content}}
+    </div>
+
+    <div class="col">
+      <h5 class="title title--xxxs text--bold text--upper text--wide-kern">Final tips from {{page.conclusion.expert}}</h5>
+      {{page.conclusion.expert-tips}}
+    </div>
+
+  </div>
+</div>
+
+
+
+<div class="container text--center">
+  <h3 class="title title--lg text--bold">Now plan your trip with our guide to {{page.group-parent|capitalize}}</h3>
+  <div class="space--lg"></div>
+  <a href="{{site.baseurl}}/{{page.group-parent}}/journey" class="btn btn--solid btn--lg">Discover the journey</a>
+  <div class="space--xxl"></div>
+</div>
 
 
 

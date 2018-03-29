@@ -1,7 +1,5 @@
-<!-- standard microsite navigation -->
-<!-- has a modifier for footer theme, which changes the colour and removes the group nav -->
 
-<!-- pages that appear in the site navigation -->
+
 {% assign nav-pages = site.html_pages | where: 'nav', 'true' | sort: 'nav-order' %}
 
 <div class="site-nav {% if include.theme == "footer" %} site-nav--footer{% endif %}">

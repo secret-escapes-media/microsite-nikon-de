@@ -9,7 +9,7 @@
         <h1 class="title title--xxl text--bold">{{page.page-title}}</h1>
         <hr>
         {% for photographer in page.photographers %}
-          <a href="javascript:void(0);" data-modal-item="photographer-eleanor" data-modal-group="photographers" class="js-open-modal title"><span class="title--xxs text--bold">{{photographer.title}}</span> {{photographer.position}}</a>
+          <a href="javascript:void(0);" data-modal-item="{{photographer.title|slugify}}" data-modal-group="section" class="js-open-modal title"><span class="title--xxs text--bold">{{photographer.title}}</span> {{photographer.position}}</a>
           <hr>
         {% endfor %}
       </div>

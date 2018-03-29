@@ -22,6 +22,8 @@
               <div class="modal__content">
                 {% if item.photographer %}
                   {% include modal/content/photo.html %}
+                {% elsif item.job %}
+                  {% include modal/content/profile.html %}
                 {% elsif item.youtube-id %}
                   {% include modal/content/video.html %}
                 {% else %}

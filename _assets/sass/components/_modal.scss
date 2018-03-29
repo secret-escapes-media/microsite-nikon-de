@@ -177,9 +177,55 @@ $modaltransition-distance: 4em;
     @include bp($lg){
       position: fixed;
       bottom: 0;
-      left: 8em;
-      width: $xl;
+      left: 4em;
+      right: 4em;
       padding: $s4 $s6;
+    }
+    @include bp($xxl){
+      left: 8em;
+      right: auto;
+      width: $xl;
+    }
+  }
+  &__content-toggle {
+    background-color: $n-yellow;
+    padding: 1em;
+    position: absolute;
+    left: 0;
+    top: -$icon-size-sm;
+    width: $icon-size-sm;
+    height: $icon-size-sm;
+    @include bp($lg){
+      top: -$icon-size;
+      width: $icon-size;
+      height: $icon-size;
+    }
+    & img {
+      @include transition();
+      transform: rotate(180deg);
+    }
+    &.accordion--open img { transform: rotate(0deg); }
+  }
+}
+
+// SPECIFIC MODIFIERS FOR PROFILE MODAL
+.modal-profile {
+  margin: $icon-size-sm auto;
+  @include bp($lg){
+    margin: $icon-size auto;
+  }
+  &__image {
+    position: relative;
+  }
+  &__picture {
+    $profile-picture-sm: 120px;
+    $profile-picture:    160px;
+    position: absolute;
+    bottom: -1.5em;
+    left: 3em;
+    width: $profile-picture-sm;
+    @include bp($lg){
+      width: $profile-picture;
     }
   }
 }

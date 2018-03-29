@@ -77,11 +77,11 @@ function accordion(trigger,target){
   var targetAccordion = $('#' + target);
 
   if(targetAccordion.hasClass('accordion--open')){
-    trigger.removeClass('accordion--triggered');
+    trigger.removeClass('accordion--open');
     targetAccordion.slideUp().removeClass('accordion--open').addClass('accordion--closed');
   }else{
-    $('.accordion__trigger.accordion--triggered').removeClass('accordion--triggered');
-    trigger.addClass('accordion--triggered');
+    $('.accordion__trigger.accordion--open').removeClass('accordion--open');
+    trigger.addClass('accordion--open');
     targetAccordion.slideDown().removeClass('accordion--closed').addClass('accordion--open');
   }
 }
@@ -94,18 +94,6 @@ $('.accordion--closed').each(function(){
 $('.accordion__trigger').click(function(event){
   var trigger = $(this);
   var target = $(this).attr('data-accordion-id');
-
   accordion(trigger,target);
 });
 
-
-function accordionReset(){
-  var trigger = $('.modal__content__text-btn.accordion--triggered');
-  var accordion = $('.modal__content__text-content.accordion--closed');
-  accordion.each(function(){
-    $(this).slideDown(0).removeClass('accordion--closed').addClass('accordion--open');
-  });
-  trigger.each(function(){
-    $(this).removeClass('accordion--triggered');
-  });
-}
