@@ -10,7 +10,7 @@
   &--grey-darker { background-color: $grey-darker; }
   &--grey-darkest { background-color: $grey-darkest; }
   // images
-  &--fixed { background-attachment: fixed; }
+  &--fixed { background-attachment: fixed; background-size: cover; }
 }
 
 
@@ -37,6 +37,33 @@
   &__photo-text {}
   &__photo-map {
     width: 480px;
+  }
+  // Conclusion section
+  &__conclusion {
+    &-expert {
+      position: relative;
+      padding: $s4;
+      &:before,
+      &:after {
+        content: "";
+        position: absolute;
+        height: 30px;
+        width: 30px;
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+      }
+      &:before {
+        top: 0;
+        left: 0;
+        background-image: url('../img/icons/frame-tl.svg');
+      }
+      &:after {
+        bottom: 0;
+        right: 0;
+        background-image: url('../img/icons/frame-br.svg');
+      }
+    }
   }
 }
 

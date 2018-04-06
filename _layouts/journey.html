@@ -7,8 +7,9 @@ layout: default
 
 <!-- VIDEO SECTION -->
 <div class="section bg--fixed journey__video-section" style="background-image: url({{site.img}}/content/{{page.group-parent}}/video-bg.jpg);">
+  <div class="wp" id="journey"></div>
   <div class="container container--xxl vpad--xxl text--center">
-    <a href="javascript:void(0);" data-modal-item="{{page.group-parent}}-video" class="js-open-modal journey__video bg-img bg-img--16-9" style="background-image: url({{site.img}}/content/{{page.group-parent}}/video.jpg);">
+    <a href="javascript:void(0);" data-modal-item="{{page.group-parent}}-video" class="js-open-modal journey__video bg-img bg-img--16-9 bg-img--rounded" style="background-image: url({{site.img}}/content/{{page.group-parent}}/video.jpg);">
       <span class="bg-img__play bg-img--zoom"></span>
     </a>
   </div>
@@ -83,7 +84,7 @@ layout: default
       {{page.conclusion.content}}
     </div>
 
-    <div class="col">
+    <div class="col journey__conclusion-expert">
       <h5 class="title title--xxxs text--bold text--upper text--wide-kern">Final tips from {{page.conclusion.expert}}</h5>
       {{page.conclusion.expert-tips}}
     </div>
@@ -93,11 +94,12 @@ layout: default
 
 
 
-<div class="container text--center">
-  <h3 class="title title--lg text--bold">Now plan your trip with our guide to {{page.group-parent|capitalize}}</h3>
-  <div class="space--lg"></div>
-  <a href="{{site.baseurl}}/{{page.group-parent}}/journey" class="btn btn--solid btn--lg">Discover the journey</a>
-  <div class="space--xxl"></div>
+<div class="container container--100 vpad--xxxl bg--grey-darker text--center">
+  <div class="container">
+    <h3 class="title title--md text--bold">Now start planning your trip with our guide to {{page.group-parent|capitalize}}</h3>
+    <div class="space--lg"></div>
+    <a href="{{site.baseurl}}/{{page.group-parent}}/guide" class="btn btn--solid btn--lg">View the guide</a>
+  </div>
 </div>
 
 

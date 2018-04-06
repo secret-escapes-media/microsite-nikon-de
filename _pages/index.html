@@ -6,6 +6,8 @@ nav-order: 1
 title: Overview
 
 banner:
+  title-sup: >
+    <div class="banner__logo banner__logo--nikon"></div>
   title: Capture the Journey
 
 intro: >
@@ -25,9 +27,9 @@ intro: >
 
 
 {% assign destinations = site.html_pages | where: 'layout','group' | sort:'nav-order' %}
-<div class="container vpad--xxl">
-
-  {% for destination in destinations %}
+{% for destination in destinations %}
+<div class="container container--100 vpad--xxl bg--fixed" style="background-image:url({{site.img}}/content/{{page.id}}/{{destination.id}}-bg.png);">
+  <div class="container">
     <div class="bob{% cycle "", " bob--swap" %}">
 
       <div class="bob__img">
@@ -53,17 +55,17 @@ intro: >
       </div>
 
       <div class="bob__text">
-        <h3 class="title title--lg text--upper text--wide-kern">{{destination.title}}</h3>
+        <h3 class="title title--xl text--normal">{{destination.title}}</h3>
         <p class="text--lg">{{destination.intro.parent}}</p>
         <div class="space--md"></div>
         <a href="{{site.baseurl}}{{destination.url}}" class="btn btn--solid">Read more</a>
       </div>
 
     </div>
-    {% unless forloop.last %}<div class="space--xxxl"></div>{% endunless %}
-  {% endfor %}
-
+  </div>
 </div>
+{% endfor %}
+
 
 
 
