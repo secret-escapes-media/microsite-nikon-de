@@ -5,6 +5,7 @@ layout: default
 
 
 <div class="bg--grey-darker">
+  <div class="wp" id="guide"></div>
   <div class="container vpad--xxl text--center">
     {{page.intro.long}}
   </div>
@@ -18,7 +19,7 @@ layout: default
     <div class="bob{% cycle ""," bob--swap" %}">
 
       <div class="bob__img">
-        <div class="bg-img bg-img--16-9" style="background-image:url({{site.img}}/content/{{page.group-parent}}/pois/{{section.id}}.jpg);"></div>
+        <div class="bg-img bg-img--16-9" style="background-image:url({{site.img}}/content/{{page.id}}/{{section.id}}.jpg);"></div>
       </div>
 
       <div class="bob__text">
@@ -45,7 +46,7 @@ layout: default
     <div class="row row--4-4-4 row--gutters">
       {% for poi in section.pois %}
       <div class="col">
-        <div class="bg-img bg-img--16-9" style="background-image:url({{site.img}}/content/{{page.group-parent}}/pois/{{poi.id}}.jpg);"></div>
+        <div class="bg-img bg-img--16-9" style="background-image:url({{site.img}}/content/{{page.id}}/{{poi.id}}.jpg);"></div>
         <div class="space--sm"></div>
         <h5 class="title title--xxs text--bold">{{poi.title}}</h5>
         <p>{{poi.content}}</p>

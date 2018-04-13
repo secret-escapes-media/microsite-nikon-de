@@ -67,3 +67,33 @@
   }
 }
 
+
+
+.testimonial {
+  position: relative;
+  &__carousel {
+    position: relative;
+  }
+  &__slide {
+    @include background-attributes();
+    min-height: 500px;
+    padding: $s10 0;
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+  }
+  &__content {
+    margin-top: 0.8rem;
+    padding-bottom: 0.8rem;
+    &-image {
+      height: 50px;
+      width: 50px;
+      display: inline-block;
+      margin-right: 10px;
+      vertical-align: middle;
+    }
+  }
+
+  .carousel-nav { pointer-events: none; }
+  .carousel-navitem { pointer-events: all; }
+}

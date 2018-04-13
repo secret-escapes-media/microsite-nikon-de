@@ -12,7 +12,7 @@
   position: absolute;
   top: 0; left: 0;
   height: 100% !important;
-  div:not(.owl-dots):not(.owl-dot):not(.owl-nav) {
+  div:not(.owl-dots):not(.owl-dot):not(.owl-nav):not(.owl-height) {
  		height: 100% !important;
  	}
 }

@@ -7,23 +7,55 @@ nav-order: 7
 nav-title: Nikon
 
 intro: >
-  <p class="text--xl text--bold">Begin your very own photographic journey with Nikon.</p>
-  <p class="text--xl">Whether you’re an aspiring or a professional photographer, make your next camera a Nikon. Graduate to the D7500, for crisp, high-definition shots with rich tonal gradations. It’s the perfect tool for stepping up your photography and capturing the perfect moment with ease.</p>
-  <p class="text--xl">If you’re already a fluent photographer, the D850 is built for you. Extreme resolution meets extreme speed, for a package that will offer a brand new perspective to your photographic creativity.</p>
+  <p class="text--xl text--bold">Starten Sie Ihre eigene Foto-Reise mit Nikon.</p>
+  <p class="text--xl">Egal ob Amateur- oder Profi-Fotograf, ihre nächste Kamera sollte eine Nikon sein. Gönnen Sie sich ein Upgrade zur D7500 für superscharfe HD-Fotos mit intensiven Farbtonabstufungen – das perfekte Werkzeug, um Ihr Fotografieren zu verbessern und den perfekten Moment mühelos einzufangen.</p>
+  <p class="text--xl">Wenn Sie sich in der Fotografie bereits sicher fühlen, ist die D850 wie für Sie gemacht: Extrem hohe Auflösung trifft bei dieser Kamera auf ebenso hohe Schnelligkeit – die perfekte Verbindung, um Ihrer fotografischen Kreativität ganz neue Perspektiven zu eröffnen.</p>
 
 features:
 
   - id: nikon-d7500
     title: Nikon D7500
-    content: The search for the perfect image can take you anywhere. Go there with the powerful, nimble, and fully connected D7500. Catch the beauty you find with flagship DX image quality inherited from Nikon’s D500.
+    content: "Die Jagd nach dem perfekten Bild kann Sie überall hinführen. Machen Sie die leistungsstarke, agile D7500 mit umfassender Konnektivität zu Ihrem Begleiter und fangen Sie die Schönheit Ihrer Motive mit der DX-Premium-Bildqualität ein, die diese Kamera von dem Nikon-Spitzenmodell D500 übernommen hat."
 
   - id: nikon-d850
     title: Nikon D850
-    content: When you’ve got the ultimate combination of resolution, speed, and light sensitivity to work with, you don’t just execute incredible work. You show your mastery.
+    content: "Wenn Sie die ultimative Kombination von Auflösung, Schnelligkeit und Lichtempfindlichkeit zu Ihrer Verfügung haben, machen Sie nicht nur sensationelle Fotos: Sie zeigen Ihr Können."
 
   - id: nikkor-lenses
-    title: NIKKOR Lenses
-    content: A great camera is only as good as the lens you've chosen. Expand your creative vision and unlock your camera's full potential with a choice of over 90 NIKKOR lenses - each optimised to give crystal clear images, whatever the subject.
+    title: NIKKOR Objektive
+    content: "Eine großartige Kamera ist immer nur so gut, wie die Objektive, die Sie gewählt haben. Erweitern Sie Ihre kreative Vision und holen Sie das Beste aus Ihrer Kamera, mit einer Auswahl von über 90 NIKKOR-Objektiven – jedes so optimiert, dass Ihre Bilder kristallscharf werden, egal welches Motiv."
+
+testimonials:
+
+  - by: Eleanor Cording-Booth
+    destination: iceland
+    content: >
+      Die D7500 ist die perfekte Wahl für ein so spannendes Reisziel wie Island. Der bewegliche Touchscreen und die Wetterfestigkeit bedeuten, dass man draußen in den Elementen tolle Fotos machen kann, ohne die Kamera zu beschädigen oder im Schlamm kriechen zu müssen, um den gewünschten Blickwinkel zu erreichen.
+
+  - by: Louis Adams
+    destination: morocco
+    content: >
+      Die Nikon D7500 ist super einfach in der Handhabung und macht dabei sensationelle Fotos. In den trubeligen Straßen Marrakeschs fand ich den Burst Modus besonders hilfreich um den richtigen Moment einzufangen. Das ich die Fotos mit der Snapbridge App direkt auf mein Telefon laden konnte, war ein zusätzlicher Bonus!
+
+  - by: Craig Howes
+    destination: iceland
+    content: >
+      Das Fotografieren mit der Nikon D850 hat richtig Spaß gemacht, denn diese beständige Kamera hat auch den rauen Bedingungen Islands standgehalten. Der Dynamikumfang ist sensationell und eines meiner liebsten Features war der integrierte Zeitraffer bei den so willkürlichen Nordlichtern, deren Erscheinen einen mitunter Überraschen kann.
+
+  - by: Ross Walker
+    destination: morocco
+    content: >
+      Mit der Nikon zu fotografieren fand ich toll, weil die Geschwindigkeit des Autofokus bedeutete, dass es weniger wahrscheinlich war, den Moment zu verpassen – das war wesentlich auf den trubeligen Märkten, wo ich gerne fotografiere.
+
+  - by: Marianna Sgherri
+    destination: new-york
+    content: >
+      Die Nikon D7500 ist die perfekte Kamera für einen Großstadttrip in Metropolen wie New York. An einem Ort, wo permanent so viel los ist, braucht man eine Kamera mit einer guten Langzeitbatterie, die auch bei schlechten Lichtverhältnissen ganze Arbeit leistet. Mit der D7500 musste ich mir keine Sorgen machen, dieses schreckliche „Rauschen" auf meinen Nachtfotos zu haben oder das die Batterie am Ende des Tages plötzlich mitten in der Aufnahme den Geist aufgibt.
+
+  - by: Victoria Campbell
+    destination: new-york
+    content: >
+      Ich habe es richtig genossen mit der Nikon D850 zu fotografieren und war überrascht von der Schärfe und der Qualität meiner Aufnahmen. Ich fand es super, zwischen Analog und Touchscreen hin- und herschalten zu können und am meisten mochte ich es, die ganzen verschiedenen Features dieser Kamera auszutesten.
 
 ---
 
@@ -42,14 +74,14 @@ features:
   <div class="bob vpad--xl{% cycle "", " bob--swap" %}">
     <a href="" class="bob__img bg-img bg-img--16-9" style="background-image: url({{site.img}}/content/nikon/{{feature.id}}.jpg);">
       <span class="bg-img__content">
-        <img class="bg-img--zoom" src="{{site.img}}/content/nikon/{{feature.id}}-title.png" width="200">
+        <img class="bg-img--zoom" src="{{site.img}}/content/{{page.id}}/{{feature.id}}-title.png" width="200">
       </span>
     </a>
     <div class="bob__text">
-      <h3 class="title title--lg">{{feature.title}}</h3>
+      <h3 class="title title--lg text--bold">{{feature.title}}</h3>
       <p class="text--lg">{{feature.content}}</p>
       <div class="space--sm"></div>
-      <a href="{{feature.link}}" class="btn btn--solid">Find out more</a>
+      <a href="{{feature.link}}" class="btn btn--solid">Mehr erfahren</a>
     </div>
   </div>
   {% endfor %}
@@ -57,7 +89,34 @@ features:
 
 
 
-{% include page/promo-nikon.html %}
+<div class="testimonial">
+
+  <div class="testimonial__carousel carousel owl-carousel" id="testimonial-carousel">
+    {% for testimonial in page.testimonials %}
+      <div class="testimonial__slide" style="background-image: url({{site.img}}/content/{{page.id}}/testimonial-{{testimonial.destination}}.jpg);">
+        <div class="container container--xxl text--white text--center">
+          <hr>
+          <p class="text--xl text--italic">"{{testimonial.content}}"</p>
+          <p class="testimonial__content">
+            <span class="testimonial__content-image bg-img bg-img--1-1 bg-img--circle" style="background-image:url({{site.img}}/content/{{testimonial.destination}}/photographers/{{testimonial.by|slugify}}.jpg);"></span>
+            <span class="title text--lg text--bold">{{testimonial.by}}</span>
+          </p>
+          <hr>
+        </div>
+      </div>
+    {% endfor %}
+  </div>
+
+  <div class="carousel-nav">
+    <div class="carousel-navitem carousel-navitem-next" id="testimonial-carousel-next"></div>
+    <div class="carousel-navitem carousel-navitem-prev" id="testimonial-carousel-prev"></div>
+  </div>
+
+</div>
+
+
+
+{% include page/promo-nikon-school.html %}
 {% include page/promo-competition.html %}
 
 

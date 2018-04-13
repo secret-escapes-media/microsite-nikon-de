@@ -7,7 +7,6 @@
   pages:
     - id: overview
     - id: iceland
-    - id: iceland-journey
 
 
 
@@ -17,7 +16,6 @@
   pages:
     - id: overview
     - id: morocco
-    - id: morocco-journey
 
 
 
@@ -27,5 +25,4 @@
   pages:
     - id: overview
     - id: new-york
-    - id: new-york-journey
 

@@ -1,17 +1,30 @@
 ---
 layout: default
 ---
-{% assign page-photos = site.data[page.group-parent] %}
+{% assign page-photos = site.data[page.id] %}
+
+
+
+<!-- INTRO SECTION -->
+<div class="bg--grey-darker">
+  <div class="wp" id="guide"></div>
+  <div class="container vpad--xxl text--center">
+    {{page.intro.long}}
+  </div>
+</div>
 
 
 
 <!-- VIDEO SECTION -->
-<div class="section bg--fixed journey__video-section" style="background-image: url({{site.img}}/content/{{page.group-parent}}/video-bg.jpg);">
+<div class="section bg--fixed journey__video-section" style="background-image: url({{site.img}}/content/{{page.id}}/video-bg.jpg);">
   <div class="wp" id="journey"></div>
   <div class="container container--xxl vpad--xxl text--center">
-    <a href="javascript:void(0);" data-modal-item="{{page.group-parent}}-video" class="js-open-modal journey__video bg-img bg-img--16-9 bg-img--rounded" style="background-image: url({{site.img}}/content/{{page.group-parent}}/video.jpg);">
+    <a href="javascript:void(0);" data-modal-item="{{page.id}}-video" class="js-open-modal journey__video bg-img bg-img--16-9 bg-img--rounded" style="background-image: url({{site.img}}/content/{{page.id}}/video.jpg);">
       <span class="bg-img__play bg-img--zoom"></span>
     </a>
+    <div class="vpad--xl">
+      <span class="title--md text--normal text--italic">Die Reise beginnt...</span>
+    </div>
   </div>
   <div class="journey__video-fade"></div>
 </div>
@@ -44,11 +57,11 @@ layout: default
 
           <div class="col col--7 journey__photo-image">
             {% if photo.orientation == 'portrait' %}
-              <a href="javascript:void(0);" data-modal-item="{{photo.id}}" data-modal-group="section" class="js-open-modal bg-img bg-img--2-3" style="background-image:url({{site.img}}/content/{{page.group-parent}}/photos/{{photo.id}}.jpg);">
+              <a href="javascript:void(0);" data-modal-item="{{photo.id}}" data-modal-group="section" class="js-open-modal bg-img bg-img--2-3" style="background-image:url({{site.img}}/content/{{page.id}}/photos/{{photo.id}}.jpg);">
                 <span class="bg-img__expand"></span>
               </a>
             {% else %}
-              <a href="javascript:void(0);" data-modal-item="{{photo.id}}" data-modal-group="section" class="js-open-modal bg-img bg-img--16-9" style="background-image:url({{site.img}}/content/{{page.group-parent}}/photos/{{photo.id}}.jpg);">
+              <a href="javascript:void(0);" data-modal-item="{{photo.id}}" data-modal-group="section" class="js-open-modal bg-img bg-img--16-9" style="background-image:url({{site.img}}/content/{{page.id}}/photos/{{photo.id}}.jpg);">
                 <span class="bg-img__expand"></span>
               </a>
             {% endif %}
@@ -56,12 +69,8 @@ layout: default
 
           <div class="col col--5 journey__photo-text">
             <h4 class="title title--md text--bold">{{photo.title}}</h4>
-            <p class="title title--xxxs">By <span class="text--bold">{{photo.photographer}}</span></p>
+            <p class="title title--xxxs">Eingefangen von <span class="text--bold">{{photo.photographer}}</span></p>
             <p>{{photo.content}}</p>
-            {% if photo.coordinates %}
-              <div class="space--md"></div>
-              <a class="bg-img bg-img--16-9 journey__photo-map bg-img--bgzoom" href="https://www.google.co.uk/maps/place/@{{photo.coordinates}},20z/" target="_blank" style="background-image: url({{site.img}}/content/{{page.group-parent}}/map/{{photo.id}}.jpg);"></a>
-            {% endif %}
 
           </div>
 
@@ -80,12 +89,12 @@ layout: default
   <div class="row row--6-6 row--gutters">
 
     <div class="col">
-      <h2 class="title title--xxl text--bold">Conclusion</h2>
+      <h2 class="title title--xxl text--bold">Fazit</h2>
       {{page.conclusion.content}}
     </div>
 
     <div class="col journey__conclusion-expert">
-      <h5 class="title title--xxxs text--bold text--upper text--wide-kern">Final tips from {{page.conclusion.expert}}</h5>
+      <h5 class="title title--xxxs text--bold text--upper text--wide-kern">Tipps von {{page.conclusion.expert}}</h5>
       {{page.conclusion.expert-tips}}
     </div>
 
@@ -96,9 +105,9 @@ layout: default
 
 <div class="container container--100 vpad--xxxl bg--grey-darker text--center">
   <div class="container">
-    <h3 class="title title--md text--bold">Now start planning your trip with our guide to {{page.group-parent|capitalize}}</h3>
+    <h3 class="title title--md text--bold">Now start planning your trip with our guide to {{page.id|capitalize}}</h3>
     <div class="space--lg"></div>
-    <a href="{{site.baseurl}}/{{page.group-parent}}/guide" class="btn btn--solid btn--lg">View the guide</a>
+    <a href="{{site.baseurl}}/{{page.id}}/guide" class="btn btn--solid btn--lg">View the guide</a>
   </div>
 </div>
 

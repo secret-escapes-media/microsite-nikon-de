@@ -5,7 +5,7 @@
   title: Dyrhólaey
   location: Reynisfjara
   photographer: Eleanor Cording-Booth
-  content: I wish there was something or someone in the photo to give Dyrhólaey arch a sense of scale – it’s huge! If I were to take this again, I’d go further along towards the lighthouse to get more light through the arch and make more of a feature of it. That said, there’s something wild and moody about this image.
+  content: Ich wünschte es gäbe in diesem Bild etwas, das den Größenvergleich illustriert, weil Dyrhólaey (übersetzt Türlochinsel) riesig ist! Wenn ich die Chance hätte diese Aufnahme noch einmal zu machen, würde ich wahrscheinlich noch weiter in Richtung Leuchtturm gehen, um mehr Licht auf den Bogen zu kriegen. Aber so wie es jetzt ist, finde ich, hat das Bild etwas wildes und unnahbares.
   coordinates:
   orientation: landscape
   camera: Nikon D7500
@@ -16,15 +16,15 @@
   page: iceland # group for whole page
   section: reynisfjara # group for section of page
   pages: # modal required on these pages
-    - id: iceland-journey
+    - id: iceland
 
 
 
 - id: e-dyrholaey-lighthouse
-  title: Dyrhólaey Lighthouse
+  title: Der Leuchtturm von Dyrhólaey
   location: Dyrhólaey, Reynisfjara
   photographer: Eleanor Cording-Booth
-  content: At first, I positioned myself further up the cliff to try and capture the lighthouse, but Craig suggested I move to another spot a few feet along to get the beach into the shot too. I love how this new sense of perspective gives the illusion that the beach is infinite, it continues as far as the eye can see.
+  content: Ich startete weiter oben auf der Klippe, um den Leuchtturm einzufangen, aber Craig meinte, dass ich mich ein paar Meter weiter bewegen sollte, um auch den Strand mit in die Aufnahme zu bringen. Ich finde es super, wie diese neue Perspektive die Illusion vermittelt, dass der Strand beinahe unendlich ist – so weit das Auge reicht.
   coordinates: 63.40271,-19.13091
   orientation: portrait
   camera: Nikon D7500
@@ -35,7 +35,7 @@
   page: iceland # group for whole page
   section: reynisfjara # group for section of page
   pages: # modal required on these pages
-    - id: iceland-journey
+    - id: iceland
 
 
 
@@ -54,15 +54,15 @@
   page: iceland # group for whole page
   section: reynisfjara # group for section of page
   pages: # modal required on these pages
-    - id: iceland-journey
+    - id: iceland
 
 
 
 - id: c-dyrholaey-rock
-  title: The Stack
+  title: Die Felssäule
   location: Reynisfjara
   photographer: Craig Howes
-  content: Shot from above, a touch of green adds a hint of colour to this otherwise monochrome image. Adding a little foreground offers a sense of depth and scale and the coastline crossing from one edge of the image to the other draws the eye nicely to the distant trolls in the sea.
+  content: Von oben aufgenommen, erhält dieses sonst eher monochrome Bild einen Hauch von Grün und Farbe. Dadurch, dass ich auch ein bisschen Vordergrund involviert habe, fügt sich ein Gefühl von Tiefe und Weite zur Küstenlinie hinzu und lenkt das Auge auf die fernen Trolle im Meer.
   coordinates:
   orientation: landscape
   camera: Nikon D850
@@ -73,15 +73,15 @@
   page: iceland # group for whole page
   section: reynisfjara # group for section of page
   pages: # modal required on these pages
-    - id: iceland-journey
+    - id: iceland
 
 
 
 - id: c-beach
-  title: The Trolls
+  title: Die Trolle
   location: Reynisfjara
   photographer: Craig Howes
-  content: The Reynisdrangar Trolls are an iconic part of Iceland’s coastline. The myths and legends surrounding these outcrops is something I wanted to capture, so I placed them in the background of the shot. The focus isn’t necessarily on them, so they loom mysteriously behind the hill in the foreground, slowly walking out to sea.
+  content: Die Trolle von Reynisdrangar sind von der isländischen Küste nicht wegzudenken. Ich wollte die Mythen und Legenden, die diese Felsen ausmachen festhalten, also habe ich sie in den Hintergrund der Aufnahme gestellt – damit sie geheimnisvoll im Vordergrund des Hügels auftauchen – und den Anschein machen, langsam auf das Meer hinauszugleiten.
   coordinates: 63.40277,-19.02833
   orientation: landscape
   camera: Nikon D850
@@ -92,15 +92,15 @@
   page: iceland # group for whole page
   section: reynisfjara # group for section of page
   pages: # modal required on these pages
-    - id: iceland-journey
+    - id: iceland
 
 
 
 - id: e-skogafoss-bird
-  title: In Flight
+  title: Wie im Fluge
   location: Skógafoss
   photographer: Eleanor Cording-Booth
-  content: Most photos of Skógafoss will be taken from the bottom showing the gargantuan waterfall in its entirety, but Craig suggested we go for a different and more interesting angle. We climbed up the steps towards the top but stopped midway where there’s a precarious (unofficial) path to the edge. It was from here that the waterfall felt its most dramatic, with birds swooping down and spray filling the void below like thick fog.
+  content: Die meisten Fotos von Skógafoss sind von unten aufgenommen und zeigen den gigantischen Wasserfall in seiner Gesamtheit. Craigs Idee war aber, dass wir vielleicht mal einen anderen und interessanteren Winkel wählen sollten. Wir stiegen also die Stufen hinauf und wählten auf halbem Weg einen etwas versteckten Platz am Rand. Von hier aus wirkte der Wasserfall am dramatischsten. Vögel glitten herab und die Gischt erfüllte die Leere in der Tiefe mit dichtem Nebel.
   coordinates: 63.53205,-19.51137
   orientation: landscape
   camera: Nikon D7500
@@ -111,15 +111,15 @@
   page: iceland # group for whole page
   section: skogafoss # group for section of page
   pages: # modal required on these pages
-    - id: iceland-journey
+    - id: iceland
 
 
 
 - id: e-skogafoss-kvernufoss
-  title: Secret Falls
+  title: Geheime Wasserfälle
   location: Kvernufoss
   photographer: Eleanor Cording-Booth
-  content: Head to the right of Skógafoss, past the Skogar Folk Museum (which is worth a visit, with some cool turf houses to photograph) and just beyond. There is a secret waterfall that you can get really close to and even walk behind. This photo is taken from the beautiful walk that leads up to it. You would need a wide-angle lens to take a great shot from the inside of the cave, behind the waterfall.
+  content: Rechts vom Skógafoss, vorbei am Freilichtmuseum Skógar (das einen Besuch echt wert ist), gibt es einen geheimen Wasserfall, dem man sehr nahe kommen und den man sogar umlaufen kann. Dieses Foto ist auf genau diesem wunderschönen Weg dorthin aufgenommen. Ein Weitwinkelobjektiv bewirkt hier Wunder.
   coordinates: 63.52816,-19.48094
   orientation: portrait
   camera: Nikon D7500
@@ -130,15 +130,15 @@
   page: iceland # group for whole page
   section: skogafoss # group for section of page
   pages: # modal required on these pages
-    - id: iceland-journey
+    - id: iceland
 
 
 
 - id: e-skogafoss-hobbit-house
-  title: Cliff House
+  title: Das Haus am Felsen
   location: Skógafoss
   photographer: Eleanor Cording-Booth
-  content: Just before we arrived at the waterfalls, we spotted this sweet little turf-roofed shelter, so we pulled up to take a couple of quick shots as it had such a whimsical ‘Hobbit house’ look to it, especially with the pointed shape of the rock looming behind it. The great thing about Iceland is quirky sights like this are everywhere if you’re prepared to get out and explore.
+  content: Kurz bevor wir die Wasserfälle erreichten, fanden wir diesen kleinen romantischen Unterschlupf. Da er wie ein wunderliches Hobbithaus aussah, nutzten wir die Gelegenheit für ein paar Fotos. Besonders die spitze Form des Felsens im Hintergrund machte dieses Motiv besonders interessant. Das Großartige an Island ist, dass skurrile Sehenswürdigkeiten wie diese überall zu finden sind – wenn Sie bereit sind, kurz aus dem Auto auszusteigen und nach ihnen zu suchen.
   coordinates:
   orientation: portrait
   camera: Nikon D7500
@@ -149,15 +149,15 @@
   page: iceland # group for whole page
   section: skogafoss # group for section of page
   pages: # modal required on these pages
-    - id: iceland-journey
+    - id: iceland
 
 
 
 - id: c-behind-waterfall
-  title: Behind the Falls
+  title: Hinter dem Wasserfall
   location: Skógafoss
   photographer: Craig Howes
-  content: A wide-angle lens is a must for this location as the area behind the falls isn’t particularly deep. To keep the edge of the cave in the shot, a 14-24mm lens works nicely. Keep a check on your exposure when shooting a bright scene from a dark space and consider finding a person to impart a sense of scale to your natural environment.
+  content: "Da die Höhle hinter dem Wasserfall nicht tief ist, war ein Weitwinkelobjektiv echt ein Muss und um die Ränder der Höhle mit ins Bild zu bekommen, empfahl sich eine 14-24mm Linse. Tipp: Überprüfen Sie die Belichtung, bevor Sie eine helle Szene aus einem dunklen Grund aufnehmen – und nehmen Sie vielleicht eine Person mit ins Bild, um der Naturaufnahme ein Gefühl des Maßstabes zu verleihen."
   coordinates: 63.52816,-19.48094
   orientation: landscape
   camera: Nikon D850
@@ -168,7 +168,7 @@
   page: iceland # group for whole page
   section: skogafoss # group for section of page
   pages: # modal required on these pages
-    - id: iceland-journey
+    - id: iceland
 
 
 
@@ -176,7 +176,7 @@
   title: Skógafoss
   location: Skógafoss
   photographer: Craig Howes
-  content: Rather than trying to fit the whole fall into the shot, I framed the water amongst the cliffs, with a pop of colour from the grass contrasting with the blue overtones. Again, a person was used to impart a sense of scale. A fast shutter speed was necessary to freeze the energy of the falling water.
+  content: Den kompletten Wasserfall einzufangen schien hier etwas zu ambitioniert, also entschied ich mich dazu, das Wasser zwischen den Klippen einzurahmen – mit einem Tupfer grünen Grases, das mit den blauen Tönen kontrastiert. Erneut setzte ich eine Person in Szene, um ein Gefühl für die Relationen zu vermitteln. Eine schnelle Verschlusszeit ist wichtig, um die Energie des fallenden Wassers festzuhalten.
   coordinates:
   orientation: landscape
   camera: Nikon D850
@@ -187,15 +187,15 @@
   page: iceland # group for whole page
   section: skogafoss # group for section of page
   pages: # modal required on these pages
-    - id: iceland-journey
+    - id: iceland
 
 
 
 - id: c-skogafoss-climb
-  title: The Climb
+  title: Der Aufstieg
   location: Skógafoss
   photographer: Craig Howes
-  content: Iceland’s sights are so dramatic they border on surreal. By shifting your perspective, you can capture this otherworldly atmosphere. Try hugging the ground, focusing on one aspect of a bigger scene. Here, by filling the background with the bottom of the falls, an ethereal backdrop is created. This is accentuated by the subject, who, from the perspective, appears small in comparison.
+  content: Islands Sehenswürdigkeiten sind so unglaublich, dass sie ans Surreale grenzen. Wenn man immer mal wieder die Perspektive ändert, fängt man den Eindruck dieser so anderen Welt am besten ein. Sich wie hier auf den Boden zu legen, auf nur einen Aspekt zu konzentrieren und so einen mystischen Hintergrund zu erzeugen ist grandios. Alles wird akzentuiert vom Subjekt, das im Vergleich dann ganz klein wirkt.
   coordinates: 63.53205,-19.51137
   orientation: portrait
   camera: Nikon D850
@@ -206,15 +206,15 @@
   page: iceland # group for whole page
   section: skogafoss # group for section of page
   pages: # modal required on these pages
-    - id: iceland-journey
+    - id: iceland
 
 
 
 - id: e-horses
-  title: Wild Horses
+  title: Wildpferde
   location:
   photographer: Eleanor Cording-Booth
-  content: For this shot, Craig recommended that I use my zoom lens and, with that, I tried to capture how close they were and the contrast between the colours of their coats. I like this image because the light is beautiful and I think there's a calm tenderness between the horses.
+  content: Craig meinte, dass ich für diese Einstellung ein Zoomobjektiv einsetzen sollte – denn ich wollte gleichzeitig die Vertrautheit zwischen den beiden Pferden, wie auch den Konrast der unterschiedlichen  Felle einfangen. Ich finde dieses Foto transportiert exakt die Ruhe und Zärtlichkeit, die diese beiden Tiere offenbar verbindet.
   coordinates: 63.83037,-18.00041
   orientation: landscape
   camera: Nikon D7500
@@ -225,15 +225,15 @@
   page: iceland # group for whole page
   section: horses-and-hills # group for section of page
   pages: # modal required on these pages
-    - id: iceland-journey
+    - id: iceland
 
 
 
 - id: e-dramatic-formations
-  title: Dramatic Formations
+  title: Bizarre Formen
   location:
   photographer: Eleanor Cording-Booth
-  content: Using the zoom lens to shoot, I noticed how the fog was rolling in over this hillside like a thick white blanket, yet without being so low as to cover the gorge in the hillside below it. Craig helped me balance the light in the shot to capture the dark, moody hues in the landscape whilst still highlighting the eerie white fog above it.
+  content: Als ich hier das Zoomobjektiv nutzte,, fiel mir auf, wie der Nebel sich als dicke weiße Decke über die Hügel legte ohne die Felsschlucht zu erreichen. Craig hat mir geholfen, das Licht in dieser Aufnahme auszugleichen, um die dunklen, stimmungsvollen Farbtöne in der Landschaft einzufangen, während der gespenstische Nebel weiter im Fokus bleibt.
   coordinates: 63.96872,-17.872
   orientation: portrait
   camera: Nikon D7500
@@ -244,15 +244,15 @@
   page: iceland # group for whole page
   section: horses-and-hills # group for section of page
   pages: # modal required on these pages
-    - id: iceland-journey
+    - id: iceland
 
 
 
 - id: e-redhouse
-  title: Red House
+  title: Das rote Haus
   location:
   photographer: Eleanor Cording-Booth
-  content: I had just been talking about wanting to photograph a colourful house when we passed this bright red building standing on its own in the middle of nowhere. I was particularly drawn to the colour pop against the towering green hills that appear to fold into themselves in the background.
+  content: Ich hatte eben erwähnt, dass ich gerne ein buntes Haus fotografieren würde, als wir an diesem knallrotem Gebäude vorbeifuhren, das mitten im Nirgendwo stand. Zufall? Der starke Kontrast von diesem Rot zu den grünen Hügeln hat es mir besonders angetan.
   coordinates:
   orientation: portrait
   camera: Nikon D7500
@@ -263,15 +263,15 @@
   page: iceland # group for whole page
   section: horses-and-hills # group for section of page
   pages: # modal required on these pages
-    - id: iceland-journey
+    - id: iceland
 
 
 
 - id: e-brooding-peaks
-  title: Brooding Peaks
+  title: Kontrast-Reich
   location:
   photographer: Eleanor Cording-Booth
-  content: The light is just gorgeous here – I love how dark the mountains and the foreground are against the window of blue sky and the sliver of sunlight that runs along the hilltops. If anything epitomises how dramatic and changeable the weather is in Iceland, it's this photo. Again, I'm using my zoom lens in this photo as the mountains were so far in the distance and I wanted to capture the detail.
+  content: Dieses Licht! Ich liebe das Dunkle der Berge, zusammen mit dem dramatischen Himmel und diesem silbrigen Sonnenlicht, das sich durch die Gipfel streckt. Wenn etwas den isländischen Wetterwechsel einfangen kann, dann dieses Bild. Mit dem Zoom konnte ich die Details der Berggipfel genau so einfangen, wie ich es mir vorstellte.
   coordinates:
   orientation: landscape
   camera: Nikon D7500
@@ -282,15 +282,15 @@
   page: iceland # group for whole page
   section: horses-and-hills # group for section of page
   pages: # modal required on these pages
-    - id: iceland-journey
+    - id: iceland
 
 
 
 - id: c-horse
-  title: Camera Shy
+  title: Kamerascheu
   location:
   photographer: Craig Howes
-  content: Animals are always a fascinating subject. You’ll pass these ponies regularly, make sure you stop and take pictures. Wait for a great background, like mountains, or shift your perspective by shooting from down low. It will help calm the animals too. A wide-angle lens works nicely for close-ups, distorting the edges and accentuating features like the long face of a pony.
+  content: Tiere sind immer ein faszinierendes Motiv und diese Ponys sieht man auf Island einfach immer wieder – es lohnt sich also, anzuhalten und ein paar Fotos zu machen. Warten Sie auf den perfekten Hintergrund, wie zum Beispiel Berge, oder ändern Sie die Perspektive indem Sie auf dem Boden liegend fotografieren, was die Tiere auch beruhigt. Eine Weitwinkellinse ist gut für Nahaufnahmen da sie die Ränder verzerrt und Besonderheiten wie den langen Kopf eines Ponys akzentuiert.
   coordinates:
   orientation: landscape
   camera: Nikon D850
@@ -301,15 +301,15 @@
   page: iceland # group for whole page
   section: horses-and-hills # group for section of page
   pages: # modal required on these pages
-    - id: iceland-journey
+    - id: iceland
 
 
 
 - id: e-braving-the-elements
-  title: Braving the Elements
+  title: Den Elementen trotzen
   location: Jökulsárlón Lagoon
   photographer: Eleanor Cording-Booth
-  content: This photo is the only one where I’ve used a flash and to be honest, it was a total accident. I was lining up a shot of Craig to capture his infamous red coat against the blue ice and I had my flash on without realising. In the end, I preferred this photo to the one I intended to take as it makes the colour so vibrant and it also highlights the rain pouring down his jacket, so I get more of a sense of what it felt like to be there.
+  content: Dieses Foto ist das einzige, bei dem ich einen Blitz benutzt habe und, um ehrlich zu sein, es war unabsichtlich. Doch es gefällt mir von allen aus dieser Serie am besten, da die Farbe so satt ist und der Regen so dynamisch über die Jacke fließt – beim Anschauen fühle ich mich sofort wieder in diesen Moment zurückversetzt.
   coordinates: 64.04804,-16.18068
   orientation: landscape
   camera: Nikon D7500
@@ -320,15 +320,15 @@
   page: iceland # group for whole page
   section: jokulsarlon-lagoon # group for section of page
   pages: # modal required on these pages
-    - id: iceland-journey
+    - id: iceland
 
 
 
 - id: e-icebergs
-  title: Icebergs
+  title: Eisberge
   location: Jökulsárlón Lagoon
   photographer: Eleanor Cording-Booth
-  content: I think this shot looks like it could have been taken on the moon. It’s crazy to think that a sight like this is only a short flight and then a drive from the UK. Seals swam amongst the icebergs and the view changed constantly as the ice moved around. The rain was relentless but my Nikon was weatherproofed, so I could still shoot without worrying about breaking the camera.
+  content: Ich finde, dieses Foto sieht echt aus, als sei es auf dem Mond aufgenommen worden. Verrückt, weil Island nur einen kurzen Flug entfernt ist. Zwischen den Eisbergen schwammen Robben, der Blick änderte sich ständig, da sich das Eis bewegte und der Regen war unerbittlich –  aber meine Nikon wetterfest, sodass ich immer weiter auf den Auslöser drückte, bis dieses Foto entstand.
   coordinates: 64.04804,-16.18068
   orientation: landscape
   camera: Nikon D7500
@@ -339,15 +339,15 @@
   page: iceland # group for whole page
   section: jokulsarlon-lagoon # group for section of page
   pages: # modal required on these pages
-    - id: iceland-journey
+    - id: iceland
 
 
 
 - id: e-diamond-beach
-  title: Diamond Beach
+  title: Diamantstrand
   location: Jökulsárlón Lagoon
   photographer: Eleanor Cording-Booth
-  content: This photo was taken on the beach at Jökulsárlón glacier lagoon – also known as ‘diamond beach’ for obvious reasons! It was a real struggle to shoot anything here due to the weather, but I love the smooth texture of the clear chunk of ice in the foreground and Craig struggling against the wind in the distance. There’s some spray from the sea on my lens but in this instance, I think it works well.
+  content: Die Gletscherlagune Jökulsárlón wird aus naheliegenden Gründen auch Diamantstrand genannt. Die Wetterbedingungen hier waren echt gewöhnungsbedürftig, aber die Beschaffenheit des Eisbrockens im Vordergrund sowie Craigs Kampf gegen den Wind in der Ferne mussten einfach festgehalten werden. Ok, man sieht ein paar Wasserspritzer auf der Linse – aber ich glaube, in diesem Fall ist das akzeptabel.
   coordinates: 64.04288,-16.18229
   orientation: portrait
   camera: Nikon D7500
@@ -358,15 +358,15 @@
   page: iceland # group for whole page
   section: jokulsarlon-lagoon # group for section of page
   pages: # modal required on these pages
-    - id: iceland-journey
+    - id: iceland
 
 
 
 - id: c-ecb-glacier
-  title: Explorer
+  title: Entdecker
   location: Jökulsárlón Lagoon
   photographer: Craig Howes
-  content: This location is simply stunning. On a clouded over day like this, colours become very blown out, lacking the contrast that makes your picture really pop. To offset the blue of the lagoon, consider adding the beach into the foreground with a subject like this one. The candid style and bright pop of the yellow mac, relegated to a third of the image, add contrast where it would otherwise be lacking.
+  content: "Also, dieser Ort war einfach nur atemberaubend. Natürlich wirken die Farben an einem wolkenverhangenen Tag wie diesem irgendwie verblasst. Aber es gibt ja Tricks: Um das Blau der Lagune hervorzuheben, galt es, zwischen Küste und Eisberg eine Perspektive zu schaffen – der gelbe Mantel, der tatsächlich nur auf ein Drittel des Bildes reduziert ist, sorgte für den nötigen Kontrast."
   coordinates:
   orientation: landscape
   camera: Nikon D850
@@ -377,15 +377,15 @@
   page: iceland # group for whole page
   section: jokulsarlon-lagoon # group for section of page
   pages: # modal required on these pages
-    - id: iceland-journey
+    - id: iceland
 
 
 
 - id: c-icebergs
-  title: Ice Sculptures
+  title: Eis-Skulpturen
   location: Jökulsárlón Lagoon
   photographer: Craig Howes
-  content: The lagoon offers an incredible range of textures. From smooth, transparent sculptures to rough, dazzlingly-white icebergs, they make for fascinating shots. Watch your exposure, so you pick out as much of the varying textures and colours as possible. Look out for any break in the clouds to help illuminate the ice.
+  content: "Diese Lagune bot uns eine absolut unglaubliche Spielfläche. Die verschiedenen Beschaffenheiten der Eisberge von rauem Stein bis Diamant, vor dem dramtischen Hintergrund des Himmels war grandios. Achten Sie auf die Belichtung und wählen Sie deshalb so viele unterschiedliche Oberflächen und Farben wie möglich. Tipp: Am besten Abdrücken, sobald Sonnenstrahlen durch die Wolken brechen und das Eis beleuchten."
   coordinates:
   orientation: landscape
   camera: Nikon D850
@@ -396,15 +396,15 @@
   page: iceland # group for whole page
   section: jokulsarlon-lagoon # group for section of page
   pages: # modal required on these pages
-    - id: iceland-journey
+    - id: iceland
 
 
 
 - id: c-northern-lights
-  title: Emerald Skies
+  title: Smaragd-Himmel
   location: Iceland
   photographer: Craig Howes
-  content: The holy grail of any photography trip to Iceland. Planning is key – we got very lucky, but a bit of research goes a long way to ensuring you get that shot. You’ll need a good tripod. Have a fast lens to hand, ideally f2.8 opened up all the way. This will ensure that as much light enters the sensor as possible, whilst still keeping things sharp. It will also hinder needing a really high ISO which will introduce noise. Introducing the building here was a great way of adding depth to this shot.
+  content: "Der heilige Gral jeder Foto-Reise nach Island: Um eine gute Aufnahme des Himmels zu garantieren, braucht man ein Stativ und eine schnelle Linse, am besten die f2.8. Dadurch wird sichergestellt, dass so viel Licht wie möglich in den Sensor eindringt, die Schärfe sichergestellt ist und starkes Rauschen vermieden wird. Durch das Gebäude im Bild ensteht Tiefe."
   coordinates: 63.44114,-18.9672
   orientation: landscape
   camera: Nikon D850
@@ -415,15 +415,15 @@
   page: iceland # group for whole page
   section: northern-lights # group for section of page
   pages: # modal required on these pages
-    - id: iceland-journey
+    - id: iceland
 
 
 
 - id: e-mountain-contrast
-  title: Mountains
+  title: Berge
   location: Iceland
   photographer: Eleanor Cording-Booth
-  content: These particular mountains were the view we woke up to every day and this shot was a quick, unplanned roadside snap. The clouds briefly parted and we got a beautiful mixture of sunlight and shadow as the mountain began to emerge from the rain clouds.
+  content: "Diese ganz besonderen Berge erblickten wir jeden Morgen beim Aufwachen. Das Bild enstand ganz spontan am Straßenrand: Die Wolken teilten sich kurz und wir konnten eine wunderschöne Mischung aus Sonnenlicht und Schatten einfangen, als der Berg aus den Regenwolken auftauchte."
   coordinates:
   orientation: portrait
   camera: Nikon D7500

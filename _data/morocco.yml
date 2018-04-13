@@ -1,10 +1,10 @@
 
 
 - id: l-lanterns
-  title: Lanterns
+  title: Laternen
   location: Marrakech
   photographer: Louis Adams
-  content: For this photo I zoomed in so that the entire shot is taken up by the gold lanterns, to give the impression that you are there in the shop surrounded by them. The bright colours and intricate patterns made for a multitude of interesting layers and textures.
+  content: Für dieses Foto habe ich hineingezoomt, so dass die gesamte Aufnahme von den goldenen Laternen eingenommen wird, um den Eindruck zu vermittelt, man sei mitten im Geschäft und von ihnen umgeben. Die hellen Farben und aufwendigen Muster geben dem Bild eine Vielzahl interessanter Ebenen und Texturen.
   coordinates:
   orientation: landscape
   camera: Nikon D7500
@@ -15,15 +15,15 @@
   page: morocco
   section: markets
   pages:
-    - id: morocco-journey
+    - id: morocco
 
 
 
 - id: l-market-jewellery
-  title: Jeweller
+  title: Der Schmuckhändler
   location: Marrakech
   photographer: Louis Adams
-  content: I stumbled across this scene completely by accident. As I walked past the cluttered little shop, I noticed the owner deep in concentration surrounded by all his past creations, and felt it was a moment I had to capture.
+  content: Ich bin durch Zufall auf diese Szene gestoßen. Als ich an dem überladenen kleinen Geschäft vorbeiging, bemerkte ich den Besitzer, hoch konzentriert, umgeben von all seinen früheren Kreationen, und spürte, dass dies ein Moment war, den ich festhalten sollte.
   coordinates: 31.62582,-7.9889
   orientation: portrait
   camera: Nikon D7500
@@ -34,15 +34,15 @@
   page: morocco
   section: markets
   pages:
-    - id: morocco-journey
+    - id: morocco
 
 
 
 - id: l-market-spices
-  title: Spices
+  title: Gewürze
   location: Marrakech
   photographer: Louis Adams
-  content: For this shot I used a low f-stop to bring focus onto the spices in the centre of the image. The unfocused spices in the foreground give the effect that you are stood amongst the spices, while the street in the background sets the scene in which this stall is found, adding context to the picture.
+  content: Für diese Aufnahme habe ich eine niedrige Blendenöffnung verwendet, um die Gewürze in der Mitte des Bildes scharf zu stellen. Die verschwommenen Gewürze im Vordergrund bewirken, dass man sich als Betrachter mitten in den Gewürzen befindet, während die Straße im Hintergrund die Szene bestimmt, in der sich dieser Stand befindet und dem Bild einen Kontext gibt.
   coordinates: 31.62783,-7.98811
   orientation: portrait
   camera: Nikon D7500
@@ -53,15 +53,15 @@
   page: morocco
   section: markets
   pages:
-    - id: morocco-journey
+    - id: morocco
 
 
 
 - id: l-market-stall
-  title: The Salesman
+  title: Der Verkäufer
   location: Marrakech
   photographer: Louis Adams
-  content: For me this picture depicts a very real scene of a market trader mid-sell. The light ensures the man is the focal point of the scene, with the vast piles of sweet treats adding context. I was pleased to capture this snapshot of Moroccan life.
+  content: Für mich zeigt dieses Bild eine total authentische Szene eines Markthändlers während des Verkaufs. Das Licht stellt sicher, dass der Mann der Mittelpunkt dieser Szene ist, mit den riesigen Haufen süßer Leckereien, die den Kontext hinzufügen. Ich hab mich echt gefreut, dass ich diesen Schnappschuss marokkanischen Lebens einfangen konnte.
   coordinates:
   orientation: portrait
   camera: Nikon D7500
@@ -72,15 +72,15 @@
   page: morocco
   section: markets
   pages:
-    - id: morocco-journey
+    - id: morocco
 
 
 
 - id: r-market-birds
-  title: The Entertainer
+  title: Der Unterhaltungskünstler
   location: Marrakech
   photographer: Ross Walker
-  content: Trying to draw in on one subject can be difficult when in a busy market. To solve this, lower the aperture in order to blur the background and keep your subject the focus of the shot. I chose to shoot this photo at a high shutter speed to keep the birds in focus but in retrospect it could also be interesting to slow the shutter speed in order to gain more blur and show movement in their wings.
+  content: Der Versuch, auf eine Person zu fokussieren, kann auf einem belebten Markt echt schwierig sein. Dazu muss man die Blendenöffnung verringern, um den Hintergrund zu verwischen und das Motiv scharf zu stellen. Ich entschied mich, dieses Foto mit einer schnellen Verschlusszeit zu schießen, um die Vögel im Fokus zu behalten, aber im Nachhinein betrachtet wäre es auch interessant gewesen, die Verschlusszeit zu verlangsamen, um mehr Unschärfe zu erzielen und Bewegung in ihren Flügeln herauszuarbeiten.
   coordinates: 31.62582,-7.9889
   orientation: landscape
   camera: Nikon D850
@@ -91,15 +91,15 @@
   page: morocco
   section: markets
   pages:
-    - id: morocco-journey
+    - id: morocco
 
 
 
 - id: r-market-stall
-  title: Sweet Seller
+  title: Der Süßwarenverkäufer
   location: Marrakech
   photographer: Ross Walker
-  content: I feel you get the best out of people if they're acting naturally. Before I shot this photo we'd had a bit of conversation with this vendor and actually bought some of his sweets. Because we'd already had the friendly dialogue he felt relaxed when we asked for his photo. I then just sat back and tried to make myself discreet in order to get him looking as natural as possible. We were shooting at night but I wanted to get the detail in the sweets so needed to increase my aperture and ISO so it wasn't too dark.
+  content: Ich denke, dass man das Beste aus den Leuten herausholt, wenn sie auf natürliche Weise agieren. Bevor ich dieses Foto gemacht habe, hatten wir eine kleine Unterhaltung mit dem Verkäufer und haben tatsächlich einige seiner Süßigkeiten gekauft. Da wir das freundliche Gespräch bereits hinter uns hatten, war er entspannt, als wir nach einem Foto fragten. Ich lehnte mich einfach zurück und versuchte, mich diskret zu verhalten, um ihn so natürlich wie möglich aussehen zu lassen. Wir fotografierten nachts, aber ich wollte die Details der Süßigkeiten erfassen, also musste ich meine Blendenöffnung und den ISO-Wert erhöhen damit das Foto nicht zu dunkel wurde.
   coordinates:
   orientation: landscape
   camera: Nikon D850
@@ -110,15 +110,15 @@
   page: morocco
   section: markets
   pages:
-    - id: morocco-journey
+    - id: morocco
 
 
 
 - id: r-frozen
-  title: Frozen
+  title: Eingefroren
   location: Marrakech
   photographer: Ross Walker
-  content: Here you can see a spice seller blowing an unknown ware toward the camera. With a high aperture creating a bokeh in the background, certain bits are picked out and frozen, with others blurred through their motion. It’s a compelling image only possible with burst mode. Using this mode you can select the best of number of images that encapsulates the mood you are trying to create.
+  content: Hier sieht man einen Gewürzverkäufer, der eine handvoll Gewürze in Richtung Kamera pustet. Mit einer großen Blendenöffnung, die ein Bokeh im Hintergrund erzeugt, werden bestimmte Stellen herausgegriffen und eingefroren, während andere durch ihre Bewegung verschwimmen. Es ist ein fesselndes Bild, das nur mit dem Burst-Modus möglich ist. Mit diesem Modus können Sie die beste Anzahl von Bildern auswählen, die genau die Stimmung auf den Punkt bringen, die Sie erzeugen wollen.
   coordinates:
   orientation: landscape
   camera: Nikon D850
@@ -129,15 +129,15 @@
   page: morocco
   section: markets
   pages:
-    - id: morocco-journey
+    - id: morocco
 
 
 
 - id: l-streets-buildings
-  title: Minaret
+  title: Minarett
   location: Marrakech
   photographer: Louis Adams
-  content: The medina is a great place to get lost. It can be disorientating, but luckily you’ll stumble on great towers that can help you get your bearings. It’s shots like this that really evoke that sense of getting lost in a strange city, looking for any kind of landmark to guide you.
+  content: Die Medina ist ein guter Ort, um sich zu verlaufen. Es kann verwirrend sein, aber glücklicherweise gibt es große Türme, die einem helfen können, sich zu orientieren. Es sind Aufnahmen wie diese, die wirklich dieses Gefühl vermitteln, sich in einer fremden Stadt verlaufen zu haben und auf der Suche nach irgendeinem Orientierungspunkt zu sein, der einen leitet.
   coordinates: 31.62366,-7.9936
   orientation: landscape
   camera: Nikon D7500
@@ -148,15 +148,15 @@
   page: morocco
   section: architecture
   pages:
-    - id: morocco-journey
+    - id: morocco
 
 
 
 - id: l-garden-doorway
-  title: Doorway
+  title: Eingang
   location: Marrakech
   photographer: Louis Adams
-  content: There were a few things going on that made this a great shot to take - the symmetry, the arches, the path connecting the foreground and background, and the light. That said, in hindsight, I should have waited to capture the scene with a subject in it, to add that final touch to the photo and bring some life to it.
+  content: Es gab ein paar Dinge, die zu dieser großartigen Aufnahmen führten – die Symmetrie, die Bögen, der Pfad, der den Vorder- mit dem Hintergrund verknüpft sowie das Licht. Rückblickend hätte ich aber vielleicht noch auf eine passende Person warten sollen, um dem Foto den letzten Schliff zu geben und ihm etwas Leben einzuhauchen.
   coordinates:
   orientation: portrait
   camera: Nikon D7500
@@ -167,15 +167,15 @@
   page: morocco
   section: architecture
   pages:
-    - id: morocco-journey
+    - id: morocco
 
 
 
 - id: l-interior-doorway
-  title: Discovery
+  title: Entdeckung
   location: Marrakech
   photographer: Louis Adams
-  content: In this shot, the light from outside draws you out, but the high f-stop ensures that the detail in the shadow isn’t lost. I’ve used the natural symmetry and beauty of the building to capture a nice shot, but unlike the photo above, I did manage to get a human subject in this photo and I think it makes all the difference.
+  content: In dieser Aufnahme zieht einen das Licht von außen an, aber die große Blendenöffnung sorgt dafür, dass die Details im Schatten nicht verloren gehen. Ich habe die natürliche Symmetrie und Schönheit des Gebäudes genutzt, um eine schöne Aufnahme zu bekommen, aber im Gegensatz zu dem obigen Foto habe ich es hier geschafft, eine Person auf dem Bild zu integrieren, und ich denke, das macht echt den Unterschied.
   coordinates: 31.63199,-7.98646
   orientation: portrait
   camera: Nikon D7500
@@ -186,15 +186,15 @@
   page: morocco
   section: architecture
   pages:
-    - id: morocco-journey
+    - id: morocco
 
 
 
 - id: l-tile-walls
-  title: Shelter
+  title: Unterschlupf
   location: Marrakech
   photographer: Louis Adams
-  content: I took this shot to capture both the wonderful patterns on the tiles and the effect of the light shining in between the columns. I was initially waiting for the man to move out of the shot but on reflection I’m glad I took it anyway because it transforms what would have been fairly uninteresting photo into a story of a person seeking shelter from the heat of the sun.
+  content: Ich habe diese Aufnahme gemacht, um sowohl die wundervollen Muster auf den Fliesen als auch die Wirkung des Lichts zwischen den Säulen einzufangen. Ich wartete zunächst darauf, dass der Mann aus dem Bild geht, aber im Nachhinein bin ich froh, dass ich trotzdem abgedrückt habe, weil dieser Umstand ein Foto, das eher uninteressant geworden wäre, in eine Geschichte einer Person verwandelt, die Schutz vor der Hitze der Sonne sucht.
   coordinates:
   orientation: portrait
   camera: Nikon D7500
@@ -205,7 +205,7 @@
   page: morocco
   section: architecture
   pages:
-    - id: morocco-journey
+    - id: morocco
 
 
 
@@ -213,8 +213,8 @@
   title: Riad
   location: Marrakech
   photographer: Ross Walker
-  content: The architecture of the buildings in Marrakech was phenomenal. The intricacy of the tiled floor and stone carvings were important to get in shot. To achieve this, a higher aperture setting would capture more detail. I would have loved to have got a subject in this shot to give it more perspective, but sadly nobody arrived who suited. Patience so often is one of the most valuable assets to your photography skill set.
-  coordinates: 
+  content: Die Architektur der Gebäude in Marrakesch war phänomenal und bei dieser Aufnahme schien es wichtig, die Komplexität des Fliesenbodens und der Steinschnitzereien zu integrieren. Eine größere Blendenöffnung erfasste dazu mehr Details. Ich hätte auch hier gerne eine Person im Bild gehabt, um es perspektivischer zu machen, aber leider kam niemand Passendes. Geduld ist ganz oft eine der wertvollsten Eigenschaften für gute Fotografie.
+  coordinates:
   orientation: landscape
   camera: Nikon D850
   lens: 14-24mm f/2.8
@@ -224,15 +224,15 @@
   page: morocco
   section: architecture
   pages:
-    - id: morocco-journey
+    - id: morocco
 
 
 
 - id: r-riad-white
-  title: Symmetry
+  title: Symmetrie
   location: Marrakech
   photographer: Ross Walker
-  content: This photograph draws on the precise symmetry of the building to dramatise the architecture. I moved up and down the passage to find the best place for the photo and made sure my camera was positioned as close to the centre as possible. Trying to avoid having any or few people in this shot also helps maintain the feeling of serenity.
+  content: Dieses Foto stützt sich auf die präzise Symmetrie des Gebäudes, um die Architektur hervorzuheben. Ich ging den Durchgang auf und ab, um den besten Platz für das Foto zu finden, und stellte sicher, dass meine Kamera so nah wie möglich am Mittelpunkt positioniert war. Der Versuch, keine oder nur wenige Personen im Bild zu haben, trägt auch dazu bei ein Gefühl der Klarheit aufrechtzuerhalten.
   coordinates: 31.62183,-7.99761
   orientation: portrait
   camera: Nikon D850
@@ -243,15 +243,15 @@
   page: morocco
   section: architecture
   pages:
-    - id: morocco-journey
+    - id: morocco
 
 
 
 - id: l-bike-alley
-  title: Back streets
+  title: Seitenstraßen
   location: Marrakech
   photographer: Louis Adams
-  content: This photo was a case of finding a spot and waiting for something interesting to happen. The light was coming through the makeshift tin roof in beams and creating some incredible effects, so when this guy came round the corner on his bike I was ready to take the shot.
+  content: Bei diesem Foto galt es, einen Platz zu finden und darauf zu warten, dass etwas Interessantes passiert. Das Licht fiel in Strahlen durch das provisorische Blechdach und erzeugte einige unglaubliche Effekte. Erst, als der Mann mit seinem Fahrrad um die Ecke gebogen kam, war der Moment gekommen, auf den Auslöser zu drücken.
   coordinates: 31.62701,-7.98412
   orientation: portrait
   camera: Nikon D7500
@@ -262,15 +262,15 @@
   page: morocco
   section: streets
   pages:
-    - id: morocco-journey
+    - id: morocco
 
 
 
 - id: l-man-door
-  title: Framed
+  title: Eingerahmt
   location: Marrakech
   photographer: Louis Adams
-  content: Ross spotted this open door into a dark little room off the street, perfect for framing a shot and playing with the light and dark. I camped there for a while taking a load of pictures, and this was my favourite thanks to the burst of colour from the man’s robe.
+  content: Ross entdeckte diese Tür, die sich zu einem kleinen dunklen Raum öffnete – perfekt, um dem Zusammenspiel von Licht und Dunkelheit einen Rahmen zu geben. Ich kampierte dort für eine Weile und nahm eine Menge Bilder auf, aber dieses ist mein Lieblingsbild, aufgrund der farbenprächtigen Robe des Mannes.
   coordinates: 31.62696,-7.98505
   orientation: portrait
   camera: Nikon D7500
@@ -281,15 +281,15 @@
   page: morocco
   section: streets
   pages:
-    - id: morocco-journey
+    - id: morocco
 
 
 
 - id: l-men-street
-  title: Waiting
+  title: Warten
   location: Marrakech
   photographer: Louis Adams
-  content: There’s something about this scene that I love. It gives an honest representation of life in the medina and there’s a certain imperfect symmetry to it. I’d love to know what the two men are thinking...
+  content: Diese Szene hat was, das ich echt liebe. Sie spiegelt eine authentische Darstellung des Lebens in der Medina wider und hat dazu so eine irgendwie unvollkommene Symmetrie. Ich würde zu gerne wissen, was die beiden Männer denken ...
   coordinates:
   orientation: landscape
   camera: Nikon D7500
@@ -300,15 +300,15 @@
   page: morocco
   section: streets
   pages:
-    - id: morocco-journey
+    - id: morocco
 
 
 
 - id: r-man-bike
-  title: Spotlight
+  title: Im Scheinwerferlicht
   location: Marrakech
   photographer: Ross Walker
-  content: We were wandering through the markets when we stumbled upon this lovely bit of light pouring down onto the alleyway. I sat and waited for the right subject to arrive and hoped that the smoke from the occasional scooter would still be there. If you find a nice spot with good light it's definitely worth hanging around waiting for the moment to come to you.
+  content: Wir schlenderten durch die Märkte, als wir auf eine Gasse stießen in die dieser schöne Lichtstrahl fiel. Ich setzte mich und wartete auf das richtige Motiv in der Hoffnung, dass der Rauch der gelegentlich vorbeifahrenden Roller sich nicht verziehen würde. Wenn Sie einen schönen Platz mit gutem Licht finden, ist es das Warten auf den richtigen Moment unbedingt wert.
   coordinates:
   orientation: portrait
   camera: Nikon D850
@@ -319,15 +319,15 @@
   page: morocco
   section: streets
   pages:
-    - id: morocco-journey
+    - id: morocco
 
 
 
 - id: r-man-donkey
-  title: Respite
+  title: Kurze Rast
   location: Marrakech
   photographer: Ross Walker
-  content: To escape the frantic atmosphere of the market we found the smaller alleyways quite a relief. Exploration is so vital to photography, so if you're not achieving what you want, don't be worried about finding somewhere new. I loved the shadows cast on this man's face and waited for him to turn his head to where I needed it. I shot this on quite a low aperture to blur the background but also keep him and his donkey in focus.
+  content: Der hektischen Marktatmosphäre zwischendurch in kleine Seitengassen zu entfliehen, empfanden wir als absolute Erleichterung. Die Erforschung eines Ortes ist ein wichtiger Bestandteil der Fotografie, wenn man also nicht gleich das findet, was man sich vorgestellt hat, findet sich sicher etwas anderes. Ich mochte die Schatten auf dem Gesicht dieses Mannes und wartete darauf, dass er seinen Kopf in die richtige Richtung drehte. Die Aufnahme habe ich mit einer ziemlich geringen Blendenöffnung geschossen, um den Hintergrund unscharf zu stellen, aber auch, um ihn und seinen Esel in den Fokus zu stellen.
   coordinates:
   orientation: landscape
   camera: Nikon D850
@@ -338,7 +338,7 @@
   page: morocco
   section: streets
   pages:
-    - id: morocco-journey
+    - id: morocco
 
 
 
@@ -346,7 +346,7 @@
   title: Pause
   location: Marrakech
   photographer: Ross Walker
-  content: Perched on the curb this man seemed lost in his thoughts, so I sat at a distance and tried not to disturb him. I love when a photo translates an emotion to the audience. This photo is shot on low aperture to gain the bokeh in the background.
+  content: Auf dem Bordstein sitzend schien dieser Mann in Gedanken verloren, also setzte ich mich in einigem Abstand, um ihn nicht zu stören. Ich liebe es, wenn ein Foto eine Emotion auf die Betrachter überträgt. Dieses Foto ist mit niedriger Blendenöffnung aufgenommen, um das Bokeh im Hintergrund herauszuarbeiten.
   coordinates:
   orientation: landscape
   camera: Nikon D850
@@ -357,15 +357,15 @@
   page: morocco
   section: streets
   pages:
-    - id: morocco-journey
+    - id: morocco
 
 
 
 - id: r-old-man
-  title: The Man
+  title: Der Mann
   location: Marrakech
   photographer: Ross Walker
-  content: With so much of photography it's just 'right time, right place'. Having your camera on you as much as possible lessens the chance of missing an opportunity. With this photo I happened to notice this old man as he walked out of an alleyway. I offered him some money in order to take his photo. It's not always that tasteful paying, but if you really want the shot, handing over a bit of money can help.
+  content: Bei so vielen Fotos gilt einfach „richtige Zeit, richtiger Ort". Die Kamera so oft wie möglich bei sich zu haben, verringert die Wahrscheinlichkeit, eine Gelegenheit zu verpassen. Bei diesem Foto bemerkte ich zufällig diesen alten Mann, als er aus einer Gasse trat. Ich bot ihm etwas Geld, um das Foto schießen zu dürfen. Es ist nicht immer angenehm Geld anzubieten, aber wenn Sie ein Foto wirklich wollen, kann etwas Geld helfen.
   coordinates:
   orientation: landscape
   camera: Nikon D850
@@ -376,15 +376,15 @@
   page: morocco
   section: streets
   pages:
-    - id: morocco-journey
+    - id: morocco
 
 
 
 - id: r-warehouse
-  title: Golden Hour
+  title: Goldene Stunde
   location: Marrakech
   photographer: Ross Walker
-  content: Golden hour is considered by many to be the best time to shoot. It occurs shortly after sunrise or before sunset and gives your photo a certain magic. If you plan a photograph I'd definitely recommend scheduling the shot for the golden hour. I find the sunrise easier as there's usually less people around. For this shot Louis and I crouched down and waited for the right people to arrive. We were shooting on burst mode because lots of the traffic was moving quickly and we didn't want to miss the shot.
+  content: Die Goldene Stunde, diese besondere Lichtqualität  kurz nach Sonnenaufgang oder vor Sonnenuntergang, gilt für viele als die beste Zeit zum Fotografieren, denn sie verleiht Ihrem Foto eine gewisse Magie. Wenn Sie eine bestimmte Aufnahme planen, würde ich definitiv empfehlen, diese für die goldene Stunde anzusetzen. Ich persönlich finde es bei Sonnenaufgang leichter, da normalerweise weniger Leute unterwegs sind. Für dieses Foto hockten Louis und ich uns hin und warteten auf passende Leute. Wir haben im Burst-Modus fotografiert, weil sich der Verkehr schnell bewegte und wir den richtigen Augenblick nicht verpassen wollten.
   coordinates: 31.62517,-7.98769
   orientation: landscape
   camera: Nikon D850
@@ -395,15 +395,15 @@
   page: morocco
   section: streets
   pages:
-    - id: morocco-journey
+    - id: morocco
 
 
 
 - id: l-mountain-village-2
-  title: Outpost
+  title: Dörfer
   location: Atlas Mountains
   photographer: Louis Adams
-  content: Out in the mountains we found these incredible villages. They were often far in the distance, so Ross recommended I use my zoom lens to really pick apart the detail of the houses. The different shades of the hills behind serve as a dynamic backdrop for this shot.
+  content: Draußen in den Bergen fanden wir diese unglaublichen Dörfer ... Sie lagen oft wirklich weit in der Ferne, also empfahl Ross, mein Zoom-Objektiv zu nutzen, um die Details der Häuser wirklich herauszuarbeiten. Die verschiedenen Schattierungen der dahinter liegenden Hügel dienen als dynamische Kulisse für diese Aufnahme.
   coordinates: 31.37453,-7.79057
   orientation: portrait
   camera: Nikon D7500
@@ -414,13 +414,13 @@
   page: morocco
   section: atlas-mountains
   pages:
-    - id: morocco-journey
+    - id: morocco
 
 - id: l-mountain-village
-  title: Valley
+  title: Tal
   location: Atlas Mountains
   photographer: Louis Adams
-  content: We found another village with a great backdrop, but Ross suggested I add some perspective to the shot by getting some of this long grass in the foreground. The grass was blowing around in the wind so I had to take a few to get it right, but here the grass ends up framing the shot which was a welcome bonus.
+  content: Als wir ein weiteres Dorf mit einer großartigen Kulisse fanden, schlug Ross vor, der Aufnahme mehr Perspektive hinzuzufügen, und ein Paar der langen Gräsern mit in den Vordergrund zu nehmen. Da sie im Wind wehten, musste ich ein paar Aufnahmen machen, um es richtig hinzubekommen. Als Endresultat geben sie dem Foto nun einen Rahmen – ein willkommener Bonus.
   coordinates: 31.37453,-7.79057
   orientation: portrait
   camera: Nikon D7500
@@ -431,7 +431,7 @@
   page: morocco
   section: atlas-mountains
   pages:
-    - id: morocco-journey
+    - id: morocco
 
 
 
@@ -439,7 +439,7 @@
   title: Silhouette
   location: Atlas Mountains
   photographer: Louis Adams
-  content: After a frantic rush to find a spot for sunset, we found a ridge that the sun would set behind. Out of nowhere this young lad trotted into shot on his donkey. The bright sun behind the boy meant I had the ISO on low, leading to a silhouette effect.
+  content: Nach einer hektischen Suche nach dem perfekten Platz, um den Sonnenuntergang festzuhalten, fanden wir diesen Gebirgskamm, hinter dem die Sonne langsam verschwand – und wie aus dem Nichts trabte plötzlich dieser junge Bursche auf seinem Esel ins Bild. Durch die helle Sonne im Hintergrund, musste ich den ISO-Wert niedrig halten, was zu einem Silhouetten-Effekt führte.
   coordinates:
   orientation: landscape
   camera: Nikon D7500
@@ -450,16 +450,15 @@
   page: morocco
   section: atlas-mountains
   pages:
-    - id: morocco-journey
-
+    - id: morocco
 
 
 
 - id: r-berber-woman
-  title: Mountain Flock
+  title: Die Ziegenherde
   location: Atlas Mountains
   photographer: Ross Walker
-  content: We were racing to reach a spot for the Golden Hour and when we arrived we were disappointed. Everyone bundled back into the van and we hurried back to the hills where we'd passed some Berber shepherds who were herding in their goats. This woman caught my eye so I attempted framing her with the goats in shot and the mountains in the distance. It's useful to break up a photo using foreground and background. I shot this on a zoom lens as she was quite a long distance away.
+  content: Eine Staubwolke hinter uns herziehend, rasten wir zu einem Ort, wo wir die Goldene Stunde nutzen wollten. Als wir ankamen wurden wir jedoch enttäuscht, also packten wir uns wieder ins Auto und eilten zurück zu den Hügeln, wo wir vorher an einigen Berberhirten mit ihren Ziegen vorbeigekommen waren. Die Frau fiel mir ins Auge, also versuchte ich, sie samt Ziegen im Vordergrund der Berge in den Rahmen zu bringen. Bei der Komposition ist es oft hiflreich, ein Foto in Vorder- und Hintergrund aufzuteilen. Ich habe das Foto mit einem Zoomobjektiv aufgenommen, da die Frau doch ziemlich weit weg war.
   coordinates:
   orientation: landscape
   camera: Nikon D850
@@ -470,15 +469,15 @@
   page: morocco
   section: atlas-mountains
   pages:
-    - id: morocco-journey
+    - id: morocco
 
 
 
 - id: r-children-donkey
-  title: Young explorers
+  title: Junge Entdecker
   location: Atlas Mountains
   photographer: Ross Walker
-  content: My favourite way to shoot is to walk in a place I imagine could have great photo opportunities - sadly that luxury isn't always there and most of the time you'll see something when you're travelling in a car and wish that you'd stopped and taken that photo. I'd recommend stopping. For this photo we were hurtling through the hills in our van when we noticed these boys galloping across the field on their donkey. We luckily stopped and I managed to take this shot. Having the bare hills in the background gives the impression these kids are in the middle of the wilderness.
+  content: "Am liebsten fotografiere ich, indem ich spontan zu Plätzen laufe, von denen großartige Foto-Motive erwarte – aber leider ist dieser Luxus nicht immer gegeben. Meistens sieht man etwas, wenn man mit dem Auto unterwegs ist und wünscht sich später, man hätte doch angehalten, um dieses Foto zu schießen – also mein Tippp: Immer, wirklich immer anhalten. So entstand auch dieses Foto: Wir rasten in unserem Van durch die Hügel, als wir diese Jungs auf ihrem Esel über das Feld galoppieren sahen. Wir hielten also an und mir ist diese Aufnahme gelungen. Durch die kargen Hügel im Hintergrund entsteht der Eindruck die Kinder seien mitten in der Wildnis."
   coordinates:
   orientation: landscape
   camera: Nikon D850
@@ -489,15 +488,15 @@
   page: morocco
   section: atlas-mountains
   pages:
-    - id: morocco-journey
+    - id: morocco
 
 
 
 - id: r-mountains-farmer
-  title: Keeping Watch
+  title: Allein in der Weite
   location: Atlas Mountains
   photographer: Ross Walker
-  content: During our trip to the Atlas Mountains I noticed this solitary figure sat on the horizon. I used the zoom lens as he was quite far away and blurred the foreground using a lower aperture.
+  content: Während unserer Reise durch das Atlasgebirge bemerkte ich eine einsame Gestalt am Horizont. Da sie ziemlich weit weg war, benutzte ich das Zoom-Objektiv und eine niedrige Blendenöffnung, um den Vordergrund unscharf zu machen.
   coordinates:
   orientation: landscape
   camera: Nikon D850
@@ -508,5 +507,5 @@
   page: morocco
   section: atlas-mountains
   pages:
-    - id: morocco-journey
+    - id: morocco
 

@@ -47,3 +47,9 @@ hr {
 .text--black hr    { background-color: rgba($grey-darkest,0.2); }
 .text--default hr { background-color: rgba($grey-darkest,0.2); }
 .text--white hr   { background-color: rgba($white,0.2); }
+
+.hr {
+  &--left { width: 80px; margin-left: 0; }
+  &--right { width: 80px; margin-right: 0; }
+  &--center { width: 80px; margin-left: auto; margin-right: auto; }
+}

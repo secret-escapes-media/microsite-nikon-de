@@ -6,22 +6,22 @@
   job: UK Managing Editor
   instagram: londontravelgirl
   content: >
-    <p class="text--lg">This is Eleanor, the Managing Editor for Secret Escapes. She loves travelling and documenting her adventures, but is ready to take her photos to the next level with a Nikon D-SLR. She joined Craig to explore Iceland and learn how to capture great snapshots of this enchanting land.</p>
+    <p class="text--lg">Das ist Eleanor, Managing Editor von Secret Escapes UK. Sie liebt es zu Reisen und ihre Abenteuer zu dokumentieren. Mit einer Nikon Spiegelreflexkamera bringt sie ihre Aufnahmen auf das nächste Level, indem Sie zusammen mit Fotograf Craig Island erkundet und lernen wird, wie man die besten Schnappschüsse in diesem atemberaubenden Land macht.</p>
   section: photographers
   pages:
-    - id: iceland-journey
+    - id: iceland
 
 
 
 - id: craig-howes
   title: Craig Howes
-  job: Professional Photographer
+  job: Profi-Fotograf
   instagram: craighowes
   content: >
-    <p class="text--lg">Craig has travelled all over the world and his inspiring panoramic images have made him one of the most-followed travel photographers around. Craig has previously filmed in Iceland so has inside knowledge on the best spots to capture those awe inspiring shots.</p>
+    <p class="text--lg">Craig hat schon die ganze Welt bereist und seine inspirierenden Panoramabilder haben ihn zu einem der populärsten Reisefotografen gemacht. Er hat bereits zuvor in Island gedreht und verfügt über Insider-Wissen zu den besten Hot-Spots, um diese sensationellen Bilder einzufangen.</p>
   section: photographers
   pages:
-    - id: iceland-journey
+    - id: iceland
 
 
 
@@ -30,46 +30,46 @@
   job: Supply Manager
   instagram: louisoadams
   content: >
-    <p class="text--lg">This is Louis, Supply Planning Manager at Secret Escapes. He’d never used a D-SLR before this trip and always found himself frustrated at not being able to take better photos when away on his travels. To learn the art of great travel photography, he set off with Ross to explore the incredibly diverse country of Morocco.</p>
+    <p class="text--lg">Das ist Louis, Supply Planning Manager bei Secret Escapes UK. Vor dieser Reise hatte er noch nie eine Spiegelreflexkamera benutzt und war immer frustriert, dass er auf seinen Reisen keine besseren Fotos machen konnte. Um die Kunst der großartigen Reisefotografie zu erlernen, machte er sich mit Ross auf den Weg, um das unglaublich vielfältige Marokko zu erkunden.</p>
   section: photographers
   pages:
-    - id: morocco-journey
+    - id: morocco
 
 
 
 - id: ross-walker
   title: Ross Walker
-  job: Professional Photographer
+  job: Profi-Fotograf
   instagram: rosscarmaltwalker
   content: >
-    <p class="text--lg">Ross Walker is a passionate photographer with a love of travel. He has travelled the world exploring incredible destinations, always looking to meet locals and capture their lives with his camera. His ambition is to immerse his audience into the myriad of cultures he explores.</p>
+    <p class="text--lg">Ross Walker ist leidenschaftlicher Fotograf mit ebensolcher Liebe zum Reisen. Er ist durch die Welt gereist und hat unglaubliche Ziele erkundet, immer versucht, Einheimische zu treffen und ihr Leben mit seiner Kamera einzufangen. Sein Ziel ist es, sein Publikum in die unzähligen Kulturen eintauchen zu lassen, die er erkundet.</p>
   section: photographers
   pages:
-    - id: morocco-journey
+    - id: morocco
 
 
 
 - id: marianna-sgherri
   title: Marianna Sgherri
-  job: Italian Managing Editor
+  job: Editorial Managerin Italien
   instagram: mariannasgherri
   content: >
-    <p class="text--lg">Marianna is the Managing Editor for Italy at Secret Escapes. She has a passion for storytelling, documenting her travels around the world through social media and blogs. To complement her stories, she was keen to learn more about D-SLR photography on a trip to iconic New York.</p>
+    <p class="text--lg">Marianna ist Editorial Managerin für Italien bei Secret Escapes. Ihre Leidenschaft für das Geschichtenerzählen nutzt sie auch für die Dokumentation ihrer Reisen in sozialen Netzwerken und Blogs. Um dies zu ergänzen, wollte sie bei Ihrem Ausflug in das legendäre New York mehr über die Fotografie mit einer Spiegelreflexkamera erfahren.</p>
   section: photographers
   pages:
-    - id: new-york-journey
+    - id: new-york
 
 
 
 - id: victoria-campbell
   title: Victoria Campbell
-  job: Professional Photographer
+  job: Profi-Fotograf
   instagram: vicsjcampbell
   content: >
-    <p class="text--lg">Victoria is a British native currently living in Minnesota, USA. Vic began photographing at age 16 with her step-dad's 35mm Nikon film camera. When Vic isn’t photographing the North Shore of Minnesota, she can be found in different international locations capturing anything from rugged landscapes to the bustle of city life.</p>
+    <p class="text--lg">Victoria und lebt derzeit nach längerem Auslandsaufenthalt wieder in London. Mit 16 Jahren begann sie mit der 35-mm-Nikon-Filmkamera ihres Stiefvaters zu fotografieren und liebt das Reisen in fremde Städte und andere Kulturen. Ihre liebste Reisebegleitung ist – neben ihrem Mann – natürlich ihre Kamera.</p>
   section: photographers
   pages:
-    - id: new-york-journey
+    - id: new-york
 
 
 

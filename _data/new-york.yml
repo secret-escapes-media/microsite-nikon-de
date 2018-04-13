@@ -2,10 +2,10 @@
 
 
 - id: m-street-reflection
-  title: Reflection
+  title: Reflektion
   location: New York
   photographer: Marianna Sgherri
-  content: This is one of the very first photos I took in Chinatown. It had rained heavily the night before, so there were puddles everywhere. Vic suggested I use this to my advantage and try and capture street shots reflected in the water. This shot worked nicely, as the little girl is so animated and full of joy.
+  content: Dies war eines der allerersten Fotos, die ich in Chinatown gemacht habe. In der Nacht zuvor hatte es stark geregnet, daher waren überall Pfützen. Victoria schlug vor, mir dies zum Vorteil machen und Straßenszenen einzufangen, die sich im Wasser spiegeln. Diese Aufnahme finde ich besonders gelungen, da das kleine Mädchen so lebhaft und glücklich wirkt.
   coordinates: 40.71575,-73.99703
   orientation: landscape
   camera: Nikon D7500
@@ -24,7 +24,7 @@
   title: Moment
   location: New York
   photographer: Marianna Sgherri
-  content: This is probably my favourite photo from the trip. We ended up in a park in Chinatown, where loads of men met every day to play chess. While looking around this man grabbed my attention. He was sitting on a bench on his own, reading a newspaper with the railing framing him perfectly. I started taking pictures of him when, all of a sudden, he smiled. I’m still wondering what made him chuckle. To give a sense of depth to the picture, I kept the aperture quite wide.
+  content: Dies ist wahrscheinlich mein Lieblingsfoto dieser Reise. Uns hatte es in diesen Park in Chinatown verschlagen, wo sich täglich viele Männer treffen, um Schach zu spielen und während ich mich umschaute, erweckte dieser Mann meine Aufmerksamkeit. Er saß, vom Geländer perfekt eingerahmt, alleine auf einer Bank und las Zeitung. Ich fing an, ihn zu fotografieren, als er plötzlich lächelte. Ich frage mich noch immer, was ihn wohl amüsiert hat. Um dem Bild eine gewisse Tiefe zu geben, habe ich eine große Blendenöffnung verwendet.
   coordinates: 40.71496,-73.99965
   orientation: landscape
   camera: Nikon D7500
@@ -40,10 +40,10 @@
 
 
 - id: m-fire-station
-  title: The Fire Station
+  title: Die Feuerwache
   location: New York
   photographer: Marianna Sgherri
-  content: We were wandering around Meatpacking District at night when Vic and I saw this fire station glowing in the dark on the other side of the street. The light was too good to miss! I had to quickly change the settings on the camera though, decreasing ISO, increasing the shutter speed, as we had been shooting night shots.
+  content: In der Nacht bummelten wir durch den Meatpacking District, als Victoria und mir im Dunkeln diese Feuerwache von der anderen Straßenseite entgegenleuchtete. Das Licht war zu gut, also wollte ich die Gelegenheit nicht verpassen. Ich musste allerdings die Einstellungen an der Kamera schnell ändern, den ISO-Wert verringern und die Verschlusszeit erhöhen, da wir ja vorher Nachtaufnahmen gemacht hatten.
   coordinates: 40.71531,-73.99289
   orientation: portrait
   camera: Nikon D7500
@@ -59,10 +59,10 @@
 
 
 - id: m-police-wallst
-  title: The Law
+  title: Das Gesetz
   location: New York
   photographer: Marianna Sgherri
-  content: Should you happen to go to NYC do not miss Wall Street. It’s the ultimate real-life version of Gotham. High, dark buildings, narrow streets, and people literally running from one place to another. In this chaos, there’s so much to photograph! I happened to notice these two men talking animatedly so I decided to find a spot where they wouldn’t notice me as I didn’t want them to stop behaving naturally. It paid off – this shot captures a real, gritty moment between these two characters.
+  content: Bei einem Besuch in New York sollten Sie sich die Wall Street nicht entgehen lassen. Hier können Sie das echte Gotham-City-Feeling erleben. Hohe, dunkle Gebäude, enge Straßen und Leute, die buchstäblich von A nach B hetzen. In diesem Chaos gibt es echt viel zu fotografieren. Zufällig bemerkte ich, dass sich diese beiden Männer angeregt unterhielten, also suchte ich mir einen Platz, an dem sie mich nicht bemerken würden, weil ich diese authentische Szene nicht unterbrechen wollte. Es hat sich gelohnt – diese Aufnahme fing einen echten und ungestellten Moment zwischen den zwei Charakteren ein.
   coordinates: 40.70695,-74.00973
   orientation: landscape
   camera: Nikon D7500
@@ -78,10 +78,10 @@
 
 
 - id: m-subway
-  title: Commuter
+  title: Pendler
   location: New York
   photographer: Marianna Sgherri
-  content: Subway stations are another great set for street photography. Quite often people are so immersed in their thoughts that they don’t even notice you’re photographing them. This guy was an exception! He noticed I was pointing the camera at him, and instead of hiding behind the wall he basically posed for me.
+  content: U-Bahn-Stationen bieten eine großartige Kulisse für Straßenfotografie, denn oft sind die Leute so in ihre Gedanken vertieft, dass sie gar nicht merken, dass man sie fotografiert. Dieser Mann war eine Ausnahme. Er bemerkte, dass ich die Kamera auf ihn richtete – aber statt sich hinter der Säule zu verstecken, posierte er für mich.
   coordinates: 40.71953,-74.00199
   orientation: portrait
   camera: Nikon D7500
@@ -97,10 +97,10 @@
 
 
 - id: v-street-girls
-  title: Friends
+  title: Freunde
   location: New York
   photographer: Victoria Campbell
-  content: One of the things I love about NYC is that every street corner has something unique to offer. We were actually walking from one location to the next when I was struck by this perfect, colourful backdrop that juxtaposes the two women dressed in black sharing a joke and laughing. I love street photography because you feel as if you’re sharing a stranger’s moment – I found myself laughing with these ladies when I hit the shutter.
+  content: "Eine Sache, die ich an New York besonders liebe, ist, dass es wirklich an jeder Straßenecke etwas Einzigartiges gibt. Wir liefen gerade von einer Location zur nächsten, als ich plötzlich von dieser fantastisch farbenfrohen Kulisse abgelenkt wurde, die perfekt von den schwarz gekleideten Frauen in freudigem Miteinander kontrastiert wird. Ich liebe Straßenfotografie, weil man das Gefühl hat, man würde den Moment einer Fremden Person teilen – bei diesen Ladies musste ich mitlachen, als ich den Auslöser drückte."
   coordinates:
   orientation: landscape
   camera: Nikon D850
@@ -119,7 +119,8 @@
   title: Little Italy
   location: New York
   photographer: Victoria Campbell
-  content: As Marianna so perfectly put whilst we were there, 'Little Italy is an exaggerated version of everything Italian', and I think this picture captures just that. I wasn’t sure if the man sat at the table was the owner of the restaurant or just a customer who fit so perfectly in with the vibe of this iconic street. I spent a few minutes observing him and was fascinated by his contentment in people watching. I originally imagined just capturing the man by himself but I like the addition of the tourist strolling past him, it felt truer to the moment and the location.
+  content: >
+    Wie Marianna vor Ort so schön sagte: „Little Italy ist eine völlig überspitzte Version von allem Italienischen" – und ich glaube, dieses Bild fängt genau dieses Gefühl ein. Ich war mir nicht sicher, ob der Mann, der hier am Tisch sitzt und so perfekt in die Atmosphäre dieser typischen Straße passt, nun der Besitzer des Restaurants ist oder ein Kunde. Ich habe ihn jedenfalls ein paar Minuten fasziniert beim Leute beobachten zugesehen, weil er so zufrieden wirkte. Ursprünglich wollte ich den Mann gerne alleine porträtieren, aber in diesem Kontext passte es, dass ein Fußgänger das Bild passiert.
   coordinates: 40.71914,-73.99732
   orientation: portrait
   camera: Nikon D850
@@ -135,10 +136,10 @@
 
 
 - id: v-games
-  title: Chinese Chess
+  title: Chinesisches Schach
   location: New York
   photographer: Victoria Campbell
-  content: We came across a park, not far from our hotel where every single table was taken over by groups of men and women playing Chinese chess. It can sometimes feel like you are being invasive when taking candid portraits but these guys were so much in their zone they barely noticed our cameras and when they did, they immediately went straight back into their zone, as pictured here.
+  content: In dem Park unweit unseres Hotels, war jeder Tisch von Gruppen von Männern und Frauen besetzt, die chinesisches Schach spielten. Bei solchen Aufnahmen kann es oft vorkommen, dass man sich wie ein Eindringling fühlt, aber diese Herren waren so sehr in ihr Spiel vertieft, dass sie unsere Kameras kaum bemerkten, und wenn sie es taten, widmeten sie sich sofort wieder völlig unbeeindruckt ihrem Spiel – wie auch auf diesem Foto.
   coordinates: 40.71566,-73.99999
   orientation: portrait
   camera: Nikon D850
@@ -154,10 +155,10 @@
 
 
 - id: v-games-step
-  title: Competition
+  title: Die Ruhe weg
   location: New York
   photographer: Victoria Campbell
-  content: There is no shortage of people in a rush in NYC, nor people to tell you you are in their way, but these two men had chosen to sit down on the stairs on a Monday to play a game of chess. This alongside the backdrop of classic New York apartment building with its fire escape zigzagging between them, was a fantastic little escape from the busy city towering around them.
+  content: New York ist voll von Leuten in Eile, die einem auch gerne mal zu verstehen geben, dass man im Weg ist. Aber diese zwei Männer hatten beschlossen, sich an einem Montag auf die Treppe zu setzen, und in Ruhe eine Partie Schach zu spielen. Vor der Kulisse des klassischen New Yorker Wohnhauses samt Feuerleiter, die sich im Zickzack zwischen ihnen emporschlängelt, bot dieses Bild eine Insel der Gelassenheit in der Hektik der Großstadt.
   coordinates:
   orientation: portrait
   camera: Nikon D850
@@ -176,7 +177,7 @@
   title: Brooklyn Bridge
   location: New York
   photographer: Marianna Sgherri
-  content: After chasing sunrise at Brooklyn Park, we headed back towards Manhattan, walking across the most iconic bridge of NYC. It was quite early in the morning, so the path was not as crowded as it usually is. Vic and I had a lot of fun in capturing the structure of the bridge, which offers great symmetry. Half-way through the bridge I noticed there was a quite fascinating contrast between the old bricks of the bridge and the shiny skyscrapers of Manhattan. I was so focused on that contrast that I didn’t even notice I was cropping away the American flag at the top of the bridge. Vic immediately noticed it and helped me better frame the photo.
+  content: Nachdem wir dem Sonnenaufgang im Brooklyn Bridge Park hinterhergejagt waren, machten wir uns auf den Weg zurück nach Manhattan und überquerten die kultigste Brücke von New York. Es war noch immer ziemlich früh am Morgen, daher war es hier noch nicht so voll. Victoria und ich hatten viel Spaß beim Fotografieren der Brückenstruktur, die eine großartige Symmetrie hat. Auf halbem Weg über die Brücke bemerkte ich, dass zwischen den alten Ziegeln der Brücke und den glänzenden Wolkenkratzern von Manhattan ein faszinierender Kontrast besteht. Ich war so auf diesen Kontrast konzentriert, dass ich nicht einmal bemerkte, dass ich die amerikanische Flagge oben auf der Brücke nicht mehr im Bild hatte, aber Victoria hat es sofort gemerkt und mir geholfen, das Foto besser zu komponieren.
   coordinates: 40.70608,-73.99686
   orientation: landscape
   camera: Nikon D7500
@@ -192,10 +193,10 @@
 
 
 - id: m-through-bridge
-  title: Through the Bridge
+  title: Durch die Brücke
   location: New York
   photographer: Marianna Sgherri
-  content: City skylines always fascinate me. I quite liked the morning light hitting the surface of the skyscrapers and while I initially thought that the cables between me and the buildings wouldn’t look nice, now I think the diagonals add a nice geometrical framing to the image.
+  content: Ich bin immer fasziniert von Skylines – hier gefiel mir das Morgenlicht, das auf die Fassaden der Wolkenkratzer fiel, und obwohl ich anfänglich dachte, dass die Kabel der Brücke zwischen mir und den Gebäuden nicht gut aussehen würden, glaube ich jetzt, dass die Diagonalen dem Bild einen schönen geometrischen Rahmen geben.
   coordinates: 40.70426,-73.99465
   orientation: landscape
   camera: Nikon D7500
@@ -211,10 +212,10 @@
 
 
 - id: m-bridge-umbrella
-  title: Umbrella
+  title: Regenschirm
   location: New York
   photographer: Marianna Sgherri
-  content: It was raining heavily, so we decided to go back to Brooklyn to capture the iconic shot of the Manhattan bridge peeping between two red-brick buildings. I like the fact there was a person crossing the street with an umbrella; apart from being right in the middle of the street (which I love the symmetry of), it adds an interesting perspective to the picture. I was so glad that the D7500 was weather sealed, meaning I worried less and shot more.
+  content: Es regnete stark und so beschlossen wir, zurück nach Brooklyn zu fahren, um das berühmte Foto der Manhattan Bridge zu schießen, wie sie zwischen zwei roten Backsteinhäusern hervorlugt. Mir gefällt die Person, die die Straße mit einem Regenschirm überquert. Abgesehen davon, dass ich mitten auf der Straße stehe (was dem Bild eine fantastische Symmetrie verleiht), fügt es dem Bild eine interessante Perspektive hinzu. Ich war echt froh, dass die D7500 wetterfest war, da ich mir so weniger Sorgen, aber dafür mehr Bilder machte.
   coordinates: 40.70285,-73.9896
   orientation: portrait
   camera: Nikon D7500
@@ -233,7 +234,7 @@
   title: Docks
   location: New York
   photographer: Marianna Sgherri
-  content: Whilst these docks are famous for the superb view they offer of the skyline at sunset, we were pretty sure the golden light of dawn reflecting on the skyscrapers was going to be amazing, and it was! The low dawn light allowed us to take long exposure shots too. In this picture I kept my shutter open for a couple of seconds, allowing the camera to capture the movement of the water. The result is that shiny metallic smoothness you can see in the picture – I love it!
+  content: Da diese Docks für die herrliche Aussicht auf die Skyline bei Sonnenuntergang berühmt sind, waren wir uns ziemlich sicher, dass auch das goldene Licht der Morgendämmerung, das von den Wolkenkratzern reflektiert wird, großartig sein würde – und das war es auch! Das Licht bei Dämmerung erlaubte uns Aufnahmen mit langer Belichtungszeit. In diesem Bild hielt ich den Verschluss für ein paar Sekunden offen, damit die Kamera die Bewegung des Wassers erfassen konnte. Das Ergebnis ist die glänzende, fast metallische Oberfläche, die Sie auf dem Bild sehen können – ich liebe es!
   coordinates: 40.70029,-73.99669
   orientation: landscape
   camera: Nikon D7500
@@ -249,10 +250,10 @@
 
 
 - id: v-brooklyn-bridge
-  title: Symmetry
+  title: Symmetrie
   location: New York
   photographer: Victoria Campbell
-  content: The first thing that struck me about Brooklyn Bridge was the many different perspectives it had to offer. We shot from all angles, down low, slightly to the right, to the left and with extended arms up high, each shot looked unique. Having a camera in your hands can give you the ability to portray an object or moment how you want to, in this particular moment I wanted to portray the grandness of the bridge.
+  content: Das erste, was mir an der Brooklyn Bridge auffiel, waren die vielen verschiedenen Perspektiven, die sie zu bieten hatte. Wir fotografierten aus allen Richtungen, von unten, leicht nach rechts, links und hoch mit ausgestreckten Armen, jeder Schuss sah einzigartig aus. Wenn Sie eine Kamera in der Hand haben, können Sie ein Objekt oder einen Moment genau so darstellen, wie Sie es möchten. In diesem Moment wollte ich die Großartigkeit der Brücke darstellen.
   coordinates: 40.70426,-73.99465
   orientation: landscape
   camera: Nikon D850
@@ -271,7 +272,7 @@
   title: Destination
   location: New York
   photographer: Victoria Campbell
-  content: It was absolutely pouring with rain when arrived at Dumbo and it caused this amazing reflection on the road (and there were no tourists to block the view!). This particular spot is a really popular location to photograph so I wanted to try and capture it in a slightly different way. I brought my aperture down to f9, got really low down to the ground and placed focus on the middle of the road so that the light stream being caused from the reflection of the rain and the texture of the road became the focus of the image.
+  content: Es schüttete wie aus Eimern, als wir in Dumbo, Brooklyn ankamen, was diese fantastische Reflexion auf der Straße zur Folge hatte (und das ohne Touristen, die den Weg versperren!). Diese Location ist besonders beliebt, also wollte ich mal eine andere Perspektive probieren. Ich verringerte die Blendenöffnung auf f9, hielt die Kamera sehr tief und fokussierte mich auf die Mitte der Straße, so dass der Lichtstrom, der durch die Reflexion des Regens und die Beschaffenheit der Straße entstand, zum Mittelpunkt des Bildes wurde.
   coordinates: 40.70285,-73.9896
   orientation: portrait
   camera: Nikon D850
@@ -290,7 +291,7 @@
   title: East River
   location: New York
   photographer: Victoria Campbell
-  content: This was actually our second attempt at Brooklyn Bridge Park. The first morning we went, we missed sunrise and it was overcast so we didn’t get the results we were looking for. Luckily, the second time there was a golden hue in the sky creating gorgeous shadows and reflections on the skyline. I loved the idea of combining water with the skyline. To get the misty, almost magical effect of the water I set my camera up on the tripod for a long exposure, brought my ISO down to LO1 (the equivalent of ISO 32) so that I could set a very low shutter speed, blurring the movement of the water and the clouds. I also used an ND filter that lengthened my exposure time and softened the reflections. I highly recommend waking up extra early to capture the city at sunrise, there really is no comparison during the day.
+  content: "Dies war tatsächlich unser zweiter Versuch im Brooklyn Bridge Park. Beim ersten Versuch haben wir den Sonnenaufgang nämlich verpasst und zusätzlich war es bedeckt, sodass wir mit den Ergebnissen nicht zufrieden waren. Beim zweiten Mal glänzte der Himmel zum Glück in einem schönen Goldton, was wunderschöne Schatten und Reflexionen auf der Skyline erzeugte. Mir gefiel die Idee, die Grenze zwischen Wasser und Skyline zu verwischen. Um diesen nebligen, fast magischen Effekt zu erhalten, habe ich meine Kamera für eine lange Belichtung auf das Stativ gestellt und meinen ISO-Wert auf LO1 gedreht (das Äquivalent von ISO 32), sodass ich eine sehr niedrige Verschlusszeit einstellen konnte, die die Bewegung des Wassers und der Wolken verschwimmen lässt. Zusätzlich benutzte ich einen ND-Filter, der meine Belichtungszeit verlängerte und die Reflexionen weicher machte. Ich empfehle, sehr früh aufzustehen, um die Stadt bei Sonnenaufgang zu einzufangen, da es tagsüber nichts Vergleichbares gibt."
   coordinates: 40.70029,-73.99669
   orientation: landscape
   camera: Nikon D850
@@ -306,10 +307,10 @@
 
 
 - id: m-down-from-rock
-  title: From the Rock
+  title: Vom Top of the Rock
   location: New York
   photographer: Marianna Sgherri
-  content: It took me a few minutes to grab my camera once we arrived on the Top of the Rock, so in awe was I at the view! The urban landscape here is so beautiful, you feel there’s no end to it. I started shooting the tops of the buildings, but wasn’t quite happy with the result. Vic suggested I include the terrace in my picture to give a sense of perspective to the photo. To keep everything in focus, I used a slow aperture.
+  content: Als wir auf dem Dach des Rockefeller Centers ankamen, brauchte ich erst ein paar Minuten, bis ich zu meiner Kamera griff, so überwältigt war ich von dieser Aussicht. Das Stadtbild ist so schön – und es scheint endlos weiter zu gehen. Ich fing an, die Gebäude zu fotografieren, war aber nicht ganz zufrieden mit dem Ergebnis. Victoria schlug vor, die Terrasse in das Bild zu integrieren, um dem Foto eine Perspektive zu geben. Um alles scharf zu stellen, benutzte ich eine niedrige Blendenöffnung.
   coordinates: 40.75883,-73.97834
   orientation: landscape
   camera: Nikon D7500
@@ -325,10 +326,10 @@
 
 
 - id: m-rock-lookout
-  title: Icon
+  title: Ikone
   location: New York
   photographer: Marianna Sgherri
-  content: One of the reasons why many people prefer the Top of the Rock to the Empire State Building is that you can actually see the iconic Empire State Building from the Top of the Rock! Despite the moody weather the visibility was good, and I spotted the Statue of Liberty on the horizon. I quite liked the idea of capturing two icons of NYC in one shot and decided to apply the ‘rule of thirds’ Vic had mentioned earlier, shifting the framing so that the Empire State Building is in the left-hand third of the picture.
+  content: Einer der Gründe, warum viele Leute das Dach des Rockefeller Centers (Top of the Rock) dem Empire State Building vorziehen, ist, dass man eben dieses von hier aus sehen kann. Trotz des launischen Wetters war die Sicht so gut, dass ich sogar die Freiheitsstatue am Horizont sehen konnte. Mir gefiel die Idee, zwei Wahrzeichen von New York City in einem Foto zu haben, und entschied mich, die Drittel-Regel anzuwenden, die Victoria zuvor erwähnt hatte – der Bildausschnitt ist daher so gewählt, dass sich das Empire State Building im linken Drittel des Bildes befindet.
   coordinates:
   orientation: landscape
   camera: Nikon D7500
@@ -344,10 +345,10 @@
 
 
 - id: m-streets-from-rock
-  title: Twilight
+  title: Dämmerung
   location: New York
   photographer: Marianna Sgherri
-  content: I used the zoom lens for this one. While admiring the landscape from the Rock I noticed this little corner where the street (and the yellow taxis!) were visible. I love how the lights, popping up as the sun went down, are the same color as the taxis on the street.
+  content: Für dieses Foto habe ich das Zoom-Objektiv verwendet. Während ich die Aussicht vom Rockefeller Center bewunderte, fiel mir auf, dass zwischen den Häusern dieses kleine Stück Straße (samt der berühmten gelben Taxis) sichtbar war. Ich mag es, wie das Licht aus den Fenstern in der Dämmerung mit der Farbe der Taxis harmoniert.
   coordinates: 40.75883,-73.97834
   orientation: portrait
   camera: Nikon D7500
@@ -363,10 +364,10 @@
 
 
 - id: m-flatiron
-  title: Flat Iron
+  title: Flatiron Building
   location: New York
   photographer: Marianna Sgherri
-  content: A double helping of NYC icons again! To really capture the unique shape of this building, Vic suggested I use a wide-angle lens and get quite far away from it. This allowed me to highlight the contrast of Flat Iron compared to the other buildings that surround it. I took this picture while standing in the middle of the street (of course when cars were stuck at a red light!), as I wanted to frame the building dead-centre.
+  content: Das Flatiron Building ist ein weiteres weltbekanntes Wahrzeichen von New York. Um die einzigartige Form dieses Baus richtig einfangen zu können, schlug Victoria vor, ein Weitwinkelobjektiv zu nehmen und aus großer Distanz zu fotografieren. So konnte ich den Kontrast vom Flatiron Building im Vergleich zu den umliegenden Gebäuden hervorheben. Bei der Aufnahme stand ich mitten auf der Straße (natürlich während die Autos Rot hatten), da ich das Gebäude genau in der Mitte der Aufnahme positionieren wollte.
   coordinates: 40.74106,-73.98969
   orientation: landscape
   camera: Nikon D7500
@@ -382,10 +383,10 @@
 
 
 - id: v-graffiti
-  title: Graffiti
+  title: Streetart
   location: New York
   photographer: Victoria Campbell
-  content: "Contrast and juxtaposition are defining themes in New York City and there isn’t a more recognisable icon in New York than the Statue of Liberty. In this image, you see both: a classic row of brownstones slapped alongside a contemporary depiction of the Statue of Liberty, full of vibrant colours."
+  content: "Kontraste und Nebeneinander definieren New York – und es gibt wohl kein bekannteres Wahrzeichen als die Freiheitsstatue. Auf diesem Bild sehen Sie beides: eine für New York so typische Zeile der Brownstones genannten Altbauten, mit einer modernen wie farbenfrohen Interpretation der Freiheitsstatue."
   coordinates:
   orientation: landscape
   camera: Nikon D850
@@ -401,10 +402,10 @@
 
 
 - id: v-empire-state
-  title: Highrise
+  title: Wolkenkratzer
   location: New York
   photographer: Victoria Campbell
-  content: I wanted at least one image that conveyed the strength of New York City. Taken from the top of the Rockefeller Centre, the Empire State stands alone against the moody sky and conveys exactly the type of individuality that identifies New Yorkers from the rest of the country. I especially love in this picture, if you look very closely you can see the Nikon D850 was able to capture silhouettes in the windows finishing up evening work.
+  content: Ich wollte zumindest ein Foto machen, das die Kraft von New York City widerspiegelt. Von der Spitze des Rockefeller Centers aus gesehen, ragt das Empire State Building wie ein Solitär in den stimmungsvollen Himmel und vermittelt genau jene Art von Individualität, die New Yorker vom Rest der USA unterscheidet. Was ich an diesem Bild besonders mag, ist – wenn Sie genau hinschauen – dass die Nikon D850 in der Lage war, Silhouetten von Personen hinter den Fenstern zu erfassen, die gerade Feierabend machen.
   coordinates: 40.75883,-73.97834
   orientation: portrait
   camera: Nikon D850
@@ -423,7 +424,7 @@
   title: Subway
   location: New York
   photographer: Victoria Campbell
-  content: The subway is such a fun place to play with different photography techniques, especially when people are involved. I shot this a few seconds after a train had dropped commuters off. I waited for the girl in the image to reach the middle section of the pillars and it wasn’t until after I shot that I realised there was another woman to the left of the frame watching the girl. I love photographs that ask questions and that is exactly what I think this one does.
+  content: In der New Yorker U-Bahn macht es richtig Spaß, mit verschiedenen Foto-Techniken zu spielen – vor allem, wenn Personen involviert sind. Dieses Foto schoss ich ein paar Sekunden, nachdem ein Zug die Station verlassen hatte. Ich hatte gewartet, bis die junge Frau auf dem Bild genau zwischen den Säulen ankam, aber erst hinterher fiel mir auf, dass eine zweite Frau auf der linken Seite des Bildes sie beobachtete. Ich liebe Fotos, die Fragen aufwerfen, und genau das tut dieses Bild meiner Meinung nach.
   coordinates:
   orientation: landscape
   camera: Nikon D850
@@ -439,10 +440,10 @@
 
 
 - id: m-street-night
-  title: 24 Hrs
+  title: 24 Stunden
   location: New York
   photographer: Marianna Sgherri
-  content: This one was taken when strolling down famous 5th Avenue. I wanted to take a snap of what a random crossing in NYC looks like – loads of people, a couple of iconic signs such as the ‘one way’ sign and, inevitably,  McDonald’s, plus the traffic lights. For this picture my ISO was high and I kept the shutter speed low so I could give a sense of movement to the people walking.
+  content: Dieses Foto wurde aufgenommen, als wir die berühmte 5th Avenue hinunterspazierten. Ich wollte eine Momentaufnahme einer willkürlichen Kreuzung in New York City haben – jede Menge Leute, ein paar typische Schilder wie das One Way-Schild und, natürlich, McDonald's und die Ampeln. Für dieses Bild war mein ISO-Wert hoch und ich hielt die Verschlusszeit niedrig, um den Leuten eine gewisse Dynamik zu verleihen.
   coordinates: 40.75889,-73.98513
   orientation: landscape
   camera: Nikon D7500
@@ -458,11 +459,11 @@
 
 
 - id: m-time-sq
-  title: Stripes
+  title: Streifen
   location: New York
   photographer: Marianna Sgherri
-  content: While feeling like a kid in a candy shop in the bustling Times Square, I noticed an old couple sitting down in silence. The contrast between their calmness and the surrounding chaos simply needed to be captured. To avoid underexposure, I increased my ISO and aperture, and kept the shutter speed fast to freeze the moment.
-  coordinates: 
+  content: Während ich mich am lebhaften Times Square wie ein Kind im Spielzeugladen fühlte, bemerkte ich dieses ältere Paar, das schweigend dasaß. Der Kontrast zwischen ihrer Gelassenheit und dem sie umgebenden Chaos musste einfach festgehalten werden. Um eine Unterbelichtung zu vermeiden, habe ich meinen ISO-Wert sowie die Blendenöffnung erhöht und die Verschlusszeit schnell gehalten, um den Moment festzuhalten.
+  coordinates:
   orientation: portrait
   camera: Nikon D7500
   lens: 14-24mm f/2.8
@@ -477,10 +478,10 @@
 
 
 - id: m-purple-night
-  title: Glow
+  title: Leuchtend
   location: New York
   photographer: Marianna Sgherri
-  content: We were so lucky we had this view from our hotel! The weather was so dramatic that night. All the lights shining in the dark created a glow against the clouds moving fast over Manhattan’s sky. I played a bit with my camera, until Vic suggested I use a slower shutter speed and shoot with the camera on a pillar of the rooftop terrace. This way I could capture the movement of the clouds and catch as much light as possible.
+  content: Mit der Aussicht von unserem Hotel hatte wir echt richtig Glück und an diesem Abend war das Wetter spektakulär. Alle Lichter der Stadt reflektierten auf den Wolken, die ziemlich schnell über den Himmel Manhattans zogen. Ich spielte ein bisschen mit meiner Kamera herum, bis Victoria mir vorschlug, eine langsamere Verschlusszeit zu verwenden und die Kamera auf einen unbeweglichen Untergrund auf der Dachterrasse zu legen, damit nichts verwackelt. Auf diese Weise konnte ich die Bewegung der Wolken erfassen und so viel Licht wie möglich einfangen.
   coordinates:
   orientation: landscape
   camera: Nikon D7500
@@ -499,7 +500,7 @@
   title: Patriot
   location: New York
   photographer: Victoria Campbell
-  content: I spotted this young boy as he was posing for a picture for his parents in the middle of Times Square. They were photographing him with the square behind him but I loved the American flag that was flashing behind him from the other side.
+  content: Ich erblickte diesen kleinen Jungen, wie er mitten auf dem Times Square für seine Eltern posierte. Sie fotografierten ihn mit dem Platz im Hintergrund, aber mir gefiel die amerikanische Flagge, die von der anderen Seite hinter ihm leuchtete.
   coordinates: 40.75889,-73.98513
   orientation: portrait
   camera: Nikon D850
@@ -515,10 +516,10 @@
 
 
 - id: v-times-sq-cyclist
-  title: Passing Through
+  title: Verkehr
   location: New York
   photographer: Victoria Campbell
-  content: Night photography can be a little overwhelming, especially in the midst of places like Times Square where there is such a busy atmosphere. I wanted to capture as many moving elements as I could; the lights, the traffic, and the people. I used a fast shutter speed for this photograph in order to avoid the taxis and the bike in the frame blurring, meaning my ISO had to be set at a high 2000.
+  content: Nachtaufnahmen können ein wenig überfordernd sein, vor allem an Orten wie dem Times Square, wo so eine geschäftige Atmosphäre herrscht. Ich wollte so viele bewegliche Elemente wie möglich erfassen – die Lichter, den Verkehr und die Leute. Ich benutzte eine kurze Verschlusszeit für dieses Foto, um zu vermeiden, dass die Taxis und das Fahrrad im Bild verschwimmen, sodass mein ISO-Wert auf hohe 2000 eingestellt werden musste.
   coordinates:
   orientation: landscape
   camera: Nikon D850
@@ -534,10 +535,10 @@
 
 
 - id: v-street-man
-  title: Our Streets
+  title: Unsere Straßen
   location: New York
   photographer: Victoria Campbell
-  content: We were walking around Chinatown one rainy evening and I noticed a group of men hanging outside a restaurant. I pointed my camera towards the group and one of them in particular seemed to love the attention; this guy. We asked if we could take his portrait and without any direction whatsoever he started to pose. With this image, I didn’t want to just capture him, I wanted to capture the environment that he was such a part of, as one visual package.
+  content: Als wir an einem regnerischen Abend durch Chinatown gingen, bemerkte ich eine Gruppe von Männern, die vor einem Restaurant rumhingen. Ich richtete meine Kamera auf die Gruppe und einer von ihnen schien die Aufmerksamkeit besonders zu genießen – dieser Typ. Wir fragten, ob wir ein Porträt von ihm aufnehmen könnten und er fing ohne weiteres an zu posieren. Mit diesem Bild wollte ich nicht nur ihn festhalten, ich wollte die Umgebung, von der er so ein elementarer Teil war, als visuelles Gesamtpaket einfangen.
   coordinates:
   orientation: portrait
   camera: Nikon D850

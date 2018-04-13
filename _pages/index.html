@@ -3,17 +3,17 @@ layout: default
 id: overview
 nav: true
 nav-order: 1
-title: Overview
+title: Überblick
 
 banner:
   title-sup: >
     <div class="banner__logo banner__logo--nikon"></div>
-  title: Capture the Journey
+  title: Reisen im Fokus
 
 intro: >
-  <p class="text--xl text--bold">Immerse yourself in effortlessly photogenic destinations with Secret Escapes and Nikon.</p>
-  <p class="text--xl">We sent three Secret Escapes colleagues, passionate about photography, to learn more about what it takes to capture the perfect shot. Accompanied by professional photographers, they set off to explore the wilds of Iceland, a riot of colour in Morocco, and the iconic metropolis of New York – discover their photographic journey.</p>
-  <p class="text--xl">Let these stories inspire your very own escape, with travel guides and irresistible hotel offers set to kickstart your wanderlust.</p>
+  <p class="text--xl text--bold">Folgen Sie Secret Escapes und Nikon zu den fotogensten Reisezielen der Welt.</p>
+  <p class="text--xl">Wir haben 3 fotobegeisterte Secret Escapes-Kolleg(inn)en auf die Reise geschickt, um in Begleitung professioneller Fotografen zu lernen, wie die perfekte Aufnahme gelingt. Zusammen haben sie die Naturgewalt Islands erkundet, die Farbenpracht Marokkos und die ikonischste Metropole überhaupt: New York City: Begleiten Sie uns auf eine spektakuläre fotografische Reise.</p>
+  <p class="text--xl">Lassen Sie sich von diesen Reisen inspirieren und schüren Sie mit Reiseberichten und unschlagbaren Hotelangeboten die eigene Wanderlust.</p>
 ---
 
 
@@ -26,7 +26,7 @@ intro: >
 
 
 
-{% assign destinations = site.html_pages | where: 'layout','group' | sort:'nav-order' %}
+{% assign destinations = site.html_pages | where: 'layout','journey' | sort:'nav-order' %}
 {% for destination in destinations %}
 <div class="container container--100 vpad--xxl bg--fixed" style="background-image:url({{site.img}}/content/{{page.id}}/{{destination.id}}-bg.png);">
   <div class="container">
@@ -58,7 +58,7 @@ intro: >
         <h3 class="title title--xl text--normal">{{destination.title}}</h3>
         <p class="text--lg">{{destination.intro.parent}}</p>
         <div class="space--md"></div>
-        <a href="{{site.baseurl}}{{destination.url}}" class="btn btn--solid">Read more</a>
+        <a href="{{site.baseurl}}{{destination.url}}" class="btn btn--solid">{{page.title}} entdecken</a>
       </div>
 
     </div>
@@ -69,4 +69,5 @@ intro: >
 
 
 
+{% include page/promo-nikon.html %}
 {% include page/promo-competition.html %}
