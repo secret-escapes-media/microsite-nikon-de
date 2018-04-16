@@ -1,9 +1,17 @@
 ---
-layout: offers
+layout: default
 id: holidays
 title: Reisen
 nav: true
 nav-order: 8
+
+group-sections:
+  - id: iceland
+    title: Island Reisen
+  - id: morocco
+    title: Morokko Reisen
+  - id: new-york
+    title: New York Reisen
 
 banner:
   title: Fotogene Reiseziele
@@ -14,3 +22,72 @@ intro:
     <p class="text--lg">Starten Sie hier, um Ihr eigenes Foto-Abenteuer in bildschönen Ländern zu planen</p>
     <p class="text--lg">Unsere Reisen nach Island, Marokko und New York haben Sie auf den Geschmack gebracht? Scrollen Sie sich durch luxuriöse Angebote in allen drei Destinationen und bereiten Sie Ihr eigenes Abenteuer vor. Jedes dieser Angebote beinhaltet auch einen Foto-Reiseführer, damit auch Sie das beste aus Ihrem Bildern holen können und Sie haben die Möglichkeit, Ihre Fotos anschließend als Buch drucken zu lassen – für bleibende Erinnerungen. </p>
 ---
+
+
+<!-- INTRO SECTION -->
+<div class="bg--grey-darker">
+  <div class="wp" id="guide"></div>
+  <div class="container vpad--xxl text--center">
+    {{page.intro.long}}
+  </div>
+</div>
+
+
+
+<div class="container vpad--xl">
+
+  {% assign iceland-offers = site.data.offers | where:'group','iceland' | sort:'saved' | reverse %}
+  <div class="wp" id="iceland"></div>
+  <div class="vpad--xl">
+    <div class="text--center">
+      <h2 class="title title--lg text--bold">Iceland offers</h2>
+      <hr class="hr--center">
+      <div class="space--lg"></div>
+    </div>
+    <div class="row row--xl-6-6 row--gutters-lg">
+      {% for offer in iceland-offers %}
+        <div class="col">
+          {% include offer/offer.html %}
+        </div>
+      {% endfor %}
+    </div>
+  </div>
+
+  {% assign morocco-offers = site.data.offers | where:'group','morocco' | sort:'saved' | reverse %}
+  <div class="wp" id="morocco"></div>
+  <div class="vpad--xl">
+    <div class="text--center">
+      <h2 class="title title--lg text--bold">Morocco offers</h2>
+      <hr class="hr--center">
+      <div class="space--lg"></div>
+    </div>
+    <div class="row row--xl-6-6 row--gutters-lg">
+      {% for offer in morocco-offers %}
+        <div class="col">
+          {% include offer/offer.html %}
+        </div>
+      {% endfor %}
+    </div>
+  </div>
+
+  {% assign new-york-offers = site.data.offers | where:'group','new-york' | sort:'saved' | reverse %}
+  <div class="wp" id="new-york"></div>
+  <div class="vpad--xl">
+    <div class="text--center">
+      <h2 class="title title--lg text--bold">New York offers</h2>
+      <hr class="hr--center">
+      <div class="space--lg"></div>
+    </div>
+    <div class="row row--xl-6-6 row--gutters-lg">
+      {% for offer in new-york-offers %}
+        <div class="col">
+          {% include offer/offer.html %}
+        </div>
+      {% endfor %}
+    </div>
+  </div>
+
+</div>
+
+
+{% include page/promo-offers.html %}

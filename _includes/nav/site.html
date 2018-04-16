@@ -20,6 +20,23 @@
           {% if nav-page.group and include.theme != "footer" %}
             {% include nav/site-group.html group-id=nav-page.id %}
           {% endif %}
+          {% elsif nav-page.group-pages and include.theme != "footer" %}
+            <div class="group-nav">
+            {% for nav-group-page in nav-page.group-pages %}
+              {% assign group-page = site.html_pages | where: 'id', nav-group-page.id %}
+              {% for group-page in group-page %}<span class="group-nav__item" style="background-image: url('{{site.img}}/nav/{{group-page.id}}.jpg');">
+                <a class="group-nav__link{% if group-page.id == page.id %} is-current{% endif %}" href="{{site.baseurl}}{{group-page.url}}">{% if nav-group-page.title %}{{nav-group-page.title}}{% else %}{{group-page.title}}{% endif %}</a>
+              </span>{% endfor %}
+              {% endfor %}
+            </div>
+          {% elsif nav-page.group-sections and include.theme != "footer" %}
+            <div class="group-nav">
+            {% for group-section in nav-page.group-sections %}
+              <span class="group-nav__item" style="background-image: url('{{site.img}}/nav/{{group-section.id}}.jpg');">
+                <a class="group-nav__link" href="{{site.baseurl}}{{nav-page.url}}#{{group-section.id}}">{{group-section.title}}</a>
+              </span>
+              {% endfor %}
+            </div>
           {% endif %}
 
         </span>{% endfor %}

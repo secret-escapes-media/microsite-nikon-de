@@ -4,11 +4,21 @@
 
   <div class="banner__wrap">
 
-    <div class="banner__content">
-      <div class="boxpad--sm">
-        <h1 class="title title--xxl text--bold">{{page.page-title}}</h1>
-        <div class="space--lg"></div>
-        <a href="#guide" class="btn btn--solid">Guide lesen</a>
+    <div class="banner__half">
+      <div class="banner__content">
+        <div class="banner__content-inner boxpad--sm">
+          {% if page.parent %}
+          {% assign parent = site.html_pages | where:'id',page.parent %}
+          <div class="banner__breadcrumbs title title--upper title--xxxs text--upper text--wide-kern">
+            {% for parent in parent%}<a class="banner__breadcrumbs-link text--bold" href="{{site.baseurl}}{{parent.url}}">{{parent.title}}</a>{% endfor %}
+            <span>{{page.title}}</span>
+          </div>
+          <hr>
+          {% endif %}
+          <h1 class="title title--lg text--bold">{{page.page-title}}</h1>
+          <hr>
+          <a href="#guide" class="btn btn--solid">Guide lesen</a>
+        </div>
       </div>
     </div>
 

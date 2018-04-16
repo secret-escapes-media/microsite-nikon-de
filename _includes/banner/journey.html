@@ -4,17 +4,21 @@
 
   <div class="banner__wrap">
 
-    <div class="banner__content">
-      <div class="boxpad--sm">
-        <h1 class="title title--xl text--bold">{{page.page-title}}</h1>
-        <hr>
-        {% for photographer in page.photographers %}
-          <a href="javascript:void(0);" data-modal-item="{{photographer.title|slugify}}" data-modal-group="section" class="js-open-modal title"><span class="title--xxs text--bold">{{photographer.title}}</span> {{photographer.position}}</a>
+    <div class="banner__half">
+      <div class="banner__content">
+        <div class="banner__content-inner boxpad--sm">
+          <span class="title title--upper title--xxxs text--upper text--wide-kern text--bold">{{page.title}}</span>
           <hr>
-        {% endfor %}
-        <div class="space--sm"></div>
-        <a href="#journey" class="btn btn--solid">Jetzt starten</a>
-        <a href="{{site.baseurl}}/{{page.id}}/guide" class="btn btn--outline btn--outline-yellow">Zum Guide</a>
+          <h1 class="title title--md text--bold">{{page.page-title}}</h1>
+          <hr>
+          {% for photographer in page.photographers %}
+            <a href="javascript:void(0);" data-modal-item="{{photographer.title|slugify}}" data-modal-group="section" class="js-open-modal title"><span class="title--xxs text--bold">{{photographer.title}}</span> {{photographer.position}}</a>
+            <hr>
+          {% endfor %}
+          <div class="space--sm"></div>
+          <a href="#journey" class="btn btn--solid">Jetzt starten</a>
+          <a href="{{site.baseurl}}/{{page.id}}/guide" class="btn btn--outline btn--outline-yellow">Zum Guide</a>
+        </div>
       </div>
     </div>
 
