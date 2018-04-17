@@ -13,6 +13,14 @@ group-sections:
   - id: new-york
     title: New York Reisen
 
+page-nav:
+  - id: iceland
+    title: Island Reisen
+  - id: morocco
+    title: Morokko Reisen
+  - id: new-york
+    title: New York Reisen
+
 banner:
   title: Fotogene Reiseziele
   title-sub: Ausgesucht von Secret Escapes
@@ -30,6 +38,7 @@ intro:
   <div class="container vpad--xxl text--center">
     {{page.intro.long}}
   </div>
+  {% if page.page-nav %}{% include nav/page.html %}{% endif %}
 </div>
 
 

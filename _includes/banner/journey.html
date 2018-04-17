@@ -7,7 +7,7 @@
     <div class="banner__half">
       <div class="banner__content">
         <div class="banner__content-inner boxpad--sm">
-          <span class="title title--upper title--xxxs text--upper text--wide-kern text--bold">{{page.title}}</span>
+          <span class="title title--upper title--xxxs text--upper text--wide-kern text--bold">{% if page.page-supertitle %}{{page.page-supertitle}}{% else %}{{page.title}}{% endif %}</span>
           <hr>
           <h1 class="title title--md text--bold">{{page.page-title}}</h1>
           <hr>
@@ -16,7 +16,7 @@
             <hr>
           {% endfor %}
           <div class="space--sm"></div>
-          <a href="#journey" class="btn btn--solid">Jetzt starten</a>
+          <a href="#journey" class="btn btn--solid">Beginnen Sie die Reise</a>
           <a href="{{site.baseurl}}/{{page.id}}/guide" class="btn btn--outline btn--outline-yellow">Zum Guide</a>
         </div>
       </div>

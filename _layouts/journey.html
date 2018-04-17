@@ -11,6 +11,7 @@ layout: default
   <div class="container vpad--xxl text--center">
     {{page.intro.long}}
   </div>
+  {% if page.page-nav %}{% include nav/page.html %}{% endif %}
 </div>
 
 
@@ -23,7 +24,7 @@ layout: default
       <span class="bg-img__play bg-img--zoom"></span>
     </a>
     <div class="vpad--xl">
-      <span class="title--md text--normal text--italic">Die Reise beginnt...</span>
+      <span class="title--md text--normal text--italic">Das ist ihre Reise...</span>
     </div>
   </div>
   <div class="journey__video-fade"></div>
@@ -35,50 +36,54 @@ layout: default
 <!-- JOURNEY -->
 {% for section in page.sections %}
 
-  <div class="container vpad--none">
-    <!-- JOURNEY TITLE & INTRO -->
-    <h2 class="title title--xxl text--bold">{{section.title}}</h2>
-    <div class="space--sm"></div>
-    {{section.intro}}
-  </div>
+  <div class="container">
+    <div class="wp" id="{{section.id}}"></div>
+    <!-- Journey title and intro -->
+    <div class="container space--xxxl">
+      <h2 class="title title--xxl text--bold">{{section.title}}</h2>
+      <div class="space--sm"></div>
+      {{section.intro}}
+    </div>
 
-  <!-- Looping through section photos -->
-  {% for photo in section.photos %}
-    {% assign photo-data = page-photos | where: "id", photo.id %}
-    {% for photo in photo-data %}
+    <!-- Looping through section photos -->
+    {% for photo in section.photos %}
+      {% assign photo-data = page-photos | where: "id", photo.id %}
+      {% for photo in photo-data %}
 
-      {% if photo.orientation == 'portrait' %}
-      <div class="container container--xxl journey__photo">
-      {% else %}
-      <div class="container journey__photo">
-      {% endif %}
+        {% if photo.orientation == 'portrait' %}
+        <div class="container container--xxl journey__photo">
+        {% else %}
+        <div class="container journey__photo">
+        {% endif %}
 
-        <div class="row row--valign-center row--gutters-lg{% cycle ""," row--reverse" %}">
+          <div class="row row--valign-center row--gutters-lg{% cycle ""," row--reverse" %}">
 
-          <div class="col col--7 journey__photo-image">
-            {% if photo.orientation == 'portrait' %}
-              <a href="javascript:void(0);" data-modal-item="{{photo.id}}" data-modal-group="section" class="js-open-modal bg-img bg-img--2-3" style="background-image:url({{site.img}}/content/{{page.id}}/photos/{{photo.id}}.jpg);">
-                <span class="bg-img__expand"></span>
-              </a>
-            {% else %}
-              <a href="javascript:void(0);" data-modal-item="{{photo.id}}" data-modal-group="section" class="js-open-modal bg-img bg-img--16-9" style="background-image:url({{site.img}}/content/{{page.id}}/photos/{{photo.id}}.jpg);">
-                <span class="bg-img__expand"></span>
-              </a>
-            {% endif %}
+            <div class="col col--7 journey__photo-image">
+              {% if photo.orientation == 'portrait' %}
+                <a href="javascript:void(0);" data-modal-item="{{photo.id}}" data-modal-group="section" class="js-open-modal bg-img bg-img--2-3" style="background-image:url({{site.img}}/content/{{page.id}}/photos/{{photo.id}}.jpg);">
+                  <span class="bg-img__expand"></span>
+                </a>
+              {% else %}
+                <a href="javascript:void(0);" data-modal-item="{{photo.id}}" data-modal-group="section" class="js-open-modal bg-img bg-img--16-9" style="background-image:url({{site.img}}/content/{{page.id}}/photos/{{photo.id}}.jpg);">
+                  <span class="bg-img__expand"></span>
+                </a>
+              {% endif %}
+            </div>
+
+            <div class="col col--5 journey__photo-text">
+              <h4 class="title title--md text--bold">{{photo.title}}</h4>
+              <p class="title title--xxxs">Eingefangen von <span class="text--bold">{{photo.photographer}}</span></p>
+              <p>{{photo.content}}</p>
+
+            </div>
+
           </div>
-
-          <div class="col col--5 journey__photo-text">
-            <h4 class="title title--md text--bold">{{photo.title}}</h4>
-            <p class="title title--xxxs">Eingefangen von <span class="text--bold">{{photo.photographer}}</span></p>
-            <p>{{photo.content}}</p>
-
-          </div>
-
         </div>
-      </div>
 
+      {% endfor %}
     {% endfor %}
-  {% endfor %}
+
+  </div>
 
 {% endfor %}
 
@@ -105,9 +110,9 @@ layout: default
 
 <div class="container container--100 vpad--xxxl bg--grey-darker text--center">
   <div class="container">
-    <h3 class="title title--md text--bold">Now start planning your trip with our guide to {{page.id|capitalize}}</h3>
+    <h3 class="title title--md text--bold">Planen Sie jetzt Ihre Reise mit unserem {{page.id|capitalize}}-Guide</h3>
     <div class="space--lg"></div>
-    <a href="{{site.baseurl}}/{{page.id}}/guide" class="btn btn--solid btn--lg">View the guide</a>
+    <a href="{{site.baseurl}}/{{page.id}}/guide" class="btn btn--solid btn--lg">Den Guide ansehen</a>
   </div>
 </div>
 

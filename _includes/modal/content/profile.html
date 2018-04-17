@@ -9,7 +9,7 @@
     <div class="space--xs"></div>
     <p class="title text--wide-kern text--upper text--bold">
       {% if item.job %}{{item.job}}{% endif %} <span class="text--light">|</span>
-      {% if item.instagram %}{{item.instagram}}{% endif %}
+      {% if item.instagram %} <img src="{{site.img}}/icons/social-ig-white.svg" width="15"> {{item.instagram}}{% endif %}
     </p>
     <hr>
     {{item.content}}

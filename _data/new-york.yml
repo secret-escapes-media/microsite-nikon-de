@@ -16,7 +16,7 @@
   page: new-york
   section: the-streets
   pages:
-    - id: new-york-journey
+    - id: new-york
 
 
 
@@ -35,7 +35,7 @@
   page: new-york
   section: the-streets
   pages:
-    - id: new-york-journey
+    - id: new-york
 
 
 
@@ -54,7 +54,7 @@
   page: new-york
   section: the-streets
   pages:
-    - id: new-york-journey
+    - id: new-york
 
 
 
@@ -73,7 +73,7 @@
   page: new-york
   section: the-streets
   pages:
-    - id: new-york-journey
+    - id: new-york
 
 
 
@@ -92,7 +92,7 @@
   page: new-york
   section: the-streets
   pages:
-    - id: new-york-journey
+    - id: new-york
 
 
 
@@ -111,7 +111,7 @@
   page: new-york
   section: the-streets
   pages:
-    - id: new-york-journey
+    - id: new-york
 
 
 
@@ -131,7 +131,7 @@
   page: new-york
   section: the-streets
   pages:
-    - id: new-york-journey
+    - id: new-york
 
 
 
@@ -150,7 +150,7 @@
   page: new-york
   section: the-streets
   pages:
-    - id: new-york-journey
+    - id: new-york
 
 
 
@@ -169,7 +169,7 @@
   page: new-york
   section: the-streets
   pages:
-    - id: new-york-journey
+    - id: new-york
 
 
 
@@ -188,7 +188,7 @@
   page: new-york
   section: across-the-river
   pages:
-    - id: new-york-journey
+    - id: new-york
 
 
 
@@ -207,7 +207,7 @@
   page: new-york
   section: across-the-river
   pages:
-    - id: new-york-journey
+    - id: new-york
 
 
 
@@ -226,7 +226,7 @@
   page: new-york
   section: across-the-river
   pages:
-    - id: new-york-journey
+    - id: new-york
 
 
 
@@ -245,7 +245,7 @@
   page: new-york
   section: across-the-river
   pages:
-    - id: new-york-journey
+    - id: new-york
 
 
 
@@ -264,7 +264,7 @@
   page: new-york
   section: across-the-river
   pages:
-    - id: new-york-journey
+    - id: new-york
 
 
 
@@ -283,7 +283,7 @@
   page: new-york
   section: across-the-river
   pages:
-    - id: new-york-journey
+    - id: new-york
 
 
 
@@ -302,7 +302,7 @@
   page: new-york
   section: across-the-river
   pages:
-    - id: new-york-journey
+    - id: new-york
 
 
 
@@ -321,7 +321,7 @@
   page: new-york
   section: metropolis
   pages:
-    - id: new-york-journey
+    - id: new-york
 
 
 
@@ -340,7 +340,7 @@
   page: new-york
   section: metropolis
   pages:
-    - id: new-york-journey
+    - id: new-york
 
 
 
@@ -359,7 +359,7 @@
   page: new-york
   section: metropolis
   pages:
-    - id: new-york-journey
+    - id: new-york
 
 
 
@@ -378,7 +378,7 @@
   page: new-york
   section: metropolis
   pages:
-    - id: new-york-journey
+    - id: new-york
 
 
 
@@ -397,7 +397,7 @@
   page: new-york
   section: metropolis
   pages:
-    - id: new-york-journey
+    - id: new-york
 
 
 
@@ -416,7 +416,7 @@
   page: new-york
   section: metropolis
   pages:
-    - id: new-york-journey
+    - id: new-york
 
 
 
@@ -435,7 +435,7 @@
   page: new-york
   section: metropolis
   pages:
-    - id: new-york-journey
+    - id: new-york
 
 
 
@@ -454,7 +454,7 @@
   page: new-york
   section: city-at-night
   pages:
-    - id: new-york-journey
+    - id: new-york
 
 
 
@@ -473,7 +473,7 @@
   page: new-york
   section: city-at-night
   pages:
-    - id: new-york-journey
+    - id: new-york
 
 
 
@@ -492,7 +492,7 @@
   page: new-york
   section: city-at-night
   pages:
-    - id: new-york-journey
+    - id: new-york
 
 
 
@@ -511,7 +511,7 @@
   page: new-york
   section: city-at-night
   pages:
-    - id: new-york-journey
+    - id: new-york
 
 
 
@@ -530,7 +530,7 @@
   page: new-york
   section: city-at-night
   pages:
-    - id: new-york-journey
+    - id: new-york
 
 
 
@@ -549,4 +549,4 @@
   page: new-york
   section: city-at-night
   pages:
-    - id: new-york-journey
+    - id: new-york

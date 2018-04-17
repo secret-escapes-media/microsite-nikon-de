@@ -9,6 +9,7 @@ layout: default
   <div class="container vpad--xxl text--center">
     {{page.intro.long}}
   </div>
+  {% if page.page-nav %}{% include nav/page.html %}{% endif %}
 </div>
 
 
@@ -34,6 +35,7 @@ layout: default
 
 
 {% for section in page.sections %}
+<div class="wp" id="{{section.id}}"></div>
 <div class="bg--grey-darker vpad--xxl">
 
   <div class="container">
@@ -63,9 +65,9 @@ layout: default
 
 <div class="bg--grey-darker">
   <div class="container text--center">
-    <h3 class="title title--lg text--bold">Get inspired by our journey</h3>
+    <h3 class="title title--lg text--bold">Lassen Sie sich von unserer Reise inspirieren</h3>
     <div class="space--lg"></div>
-    <a href="{{site.baseurl}}/{{page.group-parent}}/journey" class="btn btn--solid btn--lg">Discover the journey</a>
+    <a href="{{site.baseurl}}/{{page.group-parent}}/journey" class="btn btn--solid btn--lg">Die Reise ansehen</a>
     <div class="space--xxl"></div>
   </div>
 </div>

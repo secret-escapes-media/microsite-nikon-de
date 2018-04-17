@@ -15,6 +15,24 @@
 
 
 
+.iam {
+  &__chasing {
+    width: 300px;
+    max-width: 90%;
+    margin: auto auto $s4;
+    background-image: url('../img/content/iamchasing.svg');
+    background-size: cover;
+    &:after {
+      content: "";
+      display: block;
+      width: 100%;
+      padding-top: 9.44%;
+    }
+  }
+}
+
+
+
 .journey {
   // Video section
   &__video { z-index: $z-content-upper; }

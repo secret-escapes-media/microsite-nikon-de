@@ -79,6 +79,12 @@
       background-image: url('../img/banner/components/iamnikon.svg');
       &:after { padding-top: 21.36%; }
     }
+    &--iamchasing {
+      width: 420px;
+      margin-bottom: 0;
+      background-image: url('../img/banner/components/iamchasing.svg');
+      &:after { padding-top: 9.44%; }
+    }
   }
 }
 

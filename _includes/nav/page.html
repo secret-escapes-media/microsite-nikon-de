@@ -1,0 +1,18 @@
+
+{% assign nav-items = page.page-nav %}
+
+<div class="page-nav__container">
+  <div class="page-nav js-sticky-nav">
+    <div class="page-nav__scroll-wrap">
+      <div class="page-nav__wrap">
+
+          {% for item in nav-items %}<span class="page-nav__item">
+            <a class="page-nav__link" href="{{site.baseurl}}{{page.url}}#{{item.id}}">
+              {{item.title}}
+            </a>
+          </span>{% endfor %}
+
+      </div>
+    </div>
+  </div>
+</div>
