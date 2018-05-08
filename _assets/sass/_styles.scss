@@ -10,14 +10,19 @@
   &--grey-darker { background-color: $grey-darker; }
   &--grey-darkest { background-color: $grey-darkest; }
   // images
-  &--fixed { background-attachment: fixed; background-size: cover; }
+  &--fixed {
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
 }
 
 
 
 .iam {
   &__chasing {
-    width: 300px;
+    width: 400px;
     max-width: 90%;
     margin: auto auto $s4;
     background-image: url('../img/content/iamchasing.svg');
@@ -114,4 +119,25 @@
 
   .carousel-nav { pointer-events: none; }
   .carousel-navitem { pointer-events: all; }
+}
+
+
+
+.inspiration {
+  &__gallery {
+    position: relative;
+    &-content { position: relative; z-index: 1; }
+    &-fade {
+      z-index: $z-content;
+      height: 30%;
+      position: absolute;
+      bottom: 0;
+      left: 0;
+      right: 0;
+      background-image: url(../img/icons/gradient--grey-darkest.png);
+      background-size: auto 100%;
+      background-repeat: repeat-x;
+      background-position: bottom;
+    }
+  }
 }

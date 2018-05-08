@@ -4,14 +4,14 @@
   title: Laternen
   location: Marrakech
   photographer: Louis Adams
-  content: Für dieses Foto habe ich hineingezoomt, so dass die gesamte Aufnahme von den goldenen Laternen eingenommen wird, um den Eindruck zu vermittelt, man sei mitten im Geschäft und von ihnen umgeben. Die hellen Farben und aufwendigen Muster geben dem Bild eine Vielzahl interessanter Ebenen und Texturen.
+  content: Für dieses Foto habe ich hineingezoomt, so dass das gesamte Bildfeld von den goldenen Laternen eingenommen wird, um den Eindruck zu vermittelt, man sei mitten im Geschäft und von ihnen umgeben. Die hellen Farben und aufwendigen Muster geben dem Bild eine Vielzahl interessanter Ebenen und Texturen.
   coordinates:
   orientation: landscape
   camera: Nikon D7500
-  lens: 18-105mm f/3.5-5.6
-  aperture: f/4.5
-  shutterspeed: 1/160
-  focallength: 35mm
+  lens: "AF-S DX NIKKOR 18–105 mm 1:3,5–5,6G ED VR"
+  aperture: "4,5"
+  shutterspeed: 1/160 s
+  focallength: 35 mm
   page: morocco
   section: markets
   pages:
@@ -27,10 +27,10 @@
   coordinates: 31.62582,-7.9889
   orientation: portrait
   camera: Nikon D7500
-  lens: 18-105mm f/3.5-5.6
-  aperture: f/4.5
-  shutterspeed: 1/160
-  focallength: 35mm
+  lens: "AF-S DX NIKKOR 18–105 mm 1:3,5–5,6G ED VR"
+  aperture: "4,5"
+  shutterspeed: 1/160 s
+  focallength: 35 mm
   page: morocco
   section: markets
   pages:
@@ -42,14 +42,14 @@
   title: Gewürze
   location: Marrakech
   photographer: Louis Adams
-  content: Für diese Aufnahme habe ich eine niedrige Blendenöffnung verwendet, um die Gewürze in der Mitte des Bildes scharf zu stellen. Die verschwommenen Gewürze im Vordergrund bewirken, dass man sich als Betrachter mitten in den Gewürzen befindet, während die Straße im Hintergrund die Szene bestimmt, in der sich dieser Stand befindet und dem Bild einen Kontext gibt.
+  content: Für diese Aufnahme habe ich eine große Blendenöffnung (kleine Blendenzahl) verwendet, um die Gewürze in der Mitte des Bildes zu betonen. Die verschwommenen Gewürze im Vordergrund bewirken, dass man sich als Betrachter mitten in den Gewürzen wähnt. Die unscharfe Straße im Hintergrund gibt dem Bild seinen Kontext, ohne vom Hauptmotiv abzulenken.
   coordinates: 31.62783,-7.98811
   orientation: portrait
   camera: Nikon D7500
-  lens: 18-105mm f/3.5-5.6
-  aperture: f/3.5
-  shutterspeed: 1/30
-  focallength: 18mm
+  lens: "AF-S DX NIKKOR 18–105 mm 1:3,5–5,6G ED VR"
+  aperture: "3,5"
+  shutterspeed: 1/30 s
+  focallength: 18 mm
   page: morocco
   section: markets
   pages:
@@ -61,14 +61,14 @@
   title: Der Verkäufer
   location: Marrakech
   photographer: Louis Adams
-  content: Für mich zeigt dieses Bild eine total authentische Szene eines Markthändlers während des Verkaufs. Das Licht stellt sicher, dass der Mann der Mittelpunkt dieser Szene ist, mit den riesigen Haufen süßer Leckereien, die den Kontext hinzufügen. Ich hab mich echt gefreut, dass ich diesen Schnappschuss marokkanischen Lebens einfangen konnte.
+  content: Für mich zeigt dieses Bild eine total authentische Szene eines Markthändlers während des Verkaufs. Das Licht stellt sicher, dass der Mann der Mittelpunkt dieser Szene ist, mit den riesigen Haufen süßer Leckereien, die den Kontext hinzufügen. Ich hab mich sehr gefreut, dass ich diesen Schnappschuss marokkanischen Lebens einfangen konnte.
   coordinates:
   orientation: portrait
   camera: Nikon D7500
-  lens: 18-105mm f/3.5-5.6
-  aperture: f/5.3
-  shutterspeed: 1/100
-  focallength: 62mm
+  lens: "AF-S DX NIKKOR 18–105 mm 1:3,5–5,6G ED VR"
+  aperture: "5,3"
+  shutterspeed: 1/100 s
+  focallength: 62 mm
   page: morocco
   section: markets
   pages:
@@ -80,14 +80,14 @@
   title: Der Unterhaltungskünstler
   location: Marrakech
   photographer: Ross Walker
-  content: Der Versuch, auf eine Person zu fokussieren, kann auf einem belebten Markt echt schwierig sein. Dazu muss man die Blendenöffnung verringern, um den Hintergrund zu verwischen und das Motiv scharf zu stellen. Ich entschied mich, dieses Foto mit einer schnellen Verschlusszeit zu schießen, um die Vögel im Fokus zu behalten, aber im Nachhinein betrachtet wäre es auch interessant gewesen, die Verschlusszeit zu verlangsamen, um mehr Unschärfe zu erzielen und Bewegung in ihren Flügeln herauszuarbeiten.
+  content: Der Versuch, eine einzelne Person herauszustellen, kann auf einem belebten Markt sehr schwierig sein. Man kann dies erreichen, indem man die Blende weit öffnet, sodass der Hintergrund unscharf aufgenommen wird. Dies betont das Hauptmotiv und stellt es optisch frei. Ich entschied mich, dieses Foto mit einer kurzen Belichtungszeit aufzunehmen, um die Vögel scharf zu halten, aber im Nachhinein betrachtet wäre es auch interessant gewesen, eine etwas längere Zeit zu wählen und so die Bewegung der Flügel mit ein wenig Bewegungsunschärfe zu betonen.
   coordinates: 31.62582,-7.9889
   orientation: landscape
   camera: Nikon D850
-  lens: 70-200mm f/2.8
-  aperture: f/2.8
-  shutterspeed: 1/250
-  focallength: 190mm
+  lens: "AF-S NIKKOR 70–200 mm 1:2,8E FL ED VR"
+  aperture: "2,8"
+  shutterspeed: 1/250 s
+  focallength: 190 mm
   page: morocco
   section: markets
   pages:
@@ -99,14 +99,14 @@
   title: Der Süßwarenverkäufer
   location: Marrakech
   photographer: Ross Walker
-  content: Ich denke, dass es das Beste für ein Foto ist, wenn die Menschen vor der Kamera auf natürliche Weise agieren können. Bevor ich dieses Foto gemacht habe, hatten wir eine kleine Unterhaltung mit dem Verkäufer und haben tatsächlich einige seiner Süßigkeiten gekauft. Da wir das freundliche Gespräch bereits hinter uns hatten, war er entspannt, als wir nach einem Foto fragten. Ich lehnte mich einfach zurück und versuchte, mich diskret zu verhalten, um ihn so natürlich wie möglich aussehen zu lassen. Wir fotografierten nachts, aber ich wollte die Details der Süßigkeiten erfassen, also musste ich meine Blendenöffnung und den ISO-Wert erhöhen damit das Foto nicht zu dunkel wurde.
+  content: Ich denke, dass es das Beste für ein Foto ist, wenn die Menschen vor der Kamera auf natürliche Weise agieren können. Bevor ich dieses Foto gemacht habe, hatten wir eine kleine Unterhaltung mit dem Verkäufer und haben auch einige seiner Süßigkeiten gekauft. Da wir das freundliche Gespräch bereits hinter uns hatten, war er entspannt, als wir nach einem Foto fragten. Ich lehnte mich einfach zurück und versuchte, mich diskret zu verhalten, um ihn so natürlich wie möglich aussehen zu lassen. Wir fotografierten nachts, aber ich wollte die Details der Süßigkeiten erfassen, also musste ich eine große Blendenöffnung und einen hohen ISO-Wert wählen, damit das Foto nicht zu dunkel wurde.
   coordinates:
   orientation: landscape
   camera: Nikon D850
-  lens:  24-70mm f/2.8
-  aperture: f/4.0
-  shutterspeed: 1/250
-  focallength: 35mm
+  lens: "AF-S NIKKOR 24–70 mm 1:2,8G ED"
+  aperture: "4,0"
+  shutterspeed: 1/250 s
+  focallength: 35 mm
   page: morocco
   section: markets
   pages:
@@ -118,14 +118,14 @@
   title: Eingefroren
   location: Marrakech
   photographer: Ross Walker
-  content: Hier sieht man einen Gewürzverkäufer, der eine handvoll Gewürze in Richtung Kamera pustet. Mit einer großen Blendenöffnung, die ein Bokeh im Hintergrund erzeugt, werden bestimmte Stellen herausgegriffen und eingefroren, während andere durch ihre Bewegung verschwimmen. Es ist ein fesselndes Bild, das nur mit dem Burst-Modus möglich ist. Mit diesem Modus können Sie die beste Anzahl von Bildern auswählen, die genau die Stimmung auf den Punkt bringen, die Sie erzeugen wollen.
+  content: Hier sieht man einen Gewürzverkäufer, der eine Handvoll Gewürze in Richtung Kamera pustet. Mit einer großen Blendenöffnung, die ein Bokeh im Hintergrund erzeugt, werden bestimmte Stellen herausgegriffen und eingefroren, während andere durch ihre Bewegung verschwimmen. Es ist ein fesselndes Bild, das sich am besten mit dem Serienaufnahmemodus umsetzen ließ. Mit diesem Modus können Sie aus einer Reihe von Bildern das beste auswählen, das genau die Stimmung auf den Punkt bringt, die Sie erzeugen wollen.
   coordinates:
   orientation: landscape
   camera: Nikon D850
-  lens: 24-70mm f/2.8
-  aperture: f/4.0
-  shutterspeed: 1/320
-  focallength: 70mm
+  lens: "AF-S NIKKOR 24–70 mm 1:2,8G ED"
+  aperture: "4,0"
+  shutterspeed: 1/320 s
+  focallength: 70 mm
   page: morocco
   section: markets
   pages:
@@ -141,10 +141,10 @@
   coordinates: 31.62366,-7.9936
   orientation: landscape
   camera: Nikon D7500
-  lens: 18-105mm f/3.5-5.6
-  aperture: f/8.0
-  shutterspeed: 1/250
-  focallength: 18mm
+  lens: "AF-S DX NIKKOR 18–105 mm 1:3,5–5,6G ED VR"
+  aperture: "8,0"
+  shutterspeed: 1/250 s
+  focallength: 18 mm
   page: morocco
   section: architecture
   pages:
@@ -160,10 +160,10 @@
   coordinates:
   orientation: portrait
   camera: Nikon D7500
-  lens: 18-105mm f/3.5-5.6
-  aperture: f/9.0
-  shutterspeed: 1/80
-  focallength: 18mm
+  lens: "AF-S DX NIKKOR 18–105 mm 1:3,5–5,6G ED VR"
+  aperture: "9,0"
+  shutterspeed: 1/80 s
+  focallength: 18 mm
   page: morocco
   section: architecture
   pages:
@@ -175,14 +175,14 @@
   title: Entdeckung
   location: Marrakech
   photographer: Louis Adams
-  content: In dieser Aufnahme zieht einen das Licht von außen an, aber die große Blendenöffnung sorgt dafür, dass die Details im Schatten nicht verloren gehen. Ich habe die natürliche Symmetrie und Schönheit des Gebäudes genutzt, um eine schöne Aufnahme zu bekommen, aber im Gegensatz zu dem obigen Foto habe ich es hier geschafft, eine Person auf dem Bild zu integrieren, und ich denke, das macht echt den Unterschied.
+  content: In dieser Aufnahme zieht einen das Licht von außen an, aber die kleine Blende (hohe Blendenzahl) und der hohe Dynamikumfang der Kamera sorgen dafür, dass die Details im Schatten nicht verloren gehen. Ich habe die natürliche Symmetrie und Schönheit des Gebäudes genutzt, um eine schöne Aufnahme zu bekommen, aber im Gegensatz zu dem obigen Foto habe ich es hier geschafft, eine Person auf dem Bild zu integrieren, und ich denke, das macht einen wichtigen Unterschied.
   coordinates: 31.63199,-7.98646
   orientation: portrait
   camera: Nikon D7500
-  lens: 18-105mm f/3.5-5.6
-  aperture: f/9.0
-  shutterspeed: 1/125
-  focallength: 18mm
+  lens: "AF-S DX NIKKOR 18–105 mm 1:3,5–5,6G ED VR"
+  aperture: "9,0"
+  shutterspeed: 1/125 s
+  focallength: 18 mm
   page: morocco
   section: architecture
   pages:
@@ -198,10 +198,10 @@
   coordinates:
   orientation: portrait
   camera: Nikon D7500
-  lens: 18-105mm f/3.5-5.6
-  aperture: f/4.5
-  shutterspeed: 1/80
-  focallength: 18mm
+  lens: "AF-S DX NIKKOR 18–105 mm 1:3,5–5,6G ED VR"
+  aperture: "4,5"
+  shutterspeed: 1/80 s
+  focallength: 18 mm
   page: morocco
   section: architecture
   pages:
@@ -213,14 +213,14 @@
   title: Riad
   location: Marrakech
   photographer: Ross Walker
-  content: Die Architektur der Gebäude in Marrakesch war phänomenal und bei dieser Aufnahme schien es wichtig, die Komplexität des Fliesenbodens und der Steinschnitzereien zu integrieren. Eine größere Blendenöffnung erfasste dazu mehr Details. Ich hätte auch hier gerne eine Person im Bild gehabt, um es perspektivischer zu machen, aber leider kam niemand Passendes. Geduld ist ganz oft eine der wertvollsten Eigenschaften für gute Fotografie.
+  content: Die Architektur der Gebäude in Marrakesch war phänomenal und bei dieser Aufnahme schien es wichtig, die Komplexität des Fliesenbodens und der Steinschnitzereien zu integrieren. Eine kleine Blende erfasste dazu mehr Details. Ich hätte auch hier gerne eine Person im Bild gehabt, um es perspektivischer zu machen, aber leider kam niemand Passendes. Geduld ist ganz oft eine der wertvollsten Eigenschaften für gute Fotografie.
   coordinates:
   orientation: landscape
   camera: Nikon D850
-  lens: 14-24mm f/2.8
-  aperture: f/9.0
-  shutterspeed: 1/160
-  focallength: 21mm
+  lens: "AF-S NIKKOR 14–24 mm 1:2,8G ED"
+  aperture: "9,0"
+  shutterspeed: 1/160 s
+  focallength: 21 mm
   page: morocco
   section: architecture
   pages:
@@ -236,10 +236,10 @@
   coordinates: 31.62183,-7.99761
   orientation: portrait
   camera: Nikon D850
-  lens: 24-70mm f/2.8
-  aperture: f/10
-  shutterspeed: 1/160
-  focallength: 26mm
+  lens: "AF-S NIKKOR 24–70 mm 1:2,8G ED"
+  aperture: "10"
+  shutterspeed: 1/160 s
+  focallength: 26 mm
   page: morocco
   section: architecture
   pages:
@@ -255,10 +255,10 @@
   coordinates: 31.62701,-7.98412
   orientation: portrait
   camera: Nikon D7500
-  lens: 18-105mm f/3.5-5.6
-  aperture: f/3.5
-  shutterspeed: 1/200
-  focallength: 18mm
+  lens: "AF-S DX NIKKOR 18–105 mm 1:3,5–5,6G ED VR"
+  aperture: "3,5"
+  shutterspeed: 1/200 s
+  focallength: 18 mm
   page: morocco
   section: streets
   pages:
@@ -270,14 +270,14 @@
   title: Eingerahmt
   location: Marrakech
   photographer: Louis Adams
-  content: Ross entdeckte diese Tür, die sich zu einem kleinen dunklen Raum öffnete – perfekt, um dem Zusammenspiel von Licht und Dunkelheit einen Rahmen zu geben. Ich kampierte dort für eine Weile und nahm eine Menge Bilder auf, aber dieses ist mein Lieblingsbild, aufgrund der farbenprächtigen Robe des Mannes.
+  content: Ross entdeckte diese Tür, die sich zu einem kleinen dunklen Raum öffnete – perfekt, um dem Zusammenspiel von Licht und Dunkelheit einen Rahmen zu geben. Ich richtete mich dort für eine Weile ein und nahm eine Menge Bilder auf. Dieses ist mein Lieblingsbild, aufgrund der farbenprächtigen Robe des Mannes.
   coordinates: 31.62696,-7.98505
   orientation: portrait
   camera: Nikon D7500
-  lens: 18-105mm f/3.5-5.6
-  aperture: f/3.5
-  shutterspeed: 1/125
-  focallength: 18mm
+  lens: "AF-S DX NIKKOR 18–105 mm 1:3,5–5,6G ED VR"
+  aperture: "3,5"
+  shutterspeed: 1/125 s
+  focallength: 18 mm
   page: morocco
   section: streets
   pages:
@@ -289,14 +289,14 @@
   title: Warten
   location: Marrakech
   photographer: Louis Adams
-  content: Diese Szene hat was, das ich wirklich liebe. Sie spiegelt eine authentische Darstellung des Lebens in der Medina wider und ist dazu nicht so perfekt symetrisch. Ich würde zu gerne wissen, was die beiden Männer denken ...
+  content: Diese Szene hat etwas ganz Besonderes an sich. Sie spiegelt eine authentische Darstellung des Lebens in der Medina wider und ist dazu nicht so perfekt symmetrisch. Ich würde zu gerne wissen, was die beiden Männer denken ...
   coordinates:
   orientation: landscape
   camera: Nikon D7500
-  lens: 18-105mm f/3.5-5.6
-  aperture: f/6.3
-  shutterspeed: 1/160
-  focallength: 18mm
+  lens: "AF-S DX NIKKOR 18–105 mm 1:3,5–5,6G ED VR"
+  aperture: "6,3"
+  shutterspeed: 1/160 s
+  focallength: 18 mm
   page: morocco
   section: streets
   pages:
@@ -312,10 +312,10 @@
   coordinates:
   orientation: portrait
   camera: Nikon D850
-  lens: 70-200mm f/2.8
-  aperture: f/2.8
-  shutterspeed: 1/640
-  focallength: 200mm
+  lens: "AF-S NIKKOR 70–200 mm 1:2,8E FL ED VR"
+  aperture: "2,8"
+  shutterspeed: 1/640 s
+  focallength: 200 mm
   page: morocco
   section: streets
   pages:
@@ -327,14 +327,14 @@
   title: Kurze Rast
   location: Marrakech
   photographer: Ross Walker
-  content: Der hektischen Marktatmosphäre zwischendurch in kleine Seitengassen zu entfliehen, empfanden wir als absolute Erleichterung. Die Erforschung eines Ortes ist ein wichtiger Bestandteil der Fotografie, wenn man also nicht gleich das findet, was man sich vorgestellt hat, findet sich sicher etwas anderes. Ich mochte die Schatten auf dem Gesicht dieses Mannes und wartete darauf, dass er seinen Kopf in die richtige Richtung drehte. Die Aufnahme habe ich mit einer ziemlich geringen Blendenöffnung geschossen, um den Hintergrund unscharf zu stellen, aber auch, um ihn und seinen Esel in den Fokus zu stellen.
+  content: Der hektischen Marktatmosphäre zwischendurch in kleine Seitengassen zu entfliehen, empfanden wir als absolute Erleichterung. Die Erforschung eines Ortes ist ein wichtiger Bestandteil der Fotografie. Wenn man also nicht gleich das findet, was man sich vorgestellt hat, findet sich sicher etwas anderes. Ich mochte die Schatten auf dem Gesicht dieses Mannes und wartete darauf, dass er seinen Kopf in die richtige Richtung drehte. Die Aufnahme habe ich mit weit geöffneter Blende gemacht, um den Hintergrund unscharf zu zeichnen, und um den Mann und seinen Esel in den Fokus zu stellen.
   coordinates:
   orientation: landscape
   camera: Nikon D850
-  lens: 70-200mm f/2.8
-  aperture: f/3.2
-  shutterspeed: 1/125
-  focallength: 70mm
+  lens: "AF-S NIKKOR 70–200 mm 1:2,8E FL ED VR"
+  aperture: "3,2"
+  shutterspeed: 1/125 s
+  focallength: 70 mm
   page: morocco
   section: streets
   pages:
@@ -346,14 +346,14 @@
   title: Pause
   location: Marrakech
   photographer: Ross Walker
-  content: Auf dem Bordstein sitzend schien dieser Mann in Gedanken verloren, also setzte ich mich in einigem Abstand, um ihn nicht zu stören. Ich liebe es, wenn ein Foto eine Emotion auf die Betrachter überträgt. Dieses Foto ist mit niedriger Blendenöffnung aufgenommen, um das Bokeh im Hintergrund herauszuarbeiten.
+  content: Auf dem Bordstein sitzend schien dieser Mann in Gedanken verloren, also setzte ich mich in einigem Abstand, um ihn nicht zu stören. Ich liebe es, wenn ein Foto eine Emotion auf die Betrachter überträgt. Dieses Foto ist mit Offenblende aufgenommen, um das Bokeh im Hintergrund herauszuarbeiten.
   coordinates:
   orientation: landscape
   camera: Nikon D850
-  lens: 70-200mm f/2.8
-  aperture: f/2.8
-  shutterspeed: 1/640
-  focallength: 200mm
+  lens: "AF-S NIKKOR 70–200 mm 1:2,8E FL ED VR"
+  aperture: "2,8"
+  shutterspeed: 1/640 s
+  focallength: 200 mm
   page: morocco
   section: streets
   pages:
@@ -365,14 +365,14 @@
   title: Der Mann
   location: Marrakech
   photographer: Ross Walker
-  content: Bei so vielen Fotos gilt einfach „richtige Zeit, richtiger Ort". Die Kamera so oft wie möglich bei sich zu haben, verringert die Wahrscheinlichkeit, eine Gelegenheit zu verpassen. Bei diesem Foto bemerkte ich zufällig diesen alten Mann, als er aus einer Gasse trat. Ich bot ihm etwas Geld, um das Foto schießen zu dürfen. Es ist nicht immer angenehm Geld anzubieten, aber wenn Sie ein Foto wirklich wollen, kann etwas Geld helfen.
+  content: Bei so vielen Fotos gilt einfach »richtige Zeit, richtiger Ort«. Die Kamera so oft wie möglich bei sich zu haben, verringert die Wahrscheinlichkeit, eine Gelegenheit zu verpassen. Bei diesem Foto bemerkte ich zufällig diesen alten Mann, als er aus einer Gasse trat. Ich bot ihm etwas Geld, um ihn fotografieren zu dürfen. Es ist nicht immer angenehm Geld anzubieten, aber wenn Sie ein Foto wirklich wollen, kann etwas Geld helfen.
   coordinates:
   orientation: landscape
   camera: Nikon D850
-  lens: 14-24mm f/2.8
-  aperture: f/4.5
-  shutterspeed: 1/250
-  focallength: 21mm
+  lens: "AF-S NIKKOR 14–24 mm 1:2,8G ED"
+  aperture: "4,5"
+  shutterspeed: 1/250 s
+  focallength: 21 mm
   page: morocco
   section: streets
   pages:
@@ -384,14 +384,14 @@
   title: Goldene Stunde
   location: Marrakech
   photographer: Ross Walker
-  content: Die Goldene Stunde, diese besondere Lichtqualität  kurz nach Sonnenaufgang oder vor Sonnenuntergang, gilt für viele als die beste Zeit zum Fotografieren, denn sie verleiht Fotos eine gewisse Magie. Wenn Sie eine bestimmte Aufnahme planen, würde ich definitiv empfehlen, diese für die goldene Stunde anzusetzen. Ich persönlich finde es bei Sonnenaufgang leichter, da normalerweise weniger Leute unterwegs sind. Für dieses Foto hockten Louis und ich uns hin und warteten auf passende Leute. Wir haben im Burst-Modus fotografiert, weil sich der Verkehr schnell bewegte und wir den richtigen Augenblick nicht verpassen wollten.
+  content: Die Goldene Stunde, diese besondere Lichtqualität  kurz nach Sonnenaufgang oder vor Sonnenuntergang, gilt für viele als die beste Zeit zum Fotografieren, denn sie verleiht Fotos eine gewisse Magie. Wenn Sie eine bestimmte Aufnahme planen, würde ich definitiv empfehlen, diese für die goldene Stunde anzusetzen. Ich persönlich finde es bei Sonnenaufgang leichter, da normalerweise weniger Leute unterwegs sind. Für dieses Foto hockten Louis und ich uns hin und warteten auf passende Leute. Wir haben mit dem Serienaufnahmemodus fotografiert, weil sich der Verkehr schnell bewegte und wir den richtigen Augenblick nicht verpassen wollten.
   coordinates: 31.62517,-7.98769
   orientation: landscape
   camera: Nikon D850
-  lens: 24-70mm f/2.8
-  aperture: f/4.5
-  shutterspeed: 1/250
-  focallength: 40mm
+  lens: "AF-S NIKKOR 24–70 mm 1:2,8G ED"
+  aperture: "4,5"
+  shutterspeed: 1/250 s
+  focallength: 40 mm
   page: morocco
   section: streets
   pages:
@@ -403,18 +403,20 @@
   title: Dörfer
   location: Atlas Mountains
   photographer: Louis Adams
-  content: Draußen in den Bergen fanden wir diese unglaublichen Dörfer ... Sie lagen oft wirklich weit in der Ferne, also empfahl Ross, mein Zoom-Objektiv zu nutzen, um die Details der Häuser wirklich herauszuarbeiten. Die verschiedenen Schattierungen der dahinter liegenden Hügel dienen als dynamische Kulisse für diese Aufnahme.
+  content: Draußen in den Bergen fanden wir diese unglaublichen Dörfer ... Sie lagen oft wirklich weit in der Ferne, also empfahl Ross, mein Teleobjektiv zu nutzen, um die Details der Häuser wirklich herauszuarbeiten. Die verschiedenen Schattierungen der dahinter liegenden Hügel dienen als dynamische Kulisse für diese Aufnahme.
   coordinates: 31.37453,-7.79057
   orientation: portrait
   camera: Nikon D7500
-  lens: 70-300mm f/4.5-6.3
-  aperture: f/5.3
-  shutterspeed: 1/1000
-  focallength: 185mm
+  lens: "AF-P DX NIKKOR 70–300 mm 1:4,5–6,3G ED VR"
+  aperture: "5,3"
+  shutterspeed: 1/1000 s
+  focallength: 185 mm
   page: morocco
   section: atlas-mountains
   pages:
     - id: morocco
+
+
 
 - id: l-mountain-village
   title: Tal
@@ -424,10 +426,10 @@
   coordinates: 31.37453,-7.79057
   orientation: portrait
   camera: Nikon D7500
-  lens: 18-105mm f/3.5-5.6
-  aperture: f/4.5
-  shutterspeed: 1/2000
-  focallength: 34mm
+  lens: "AF-S DX NIKKOR 18–105 mm 1:3,5–5,6G ED VR"
+  aperture: "4,5"
+  shutterspeed: 1/2000 s
+  focallength: 34 mm
   page: morocco
   section: atlas-mountains
   pages:
@@ -443,10 +445,10 @@
   coordinates:
   orientation: landscape
   camera: Nikon D7500
-  lens: 70-300mm f/4.5-6.3
-  aperture: f/5.0
-  shutterspeed: 1/1250
-  focallength: 150mm
+  lens: "AF-P DX NIKKOR 70–300 mm 1:4,5–6,3G ED VR"
+  aperture: "5,0"
+  shutterspeed: 1/1250 s
+  focallength: 150 mm
   page: morocco
   section: atlas-mountains
   pages:
@@ -458,14 +460,14 @@
   title: Die Ziegenherde
   location: Atlas Mountains
   photographer: Ross Walker
-  content: Eine Staubwolke hinter uns herziehend, rasten wir zu einem Ort, wo wir die Goldene Stunde nutzen wollten. Als wir ankamen wurden wir jedoch enttäuscht, also packten wir uns wieder ins Auto und eilten zurück zu den Hügeln, wo wir vorher an einigen Berberhirten mit ihren Ziegen vorbeigekommen waren. Die Frau fiel mir ins Auge, also versuchte ich, sie samt Ziegen im Vordergrund der Berge in den Rahmen zu bringen. Bei der Komposition ist es oft hiflreich, ein Foto in Vorder- und Hintergrund aufzuteilen. Ich habe das Foto mit einem Zoomobjektiv aufgenommen, da die Frau doch ziemlich weit weg war.
+  content: Eine Staubwolke hinter uns herziehend, waren wir zu einem Ort gerast, wo wir die Goldene Stunde nutzen wollten. Als wir ankamen wurden wir jedoch enttäuscht, also stiegen wir rasch wieder ins Auto und fuhren zurück zu den Hügeln, wo wir vorher an einigen Berberhirten mit ihren Ziegen vorbeigekommen waren. Die Frau fiel mir ins Auge, also versuchte ich einen Bildausschnitt zu finden, der sie und ihre Ziegen im Vordergrund erfasste und zugleich die Bergkette im Hintergrund. Bei der Komposition ist es oft hilfreich, ein Foto in Vorder- und Hintergrund aufzuteilen. In diesem Fall ist dies mit der Telebrennweite und dem weiten Abstand zum Hauptmotiv gut gelungen.
   coordinates:
   orientation: landscape
   camera: Nikon D850
-  lens: 70-200mm f/2.8
-  aperture: f/6.3
-  shutterspeed: 1/250
-  focallength: 200mm
+  lens: "AF-S NIKKOR 70–200 mm 1:2,8E FL ED VR"
+  aperture: "6,3"
+  shutterspeed: 1/250 s
+  focallength: 200 mm
   page: morocco
   section: atlas-mountains
   pages:
@@ -477,14 +479,14 @@
   title: Junge Entdecker
   location: Atlas Mountains
   photographer: Ross Walker
-  content: "Am liebsten fotografiere ich, indem ich spontan zu Plätzen laufe, von denen ich großartige Foto-Motive erwarte – aber leider ist dieser Luxus nicht immer gegeben. Meistens sieht man etwas, wenn man mit dem Auto unterwegs ist und wünscht sich später, man hätte doch angehalten, um dieses Foto zu schießen – also mein Tippp: Immer, wirklich immer anhalten. So entstand auch dieses Foto: Wir rasten in unserem Van durch die Hügel, als wir diese Jungs auf ihrem Esel über das Feld galoppieren sahen. Wir hielten also an und mir ist diese Aufnahme gelungen. Durch die kargen Hügel im Hintergrund entsteht der Eindruck die Kinder seien mitten in der Wildnis."
+  content: "Am liebsten fotografiere ich, indem ich spontan zu Plätzen laufe, von denen ich großartige Foto-Motive erwarte – aber leider ist dieser Luxus nicht immer gegeben. Meistens sieht man etwas, wenn man mit dem Auto unterwegs ist und wünscht sich später, man hätte doch angehalten, um dieses Foto zu schießen – also mein Tipp: Immer, wirklich immer anhalten. So entstand auch dieses Foto: Wir rasten in unserem Van durch die Hügel, als wir diese Jungs auf ihrem Esel über das Feld galoppieren sahen. Wir hielten also an und mir ist diese Aufnahme gelungen. Durch die kargen Hügel im Hintergrund entsteht der Eindruck die Kinder seien mitten in der Wildnis."
   coordinates:
   orientation: landscape
   camera: Nikon D850
-  lens: 70-200mm f/2.8
-  aperture: f/4.0
-  shutterspeed: 1/640
-  focallength: 70mm
+  lens: "AF-S NIKKOR 70–200 mm 1:2,8E FL ED VR"
+  aperture: "4,0"
+  shutterspeed: 1/640 s
+  focallength: 70 mm
   page: morocco
   section: atlas-mountains
   pages:
@@ -496,14 +498,14 @@
   title: Allein in der Weite
   location: Atlas Mountains
   photographer: Ross Walker
-  content: Während unserer Reise durch das Atlasgebirge bemerkte ich eine einsame Gestalt am Horizont. Da sie ziemlich weit weg war, benutzte ich das Zoom-Objektiv und eine niedrige Blendenöffnung, um den Vordergrund unscharf zu machen.
+  content: Während unserer Reise durch das Atlasgebirge bemerkte ich eine einsame Gestalt am Horizont. Da sie ziemlich weit weg war, benutzte ich das Tele und eine große Blendenöffnung, um den Vordergrund unscharf zu bekommen.
   coordinates:
   orientation: landscape
   camera: Nikon D850
-  lens: 70-200mm f/2.8
-  aperture: f/4.0
-  shutterspeed: 1/640
-  focallength: 200mm
+  lens: "AF-S NIKKOR 70–200 mm 1:2,8E FL ED VR"
+  aperture: "4,0"
+  shutterspeed: 1/640 s
+  focallength: 200 mm
   page: morocco
   section: atlas-mountains
   pages:

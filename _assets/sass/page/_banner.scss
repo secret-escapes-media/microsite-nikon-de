@@ -68,7 +68,9 @@
     width: 160px;
     max-width: 90%;
     margin: auto auto $s4;
-    background-size: cover;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
     &:after {
       content: "";
       display: block;
@@ -97,21 +99,28 @@
       padding-right: 0;
     }
     &__half{
-      width: 50%;
       position: absolute;
       left: 0;
       top: 0;
       bottom: 0;
-      background-color: rgba($grey-darkest,0.8);
+      background-color: rgba($grey-darkest,0.5);
       padding: $s4;
       display: flex;
       align-items: center;
+      width: 100%;
+      @include bp($xxl){
+        background-color: rgba($grey-darkest,0.8);
+        width: 50%;
+      }
     }
     &__content {
       width: 100%;
       &-inner {
-        width: 580px;
-        float: right;
+        width: 100%;
+        @include bp($xxxl){
+          width: 580px;
+          float: right;
+        }
       }
     }
     &__breadcrumbs {

@@ -107,15 +107,16 @@ layout: default
 </div>
 
 
-
+{% assign guidepage = site.html_pages | where:"parent",page.id%}
+{% for guidepage in guidepage %}
 <div class="container container--100 vpad--xxxl bg--grey-darker text--center">
   <div class="container">
-    <h3 class="title title--md text--bold">Planen Sie jetzt Ihre Reise mit unserem {{page.id|capitalize}}-Guide</h3>
+    <h3 class="title title--md text--bold">Planen Sie jetzt Ihre Reise mit unserem {{guidepage.nav-title}}</h3>
     <div class="space--lg"></div>
-    <a href="{{site.baseurl}}/{{page.id}}/guide" class="btn btn--solid btn--lg">Den Guide ansehen</a>
+    <a href="{{site.baseurl}}{{guidepage.url}}" class="btn btn--solid btn--lg">Den Guide ansehen</a>
   </div>
 </div>
-
+{% endfor %}
 
 
 {% include page/promo-competition.html %}

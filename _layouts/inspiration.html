@@ -1,0 +1,72 @@
+---
+layout: default
+---
+
+
+
+<!-- INTRO SECTION -->
+<div class="bg--grey-darker">
+  <div class="wp" id="start"></div>
+  <div class="container vpad--xxl text--center">
+    {{page.intro}}
+  </div>
+  {% if page.page-nav %}{% include nav/page.html %}{% endif %}
+</div>
+
+
+
+<!-- VIDEO SECTION -->
+<div class="section bg--fixed inspiration__gallery" style="background-image: url({{site.img}}/content/{{page.id}}/gallery-bg.jpg);">
+  <div class="wp" id="journey"></div>
+  <div class="inspiration__gallery-content container vpad--xxl text--center">
+    <div class="bg-img bg-img--21-9" style="background-image: url({{site.img}}/content/{{page.id}}/gallery-01.jpg);"></div>
+    <div class="row row--no-gutters">
+      <div class="col col--6 bg-img bg-img--21-9 bg-img--lg-4-3" style="background-image: url({{site.img}}/content/{{page.id}}/gallery-02.jpg);"></div>
+      <div class="col col--6 bg-img bg-img--21-9 bg-img--lg-4-3" style="background-image: url({{site.img}}/content/{{page.id}}/gallery-03.jpg);"></div>
+    </div>
+  </div>
+  <div class="inspiration__gallery-fade"></div>
+</div>
+
+
+
+
+<!-- JOURNEY -->
+{% for section in page.sections %}
+<div class="bg--grey-darkest">
+  <div class="wp" id="{{section.id}}"></div>
+  <div class="container">
+    <div class="container container--xl vpad--xxxl">
+      <h2 class="title title--xl text--bold">{{section.title}}</h2>
+
+      <div class="space--lg">
+      {% for question in section.questions %}
+        <hr>
+        <p class="text--lg text--bold">{{question.question}}</p>
+        {{question.answer}}
+      {% endfor %}
+      </div>
+    </div>
+
+    <div class="bg-img bg-img--16-9" style="background-image: url({{site.img}}/content/{{page.id}}/image-0{{forloop.index}}.jpg);"></div>
+
+  </div>
+</div>
+{% endfor %}
+
+
+
+<!-- CONCLUSION -->
+<div class="bg--grey-darkest">
+  <div class="wp" id="tips"></div>
+  <div class="container container--xl vpad--xxl">
+    <h2 class="title title--lg text--bold">Tipps von {{page.conclusion.name}}</h2>
+    <div class="space--lg"></div>
+    <div class="journey__conclusion-expert text--lg">
+      {{page.conclusion.content}}
+    </div>
+  </div>
+</div>
+
+
+{% include page/promo-competition.html %}

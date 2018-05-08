@@ -9,10 +9,10 @@
   coordinates: 40.71575,-73.99703
   orientation: landscape
   camera: Nikon D7500
-  lens: 18-105mm f/3.5-5.6
-  aperture: f/8.0
-  shutterspeed: 1/160
-  focallength: 18mm
+  lens: "AF-S DX NIKKOR 18–105 mm 1:3,5–5,6G ED VR"
+  aperture: "8,0"
+  shutterspeed: 1/160 s
+  focallength: 18 mm
   page: new-york
   section: the-streets
   pages:
@@ -28,10 +28,10 @@
   coordinates: 40.71496,-73.99965
   orientation: landscape
   camera: Nikon D7500
-  lens: 18-105mm f/3.5-5.6
-  aperture: f/6.3
-  shutterspeed: 1/500
-  focallength: 66mm
+  lens: "AF-S DX NIKKOR 18–105 mm 1:3,5–5,6G ED VR"
+  aperture: "6,3"
+  shutterspeed: 1/500 s
+  focallength: 66 mm
   page: new-york
   section: the-streets
   pages:
@@ -43,14 +43,14 @@
   title: Die Feuerwache
   location: New York
   photographer: Marianna Sgherri
-  content: In der Nacht bummelten wir durch den Meatpacking District, als Victoria und mir im Dunkeln diese Feuerwache von der anderen Straßenseite entgegenleuchtete. Das Licht war zu gut, also wollte ich die Gelegenheit nicht verpassen. Ich musste allerdings die Einstellungen an der Kamera schnell ändern, den ISO-Wert verringern und die Verschlusszeit erhöhen, da wir ja vorher Nachtaufnahmen gemacht hatten.
+  content: In der Nacht bummelten wir durch den Meatpacking District, als Victoria und mir im Dunkeln diese Feuerwache von der anderen Straßenseite entgegenleuchtete. Das Licht war zu gut, also wollte ich die Gelegenheit nicht verpassen. Ich musste allerdings die Einstellungen an der Kamera schnell ändern, den ISO-Wert verringern und eine kürzere Belichtungszeit wählen, da wir ja vorher Nachtaufnahmen gemacht hatten.
   coordinates: 40.71531,-73.99289
   orientation: portrait
   camera: Nikon D7500
-  lens: 18-105mm f/3.5-5.6
-  aperture: f/4.5
-  shutterspeed: 1/80
-  focallength: 40mm
+  lens: "AF-S DX NIKKOR 18–105 mm 1:3,5–5,6G ED VR"
+  aperture: "4,5"
+  shutterspeed: 1/80 s
+  focallength: 40 mm
   page: new-york
   section: the-streets
   pages:
@@ -62,14 +62,14 @@
   title: Das Gesetz
   location: New York
   photographer: Marianna Sgherri
-  content: Bei einem Besuch in New York sollten Sie sich die Wall Street nicht entgehen lassen. Hier können Sie das echte Gotham-City-Feeling erleben. Hohe, dunkle Gebäude, enge Straßen und Leute, die buchstäblich von A nach B hetzen. In diesem Chaos gibt es echt viel zu fotografieren. Zufällig bemerkte ich, dass sich diese beiden Männer angeregt unterhielten, also suchte ich mir einen Platz, an dem sie mich nicht bemerken würden, weil ich diese authentische Szene nicht unterbrechen wollte. Es hat sich gelohnt – diese Aufnahme fing einen echten und ungestellten Moment zwischen den zwei Charakteren ein.
+  content: Bei einem Besuch in New York sollten Sie sich die Wall Street nicht entgehen lassen. Hier können Sie das echte Gotham-City-Feeling erleben. Hohe, dunkle Gebäude, enge Straßen und Leute, die buchstäblich von A nach B hetzen. In diesem Chaos gibt es enorm viel zu fotografieren. Zufällig bemerkte ich, dass sich diese beiden Männer angeregt unterhielten, also suchte ich mir einen Platz, an dem sie mich nicht bemerken würden, weil ich diese authentische Szene nicht unterbrechen wollte. Es hat sich gelohnt – diese Aufnahme fing einen echten und ungestellten Moment zwischen den zwei Charakteren ein.
   coordinates: 40.70695,-74.00973
   orientation: landscape
   camera: Nikon D7500
-  lens: 18-105mm f/3.5-5.6
-  aperture: f/5.6
-  shutterspeed: 1/80
-  focallength: 35mm
+  lens: "AF-S DX NIKKOR 18–105 mm 1:3,5–5,6G ED VR"
+  aperture: "5,6"
+  shutterspeed: 1/80 s
+  focallength: 35 mm
   page: new-york
   section: the-streets
   pages:
@@ -85,10 +85,10 @@
   coordinates: 40.71953,-74.00199
   orientation: portrait
   camera: Nikon D7500
-  lens: 18-105mm f/3.5-5.6
-  aperture: f/5.0
-  shutterspeed: 1/50
-  focallength: 52mm
+  lens: "AF-S DX NIKKOR 18–105 mm 1:3,5–5,6G ED VR"
+  aperture: "5,0"
+  shutterspeed: 1/50 s
+  focallength: 52 mm
   page: new-york
   section: the-streets
   pages:
@@ -104,10 +104,10 @@
   coordinates:
   orientation: landscape
   camera: Nikon D850
-  lens: 24-70mm f/2.8
-  aperture: f/6.3
-  shutterspeed: 1/60
-  focallength: 70mm
+  lens: "AF-S NIKKOR 24–70 mm 1:2,8G ED"
+  aperture: "6,3"
+  shutterspeed: 1/60 s
+  focallength: 70 mm
   page: new-york
   section: the-streets
   pages:
@@ -120,14 +120,14 @@
   location: New York
   photographer: Victoria Campbell
   content: >
-    Wie Marianna vor Ort so schön sagte: „Little Italy ist eine völlig überspitzte Version von allem Italienischen" – und ich glaube, dieses Bild fängt genau dieses Gefühl ein. Ich war mir nicht sicher, ob der Mann, der hier am Tisch sitzt und so perfekt in die Atmosphäre dieser typischen Straße passt, nun der Besitzer des Restaurants ist oder ein Kunde. Ich habe ihn jedenfalls ein paar Minuten fasziniert beim Leute beobachten zugesehen, weil er so zufrieden wirkte. Ursprünglich wollte ich den Mann gerne alleine porträtieren, aber in diesem Kontext passte es, dass ein Fußgänger das Bild passiert.
+    Wie Marianna vor Ort so schön sagte: »Little Italy ist eine völlig überspitzte Version von allem Italienischen«. Und ich glaube, dieses Bild fängt genau dieses Gefühl ein. Ich war mir nicht sicher, ob der Mann, der hier am Tisch sitzt und so perfekt in die Atmosphäre dieser typischen Straße passt, nun der Besitzer des Restaurants ist oder ein Kunde. Ich habe ihn jedenfalls ein paar Minuten fasziniert beim Leute Beobachten zugesehen, weil er so zufrieden wirkte. Ursprünglich wollte ich den Mann gerne alleine porträtieren, aber in diesem Kontext passte es, dass ein Fußgänger das Bild passiert.
   coordinates: 40.71914,-73.99732
   orientation: portrait
   camera: Nikon D850
-  lens: 24-70mm f/2.8
-  aperture: f/7.1
-  shutterspeed: 1/500
-  focallength: 70mm
+  lens: "AF-S NIKKOR 24–70 mm 1:2,8G ED"
+  aperture: "7,1"
+  shutterspeed: 1/500 s
+  focallength: 70 mm
   page: new-york
   section: the-streets
   pages:
@@ -139,14 +139,14 @@
   title: Chinesisches Schach
   location: New York
   photographer: Victoria Campbell
-  content: In dem Park unweit unseres Hotels, war jeder Tisch von Gruppen von Männern und Frauen besetzt, die chinesisches Schach spielten. Bei solchen Aufnahmen kann es oft vorkommen, dass man sich wie ein Eindringling fühlt, aber diese Herren waren so sehr in ihr Spiel vertieft, dass sie unsere Kameras kaum bemerkten, und wenn sie es taten, widmeten sie sich sofort wieder völlig unbeeindruckt ihrem Spiel – wie auch auf diesem Foto.
+  content: In dem Park unweit unseres Hotels, war jeder Tisch von Gruppen von Männern und Frauen besetzt, die Xiangqi spielten – chinesisches Schach. Bei solchen Aufnahmen kann es oft vorkommen, dass man sich wie ein Eindringling fühlt, aber diese Herren waren so sehr in ihr Spiel vertieft, dass sie unsere Kameras kaum bemerkten, und wenn sie es taten, widmeten sie sich sofort wieder völlig unbeeindruckt ihrem Spiel – wie auch auf diesem Foto.
   coordinates: 40.71566,-73.99999
   orientation: portrait
   camera: Nikon D850
-  lens: 24-70mm f/2.8
-  aperture: f/6.3
-  shutterspeed: 1/500
-  focallength: 70mm
+  lens: "AF-S NIKKOR 24–70 mm 1:2,8G ED"
+  aperture: "6,3"
+  shutterspeed: 1/500 s
+  focallength: 70 mm
   page: new-york
   section: the-streets
   pages:
@@ -162,10 +162,10 @@
   coordinates:
   orientation: portrait
   camera: Nikon D850
-  lens: 24-70mm f/2.8
-  aperture: f/6.3
-  shutterspeed: 1/500
-  focallength: 66mm
+  lens: "AF-S NIKKOR 24–70 mm 1:2,8G ED"
+  aperture: "6,3"
+  shutterspeed: 1/500 s
+  focallength: 66 mm
   page: new-york
   section: the-streets
   pages:
@@ -181,10 +181,10 @@
   coordinates: 40.70608,-73.99686
   orientation: landscape
   camera: Nikon D7500
-  lens: 70-300mm f/4.5-6.3
-  aperture: f/11
-  shutterspeed: 1/200
-  focallength: 70mm
+  lens: "AF-P DX NIKKOR 70–300 mm 1:4,5–6,3G ED VR"
+  aperture: "11"
+  shutterspeed: 1/200 s
+  focallength: 70 mm
   page: new-york
   section: across-the-river
   pages:
@@ -200,10 +200,10 @@
   coordinates: 40.70426,-73.99465
   orientation: landscape
   camera: Nikon D7500
-  lens: 18-105mm f/3.5-5.6
-  aperture: f/13
-  shutterspeed: 1/200
-  focallength: 28mm
+  lens: "AF-S DX NIKKOR 18–105 mm 1:3,5–5,6G ED VR"
+  aperture: "13"
+  shutterspeed: 1/200 s
+  focallength: 28 mm
   page: new-york
   section: across-the-river
   pages:
@@ -215,14 +215,14 @@
   title: Regenschirm
   location: New York
   photographer: Marianna Sgherri
-  content: Es regnete stark und so beschlossen wir, zurück nach Brooklyn zu fahren, um das berühmte Foto der Manhattan Bridge zu schießen, wie sie zwischen zwei roten Backsteinhäusern hervorlugt. Mir gefällt die Person, die die Straße mit einem Regenschirm überquert. Abgesehen davon, dass ich mitten auf der Straße stehe (was dem Bild eine fantastische Symmetrie verleiht), fügt es dem Bild eine interessante Perspektive hinzu. Ich war echt froh, dass die D7500 wetterfest war, da ich mir so weniger Sorgen, aber dafür mehr Bilder machte.
+  content: Es regnete stark und so beschlossen wir, zurück nach Brooklyn zu fahren, um ein typisches Foto der Manhattan Bridge zu schießen, wie sie zwischen zwei Häuserreihen aus rotem Backstein hervorlugt. Mir gefällt die Person, die die Straße mit einem Regenschirm überquert. Abgesehen davon, dass ich mitten auf der Straße stehe (was dem Bild eine fantastische Symmetrie verleiht), fügt es dem Bild eine interessante Perspektive hinzu. Ich war froh, dass die D7500 gegen Spritzwasser abgedichtet ist, da ich mir so weniger Sorgen, aber dafür mehr Bilder machte.
   coordinates: 40.70285,-73.9896
   orientation: portrait
   camera: Nikon D7500
-  lens: 18-105mm f/3.5-5.6
-  aperture: f/10
-  shutterspeed: 1/200
-  focallength: 48mm
+  lens: "AF-S DX NIKKOR 18–105 mm 1:3,5–5,6G ED VR"
+  aperture: "10"
+  shutterspeed: 1/200 s
+  focallength: 48 mm
   page: new-york
   section: across-the-river
   pages:
@@ -234,14 +234,14 @@
   title: Docks
   location: New York
   photographer: Marianna Sgherri
-  content: Da diese Docks für die herrliche Aussicht auf die Skyline bei Sonnenuntergang berühmt sind, waren wir uns ziemlich sicher, dass auch das goldene Licht der Morgendämmerung, das von den Wolkenkratzern reflektiert wird, großartig sein würde – und das war es auch! Das Licht bei Dämmerung erlaubte uns Aufnahmen mit langer Belichtungszeit. In diesem Bild hielt ich den Verschluss für ein paar Sekunden offen, damit die Kamera die Bewegung des Wassers erfassen konnte. Das Ergebnis ist die glänzende, fast metallische Oberfläche, die Sie auf dem Bild sehen können – ich liebe es!
+  content: Da diese Docks für die herrliche Aussicht auf die Skyline bei Sonnenuntergang berühmt sind, waren wir uns ziemlich sicher, dass auch das goldene Licht der Morgendämmerung, das von den Wolkenkratzern reflektiert wird, großartig sein würde – und das war es auch! Das Licht bei Dämmerung erlaubte uns Aufnahmen mit langer Belichtungszeit. In diesem Bild hielt ich den Verschluss für fast eine Sekunde offen, damit die Kamera die Bewegung des Wassers erfassen konnte. Das Ergebnis ist die glänzende, fast metallische Oberfläche, die Sie auf dem Bild sehen können – ich liebe es!
   coordinates: 40.70029,-73.99669
   orientation: landscape
   camera: Nikon D7500
-  lens: 18-105mm f/3.5-5.6
-  aperture: f/18
-  shutterspeed: 0.8 seconds
-  focallength: 18mm
+  lens: "AF-S DX NIKKOR 18–105 mm 1:3,5–5,6G ED VR"
+  aperture: "18"
+  shutterspeed: 0.8 seconds s
+  focallength: 18 mm
   page: new-york
   section: across-the-river
   pages:
@@ -253,14 +253,14 @@
   title: Symmetrie
   location: New York
   photographer: Victoria Campbell
-  content: Das erste, was mir an der Brooklyn Bridge auffiel, waren die vielen verschiedenen Perspektiven, die sie zu bieten hatte. Wir fotografierten aus allen Richtungen, von unten, leicht nach rechts, links und hoch mit ausgestreckten Armen, jeder Schuss sah einzigartig aus. Wenn Sie eine Kamera in der Hand haben, können Sie ein Objekt oder einen Moment genau so darstellen, wie Sie es möchten. In diesem Moment wollte ich die Großartigkeit der Brücke darstellen.
+  content: Das erste, was mir an der Brooklyn Bridge auffiel, waren die vielen verschiedenen Perspektiven, die sie zu bieten hatte. Wir fotografierten aus allen Richtungen, von unten, leicht nach rechts, links und hoch mit ausgestreckten Armen, jedes Bild sah einzigartig aus. Wenn Sie eine Kamera in der Hand haben, können Sie ein Objekt oder einen Moment genau so darstellen, wie Sie es möchten. In diesem Moment wollte ich die Großartigkeit der Brücke darstellen.
   coordinates: 40.70426,-73.99465
   orientation: landscape
   camera: Nikon D850
-  lens: 14-24mm f/2.8
-  aperture: f/22
-  shutterspeed: 1/500
-  focallength: 22mm
+  lens: "AF-S NIKKOR 14–24 mm 1:2,8G ED"
+  aperture: "22"
+  shutterspeed: 1/500 s
+  focallength: 22 mm
   page: new-york
   section: across-the-river
   pages:
@@ -272,14 +272,14 @@
   title: Destination
   location: New York
   photographer: Victoria Campbell
-  content: Es schüttete wie aus Eimern, als wir in Dumbo, Brooklyn ankamen, was diese fantastische Reflexion auf der Straße zur Folge hatte (und das ohne Touristen, die den Weg versperren!). Diese Location ist besonders beliebt, also wollte ich mal eine andere Perspektive probieren. Ich verringerte die Blendenöffnung auf f9, hielt die Kamera sehr tief und fokussierte mich auf die Mitte der Straße, so dass der Lichtstrom, der durch die Reflexion des Regens und die Beschaffenheit der Straße entstand, zum Mittelpunkt des Bildes wurde.
+  content: Es schüttete wie aus Eimern, als wir in Dumbo, Brooklyn ankamen, was diese fantastische Reflexion auf der Straße zur Folge hatte (und das ohne Touristen, die den Weg versperren!). Diese Location ist besonders beliebt, also wollte ich mal eine andere Perspektive probieren. Ich blendete auf Stufe 9 ab, hielt die Kamera sehr tief und fokussierte auf die Mitte der Straße, so dass der Lichtstrom, der durch die Reflexion des Regens und die Beschaffenheit der Straße entstand, zum Mittelpunkt des Bildes wurde.
   coordinates: 40.70285,-73.9896
   orientation: portrait
   camera: Nikon D850
-  lens: 24-70mm f/2.8
-  aperture: f/9.0
-  shutterspeed: 1/100
-  focallength: 27mm
+  lens: "AF-S NIKKOR 24–70 mm 1:2,8G ED"
+  aperture: "9,0"
+  shutterspeed: 1/100 s
+  focallength: 27 mm
   page: new-york
   section: across-the-river
   pages:
@@ -291,14 +291,14 @@
   title: East River
   location: New York
   photographer: Victoria Campbell
-  content: "Dies war tatsächlich unser zweiter Versuch im Brooklyn Bridge Park. Beim ersten Versuch haben wir den Sonnenaufgang nämlich verpasst und zusätzlich war es bedeckt, sodass wir mit den Ergebnissen nicht zufrieden waren. Beim zweiten Mal glänzte der Himmel zum Glück in einem schönen Goldton, was wunderschöne Schatten und Reflexionen auf der Skyline erzeugte. Mir gefiel die Idee, die Grenze zwischen Wasser und Skyline zu verwischen. Um diesen nebligen, fast magischen Effekt zu erhalten, habe ich meine Kamera für eine lange Belichtung auf das Stativ gestellt und meinen ISO-Wert auf LO1 gedreht (das Äquivalent von ISO 32), sodass ich eine sehr niedrige Verschlusszeit einstellen konnte, die die Bewegung des Wassers und der Wolken verschwimmen lässt. Zusätzlich benutzte ich einen ND-Filter, der meine Belichtungszeit verlängerte und die Reflexionen weicher machte. Ich empfehle, sehr früh aufzustehen, um die Stadt bei Sonnenaufgang zu einzufangen, da es tagsüber nichts Vergleichbares gibt."
+  content: "Dies war tatsächlich unser zweiter Versuch im Brooklyn Bridge Park. Beim ersten Versuch haben wir den Sonnenaufgang nämlich verpasst und zusätzlich war es bedeckt, sodass wir mit den Ergebnissen nicht zufrieden waren. Beim zweiten Mal glänzte der Himmel zum Glück in einem schönen Goldton, was wunderschöne Schatten und Reflexionen auf der Skyline erzeugte. Mir gefiel die Idee, die Grenze zwischen Wasser und Skyline zu verwischen. Um diesen nebligen, fast magischen Effekt zu erhalten, habe ich meine Kamera für eine lange Belichtung auf das Stativ gestellt und meinen ISO-Wert auf LO1 gedreht (das Äquivalent von ISO 32). So konnte ich eine sehr lange Belichtungszeit einstellen, die die Bewegung des Wassers und der Wolken verschwimmen lässt. Zusätzlich benutzte ich einen Neutralgraufilter, der eine noch längere Belichtungszeit ermöglichte und die Reflexionen weicher machte. Ich empfehle, sehr früh aufzustehen, um die Stadt bei Sonnenaufgang zu einzufangen, da es tagsüber nichts Vergleichbares gibt."
   coordinates: 40.70029,-73.99669
   orientation: landscape
   camera: Nikon D850
-  lens: 24-70mm f/2.8
-  aperture: f/20
-  shutterspeed: 15 seconds
-  focallength: 24mm
+  lens: "AF-S NIKKOR 24–70 mm 1:2,8G ED"
+  aperture: "20"
+  shutterspeed: 15 seconds s
+  focallength: 24 mm
   page: new-york
   section: across-the-river
   pages:
@@ -310,14 +310,14 @@
   title: Vom Top of the Rock
   location: New York
   photographer: Marianna Sgherri
-  content: Als wir auf dem Dach des Rockefeller Centers ankamen, brauchte ich erst ein paar Minuten, bis ich zu meiner Kamera griff, so überwältigt war ich von dieser Aussicht. Das Stadtbild ist so schön – und es scheint endlos weiter zu gehen. Ich fing an, die Gebäude zu fotografieren, war aber nicht ganz zufrieden mit dem Ergebnis. Victoria schlug vor, die Terrasse in das Bild zu integrieren, um dem Foto eine Perspektive zu geben. Um alles scharf zu stellen, benutzte ich eine niedrige Blendenöffnung.
+  content: Als wir auf dem Dach des Rockefeller Centers ankamen, brauchte ich erst ein paar Minuten, bis ich zu meiner Kamera griff, so überwältigt war ich von dieser Aussicht. Das Stadtbild ist so schön – und es scheint endlos weiter zu gehen. Ich fing an, die Gebäude zu fotografieren, war aber nicht ganz zufrieden mit dem Ergebnis. Victoria schlug vor, die Terrasse in das Bild zu integrieren, um dem Foto eine Perspektive zu geben. Um alles scharf zu bekommen, benutzte ich eine kleine Blendenöffnung (große Blendenzahl).
   coordinates: 40.75883,-73.97834
   orientation: landscape
   camera: Nikon D7500
-  lens: 18-105mm f/3.5-5.6
-  aperture: f/5.6
-  shutterspeed: 1/40
-  focallength: 18mm
+  lens: "AF-S DX NIKKOR 18–105 mm 1:3,5–5,6G ED VR"
+  aperture: "5,6"
+  shutterspeed: 1/40 s
+  focallength: 18 mm
   page: new-york
   section: metropolis
   pages:
@@ -333,10 +333,10 @@
   coordinates:
   orientation: landscape
   camera: Nikon D7500
-  lens: 70-300mm f/4.5-6.3
-  aperture: f/10
-  shutterspeed: 1/50
-  focallength: 70mm
+  lens: "AF-P DX NIKKOR 70–300 mm 1:4,5–6,3G ED VR"
+  aperture: "10"
+  shutterspeed: 1/50 s
+  focallength: 70 mm
   page: new-york
   section: metropolis
   pages:
@@ -348,14 +348,14 @@
   title: Dämmerung
   location: New York
   photographer: Marianna Sgherri
-  content: Für dieses Foto habe ich das Zoom-Objektiv verwendet. Während ich die Aussicht vom Rockefeller Center bewunderte, fiel mir auf, dass zwischen den Häusern dieses kleine Stück Straße (samt der berühmten gelben Taxis) sichtbar war. Ich mag es, wie das Licht aus den Fenstern in der Dämmerung mit der Farbe der Taxis harmoniert.
+  content: Für dieses Foto habe ich das Universalzoom verwendet. Während ich die Aussicht vom Rockefeller Center bewunderte, fiel mir auf, dass zwischen den Häusern dieses kleine Stück Straße (samt der berühmten gelben Taxis) sichtbar war. Ich mag es, wie das Licht aus den Fenstern in der Dämmerung mit der Farbe der Taxis harmoniert.
   coordinates: 40.75883,-73.97834
   orientation: portrait
   camera: Nikon D7500
-  lens: 18-105mm f/3.5-5.6
-  aperture: f/5.3
-  shutterspeed: 1/50
-  focallength: 62mm
+  lens: "AF-S DX NIKKOR 18–105 mm 1:3,5–5,6G ED VR"
+  aperture: "5,3"
+  shutterspeed: 1/50 s
+  focallength: 62 mm
   page: new-york
   section: metropolis
   pages:
@@ -371,10 +371,10 @@
   coordinates: 40.74106,-73.98969
   orientation: landscape
   camera: Nikon D7500
-  lens: 14-24mm f/2.8
-  aperture: f/18
-  shutterspeed: 1/320
-  focallength: 14mm
+  lens: "AF-S NIKKOR 14–24 mm 1:2,8G ED"
+  aperture: "18"
+  shutterspeed: 1/320 s
+  focallength: 14 mm
   page: new-york
   section: metropolis
   pages:
@@ -383,17 +383,17 @@
 
 
 - id: v-graffiti
-  title: Streetart
+  title: Mural
   location: New York
   photographer: Victoria Campbell
   content: "Kontraste und Nebeneinander definieren New York – und es gibt wohl kein bekannteres Wahrzeichen als die Freiheitsstatue. Auf diesem Bild sehen Sie beides: eine für New York so typische Zeile der Brownstones genannten Altbauten, mit einer modernen wie farbenfrohen Interpretation der Freiheitsstatue."
   coordinates:
   orientation: landscape
   camera: Nikon D850
-  lens: 24-70mm f/2.8
-  aperture: f/10
-  shutterspeed: 1/800
-  focallength: 55mm
+  lens: "AF-S NIKKOR 24–70 mm 1:2,8G ED"
+  aperture: "10"
+  shutterspeed: 1/800 s
+  focallength: 55 mm
   page: new-york
   section: metropolis
   pages:
@@ -409,10 +409,10 @@
   coordinates: 40.75883,-73.97834
   orientation: portrait
   camera: Nikon D850
-  lens: 70-200mm f/2.8
-  aperture: f/8.0
-  shutterspeed: 1/40
-  focallength: 70mm
+  lens: "AF-S NIKKOR 70–200 mm 1:2,8E FL ED VR"
+  aperture: "8,0"
+  shutterspeed: 1/40 s
+  focallength: 70 mm
   page: new-york
   section: metropolis
   pages:
@@ -424,14 +424,14 @@
   title: Subway
   location: New York
   photographer: Victoria Campbell
-  content: In der New Yorker U-Bahn macht es richtig Spaß, mit verschiedenen Foto-Techniken zu spielen – vor allem, wenn Personen involviert sind. Dieses Foto schoss ich ein paar Sekunden, nachdem ein Zug die Station verlassen hatte. Ich hatte gewartet, bis die junge Frau auf dem Bild genau zwischen den Säulen ankam, aber erst hinterher fiel mir auf, dass eine zweite Frau auf der linken Seite des Bildes sie beobachtete. Ich liebe Fotos, die Fragen aufwerfen, und genau das tut dieses Bild meiner Meinung nach.
+  content: In der New Yorker U-Bahn macht es richtig Spaß, mit verschiedenen Foto-Techniken zu spielen – vor allem, wenn Personen involviert sind. Dieses Foto entstand ein paar Sekunden, nachdem ein Pendlerzug die Station verlassen hatte. Ich hatte gewartet, bis die junge Frau auf dem Bild genau zwischen den Säulen ankam, aber erst hinterher fiel mir auf, dass eine zweite Frau auf der linken Seite des Bildes sie beobachtete. Ich liebe Fotos, die Fragen aufwerfen, und genau das tut dieses Bild meiner Meinung nach.
   coordinates:
   orientation: landscape
   camera: Nikon D850
-  lens: 24-70mm f/2.8
-  aperture: f/4.5
-  shutterspeed: 1/80
-  focallength: 48mm
+  lens: "AF-S NIKKOR 24–70 mm 1:2,8G ED"
+  aperture: "4,5"
+  shutterspeed: 1/80 s
+  focallength: 48 mm
   page: new-york
   section: metropolis
   pages:
@@ -443,14 +443,14 @@
   title: 24 Stunden
   location: New York
   photographer: Marianna Sgherri
-  content: Dieses Foto wurde aufgenommen, als wir die berühmte 5th Avenue hinunterspazierten. Ich wollte eine Momentaufnahme einer willkürlichen Kreuzung in New York City haben – jede Menge Leute, ein paar typische Schilder wie das One Way-Schild und, natürlich, McDonald's und die Ampeln. Für dieses Bild war mein ISO-Wert hoch und ich hielt die Verschlusszeit niedrig, um den Leuten eine gewisse Dynamik zu verleihen.
+  content: Dieses Foto entstand, als wir die berühmte 5th Avenue hinunterspazierten. Ich wollte eine Momentaufnahme einer willkürlichen Kreuzung in New York City haben – jede Menge Leute, ein paar typische Schilder wie das One Way-Schild und, natürlich, McDonald's und die Ampeln. Für dieses Bild nutzte ich einen hohen ISO-Wert und eine nicht zu kurze Belichtungszeit, um den Leuten eine gewisse Dynamik zu verleihen.
   coordinates: 40.75889,-73.98513
   orientation: landscape
   camera: Nikon D7500
-  lens: 18-105mm f/3.5-5.6
-  aperture: f/4.2
-  shutterspeed: 1/60
-  focallength: 34mm
+  lens: "AF-S DX NIKKOR 18–105 mm 1:3,5–5,6G ED VR"
+  aperture: "4,2"
+  shutterspeed: 1/60 s
+  focallength: 34 mm
   page: new-york
   section: city-at-night
   pages:
@@ -462,14 +462,14 @@
   title: Streifen
   location: New York
   photographer: Marianna Sgherri
-  content: Während ich mich am lebhaften Times Square wie ein Kind im Spielzeugladen fühlte, bemerkte ich dieses ältere Paar, das schweigend dasaß. Der Kontrast zwischen ihrer Gelassenheit und dem sie umgebenden Chaos musste einfach festgehalten werden. Um eine Unterbelichtung zu vermeiden, habe ich meinen ISO-Wert sowie die Blendenöffnung erhöht und die Verschlusszeit schnell gehalten, um den Moment festzuhalten.
+  content: Während ich mich am lebhaften Times Square wie ein Kind im Spielzeugladen fühlte, bemerkte ich dieses ältere Paar, das schweigend dasaß. Der Kontrast zwischen ihrer Gelassenheit und dem sie umgebenden Chaos musste einfach festgehalten werden. Um eine Unterbelichtung zu vermeiden, wählte ich einen hohen ISO-Wert. Ein mittlerer Blendenwert sorgt für ausreichend Tiefenschärfe und mit einer kurzen Belichtungszeit konnte ich den Moment einfrieren.
   coordinates:
   orientation: portrait
   camera: Nikon D7500
-  lens: 14-24mm f/2.8
-  aperture: f/7.1
-  shutterspeed: 1/125
-  focallength: 24mm
+  lens: "AF-S NIKKOR 14–24 mm 1:2,8G ED"
+  aperture: "7,1"
+  shutterspeed: 1/125 s
+  focallength: 24 mm
   page: new-york
   section: city-at-night
   pages:
@@ -481,14 +481,14 @@
   title: Leuchtend
   location: New York
   photographer: Marianna Sgherri
-  content: Mit der Aussicht von unserem Hotel hatte wir echt richtig Glück und an diesem Abend war das Wetter spektakulär. Alle Lichter der Stadt reflektierten auf den Wolken, die ziemlich schnell über den Himmel Manhattans zogen. Ich spielte ein bisschen mit meiner Kamera herum, bis Victoria mir vorschlug, eine langsamere Verschlusszeit zu verwenden und die Kamera auf einen unbeweglichen Untergrund auf der Dachterrasse zu legen, damit nichts verwackelt. Auf diese Weise konnte ich die Bewegung der Wolken erfassen und so viel Licht wie möglich einfangen.
+  content: Mit der Aussicht von unserem Hotel hatten wir riesiges Glück und an diesem Abend war das Wetter spektakulär. Alle Lichter der Stadt wurden von Wolken reflektiert, die ziemlich schnell über den Himmel Manhattans zogen. Ich spielte ein bisschen mit meiner Kamera herum, bis Victoria mir vorschlug, eine lange Belichtungszeit zu verwenden und die Kamera auf einen unbeweglichen Untergrund auf der Dachterrasse zu legen, damit nichts verwackelt. Auf diese Weise konnte ich die Bewegung der Wolken erfassen und so viel Licht wie möglich einfangen.
   coordinates:
   orientation: landscape
   camera: Nikon D7500
-  lens: 70-300mm f/4.5-6.3
-  aperture: f/4.8
-  shutterspeed: 1/4
-  focallength: 105mm
+  lens: "AF-P DX NIKKOR 70–300 mm 1:4,5–6,3G ED VR"
+  aperture: "4,8"
+  shutterspeed: 1/4 s
+  focallength: 105 mm
   page: new-york
   section: city-at-night
   pages:
@@ -504,10 +504,10 @@
   coordinates: 40.75889,-73.98513
   orientation: portrait
   camera: Nikon D850
-  lens: 24-70mm f/2.8
-  aperture: f/5.6
-  shutterspeed: 1/640
-  focallength: 70mm
+  lens: "AF-S NIKKOR 24–70 mm 1:2,8G ED"
+  aperture: "5,6"
+  shutterspeed: 1/640 s
+  focallength: 70 mm
   page: new-york
   section: city-at-night
   pages:
@@ -519,14 +519,14 @@
   title: Verkehr
   location: New York
   photographer: Victoria Campbell
-  content: Nachtaufnahmen können ein wenig überfordernd sein, vor allem an Orten wie dem Times Square, wo so eine geschäftige Atmosphäre herrscht. Ich wollte so viele bewegliche Elemente wie möglich erfassen – die Lichter, den Verkehr und die Leute. Ich benutzte eine kurze Verschlusszeit für dieses Foto, um zu vermeiden, dass die Taxis und das Fahrrad im Bild verschwimmen, sodass mein ISO-Wert auf hohe 2000 eingestellt werden musste.
+  content: Nachtaufnahmen können ein wenig überfordernd sein, vor allem an Orten wie dem Times Square, wo so eine geschäftige Atmosphäre herrscht. Ich wollte so viele bewegliche Elemente wie möglich erfassen – die Lichter, den Verkehr und die Leute. Ich benutzte eine kurze Belichtungszeit für dieses Foto, um zu vermeiden, dass die Taxis und das Fahrrad im Bild verschwimmen, sodass ich den ISO-Wert auf 2000 anheben musste.
   coordinates:
   orientation: landscape
   camera: Nikon D850
-  lens: 20mm f/1.4
-  aperture: f/5.0
-  shutterspeed: 1/320
-  focallength: 20mm
+  lens: "Sigma 20 mm 1:1,4 DG HSM Art Lens"
+  aperture: "5,0"
+  shutterspeed: 1/320 s
+  focallength: 20 mm
   page: new-york
   section: city-at-night
   pages:
@@ -538,14 +538,14 @@
   title: Unsere Straßen
   location: New York
   photographer: Victoria Campbell
-  content: Als wir an einem regnerischen Abend durch Chinatown gingen, bemerkte ich eine Gruppe von Männern, die vor einem Restaurant rumhingen. Ich richtete meine Kamera auf die Gruppe und einer von ihnen schien die Aufmerksamkeit besonders zu genießen – dieser Typ. Wir fragten, ob wir ein Porträt von ihm aufnehmen könnten und er fing ohne weiteres an zu posieren. Mit diesem Bild wollte ich nicht nur ihn festhalten, ich wollte die Umgebung, von der er so ein elementarer Teil war, als visuelles Gesamtpaket einfangen.
+  content: Als wir an einem regnerischen Abend durch Chinatown gingen, bemerkte ich eine Gruppe von Männern, die vor einem Restaurant herumstanden. Ich richtete meine Kamera auf die Gruppe und einer von ihnen schien die Aufmerksamkeit besonders zu genießen – dieser Typ. Wir fragten, ob wir ein Porträt von ihm aufnehmen könnten und er fing ohne weiteres an zu posieren. Mit diesem Bild wollte ich nicht nur ihn festhalten, ich wollte die Umgebung, von der er so ein elementarer Teil war, als visuelles Gesamtpaket einfangen.
   coordinates:
   orientation: portrait
   camera: Nikon D850
-  lens: 20mm f/1.4
-  aperture: f/2.0
-  shutterspeed: 1/30
-  focallength: 20mm
+  lens: "Sigma 20 mm 1:1,4 DG HSM Art Lens"
+  aperture: "2,0"
+  shutterspeed: 1/30 s
+  focallength: 20 mm
   page: new-york
   section: city-at-night
   pages:

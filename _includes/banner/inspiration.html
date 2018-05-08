@@ -1,0 +1,26 @@
+<div class="banner banner--article">
+  <div class="site-header__offset"></div>
+  {% include nav/site.html %}
+
+  <div class="banner__wrap">
+
+    <div class="banner__half">
+      <div class="banner__content">
+        <div class="banner__content-inner boxpad--sm">
+          <h1 class="title title--xxxl text--bold">{{page.page-title}}</h1>
+          <div class="space--sm"></div>
+          <span class="title title--upper title--sm text--bold">{% if page.page-subtitle %}{{page.page-subtitle}}{% else %}{{page.title}}{% endif %}</span>
+          <div class="space--md"></div>
+          <hr>
+          <a href="javascript:void(0);" data-modal-item="{{page.expert.id}}" data-modal-group="section" class="js-open-modal title title--xs"><span class="text--bold">{{page.expert.name}}</span> {{page.expert.position}}</a>
+          <hr>
+          <div class="space--md"></div>
+          <a href="#start" class="btn btn--solid">Get inspired</a>
+        </div>
+      </div>
+    </div>
+
+  </div>
+
+  <div class="banner__bg" style="background-image: url('{{site.img}}/banner/{{page.id}}.jpg')"></div>
+</div>

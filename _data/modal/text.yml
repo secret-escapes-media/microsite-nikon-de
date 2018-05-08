@@ -6,7 +6,7 @@
   job: UK Managing Editor
   instagram: londontravelgirl
   content: >
-    <p class="text--lg">Das ist Eleanor, Managing Editor von Secret Escapes UK. Sie liebt es zu Reisen und ihre Abenteuer zu dokumentieren. Mit einer Nikon Spiegelreflexkamera bringt sie ihre Aufnahmen auf das nächste Level, indem Sie zusammen mit Fotograf Craig Island erkundet und lernen wird, wie man die besten Schnappschüsse in diesem atemberaubenden Land macht.</p>
+    <p class="text--lg">Das ist Eleanor, Managing Editor von Secret Escapes UK. Sie liebt es, zu reisen und ihre Abenteuer zu dokumentieren. Mit einer Nikon-Spiegelreflexkamera bringt sie ihre Aufnahmen auf das nächste Level, indem Sie zusammen mit Fotograf Craig Island erkundet und lernt, wie man die besten Schnappschüsse in diesem atemberaubenden Land macht.</p>
   section: photographers
   pages:
     - id: iceland
@@ -30,7 +30,7 @@
   job: Supply Manager
   instagram: louisoadams
   content: >
-    <p class="text--lg">Das ist Louis, Supply Planning Manager bei Secret Escapes UK. Vor dieser Reise hatte er noch nie eine Spiegelreflexkamera benutzt und war immer frustriert, dass er auf seinen Reisen keine besseren Fotos machen konnte. Um die Kunst der großartigen Reisefotografie zu erlernen, machte er sich mit Ross auf den Weg, um das unglaublich vielfältige Marokko zu erkunden.</p>
+    <p class="text--lg">Das ist Louis, Supply Planning Manager bei Secret Escapes UK. Vor dieser Reise hatte er noch nie eine Spiegelreflexkamera benutzt und war immer frustriert, dass er keine besseren Fotos von seinen Reisen heimbrachte. Um die Kunst der Reisefotografie zu erlernen, machte er sich mit Ross auf den Weg, um das unglaublich vielfältige Marokko zu erkunden.</p>
   section: photographers
   pages:
     - id: morocco
@@ -42,7 +42,7 @@
   job: Profi-Fotograf
   instagram: rosscarmaltwalker
   content: >
-    <p class="text--lg">Ross Walker ist leidenschaftlicher Fotograf mit ebensolcher Liebe zum Reisen. Er ist durch die Welt gereist und hat unglaubliche Ziele erkundet, immer versucht, Einheimische zu treffen und ihr Leben mit seiner Kamera einzufangen. Sein Ziel ist es, sein Publikum in die unzähligen Kulturen eintauchen zu lassen, die er erkundet.</p>
+    <p class="text--lg">Ross Walker ist leidenschaftlicher Fotograf mit ebensolcher Liebe zum Reisen. Er ist durch die Welt gereist und hat unglaubliche Ziele erkundet. Dabei legt er immer Wert darauf, mit Einheimischen in Kontakt zu kommen und ihr Leben mit seiner Kamera einzufangen. Sein Ziel ist es, sein Publikum in die unzähligen Kulturen eintauchen zu lassen, die er erkundet.</p>
   section: photographers
   pages:
     - id: morocco
@@ -66,10 +66,22 @@
   job: Fotografin
   instagram: vicsjcampbell
   content: >
-    <p class="text--lg">Victoria lebt derzeit nach längerem Auslandsaufenthalt wieder in London. Mit 16 Jahren begann sie mit der 35-mm-Nikon-Filmkamera ihres Stiefvaters zu fotografieren und liebt das Reisen in fremde Städte und andere Kulturen. Ihre liebste Reisebegleitung ist – neben ihrem Mann – natürlich ihre Kamera.</p>
+    <p class="text--lg">Victoria lebt derzeit nach längerem Auslandsaufenthalt wieder in London. Mit 16 Jahren begann sie mit der analogen Nikon-Kamera ihres Stiefvaters zu fotografieren und liebt das Reisen in fremde Städte und andere Kulturen. Ihre liebste Reisebegleitung ist – neben ihrem Mann – natürlich ihre Kamera.</p>
   section: photographers
   pages:
     - id: new-york
+
+
+
+- id: max-leitner
+  title: Max Leitner
+  job: Fotograf
+  instagram: maxleitner
+  content: >
+    <p class="text--lg">Max Leitner, geboren in Stuttgart, war von klein auf von der Fotografie begeistert. In den vergangenen zehn Jahren hat er die USA, Asien und Europa bereist. Er verfügt über einen Bachelor in Fine Arts des School of the Art Institute in Chicago und hat bereits für Kunden in Europa, Asien und dem Nahen Osten gearbeitet. Während seines Studiums beschäftigte er sich vornehmlich mit Trends der Urban Exploration, der Architektur und des Abenteuer-Lifestyles. Sein Ziel ist es, unzugängliche Orte und Räume zu besuchen und deren versteckte architektonische Strukturen zu fotografieren.</p>
+  pages:
+    - id: inspiration
+
 
 
 

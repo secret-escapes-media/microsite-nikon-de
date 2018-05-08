@@ -5,14 +5,14 @@
   title: Dyrhólaey
   location: Reynisfjara
   photographer: Eleanor Cording-Booth
-  content: Ich wünschte es gäbe in diesem Bild etwas, das den Größenvergleich illustriert, weil Dyrhólaey (übersetzt Türlochinsel) riesig ist! Wenn ich die Chance hätte diese Aufnahme noch einmal zu machen, würde ich wahrscheinlich noch weiter in Richtung Leuchtturm gehen, um mehr Licht auf den Bogen zu kriegen. Aber so wie es jetzt ist, finde ich, hat das Bild etwas Wildes und Unnahbares.
+  content: Ich wünschte es gäbe in diesem Bild etwas, das das Größenverhältnis illustriert, weil der Dyrhólaey-Bogen (übersetzt Türlochinsel) riesig ist. Wenn ich die Chance hätte diese Aufnahme noch einmal zu machen, würde ich wahrscheinlich noch weiter in Richtung Leuchtturm gehen, um mehr Licht durch den Bogen fallen zu lassen. Aber auch so wie es jetzt ist, finde ich, hat das Bild etwas Wildes und Unnahbares.
   coordinates:
   orientation: landscape
   camera: Nikon D7500
-  lens: 18-105mm f/3.5-5.6
-  aperture: f/8.0
-  shutterspeed: 1/80
-  focallength: 18mm
+  lens: "AF-S DX NIKKOR 18–105 mm 1:3,5–5,6G ED VR"
+  aperture: "8,0"
+  shutterspeed: 1/80 s
+  focallength: 18 mm
   page: iceland # group for whole page
   section: reynisfjara # group for section of page
   pages: # modal required on these pages
@@ -24,14 +24,14 @@
   title: Der Leuchtturm von Dyrhólaey
   location: Dyrhólaey, Reynisfjara
   photographer: Eleanor Cording-Booth
-  content: Ich startete weiter oben auf der Klippe, um den Leuchtturm einzufangen, aber Craig meinte, dass ich noch ein paar Meter weiter gehen sollte, um auch den Strand mit in die Aufnahme zu kriegen. Ich finde es klasse, wie diese neue Perspektive die Illusion vermittelt, dass der Strand beinahe unendlich ist – so weit das Auge reicht.
+  content: Ich startete weiter oben auf der Klippe, um den Leuchtturm einzufangen, aber Craig meinte, dass ich noch ein paar Meter weiter gehen sollte, um auch den Strand mit in die Aufnahme zu kriegen. Ich finde es klasse, wie diese neue Perspektive die Illusion vermittelt, dass der Strand beinahe unendlich ist – soweit das Auge reicht.
   coordinates: 63.40271,-19.13091
   orientation: portrait
   camera: Nikon D7500
-  lens: 18-105mm f/3.5-5.6
-  aperture: f/6.3
-  shutterspeed: 1/250
-  focallength: 18mm
+  lens: "AF-S DX NIKKOR 18–105 mm 1:3,5–5,6G ED VR"
+  aperture: "6,3"
+  shutterspeed: 1/250 s
+  focallength: 18 mm
   page: iceland # group for whole page
   section: reynisfjara # group for section of page
   pages: # modal required on these pages
@@ -47,10 +47,10 @@
   coordinates: 63.40291,-19.10577
   orientation: landscape
   camera: Nikon D7500
-  lens: 18-105mm f/3.5-5.6
-  aperture: f/6.3
-  shutterspeed: 1/100
-  focallength: 75mm
+  lens: "AF-S DX NIKKOR 18–105 mm 1:3,5–5,6G ED VR"
+  aperture: "6,3"
+  shutterspeed: 1/100 s
+  focallength: 75 mm
   page: iceland # group for whole page
   section: reynisfjara # group for section of page
   pages: # modal required on these pages
@@ -66,10 +66,10 @@
   coordinates:
   orientation: landscape
   camera: Nikon D850
-  lens: 24-70mm f/2.8
-  aperture: f/4.5
-  shutterspeed: 1/320
-  focallength: 27mm
+  lens: "AF-S NIKKOR 24–70 mm 1:2,8G ED"
+  aperture: "4,5"
+  shutterspeed: 1/320 s
+  focallength: 27 mm
   page: iceland # group for whole page
   section: reynisfjara # group for section of page
   pages: # modal required on these pages
@@ -85,10 +85,10 @@
   coordinates: 63.40277,-19.02833
   orientation: landscape
   camera: Nikon D850
-  lens: 24-70mm f/2.8
-  aperture: f/4.5
-  shutterspeed: 1/320
-  focallength: 27mm
+  lens: "AF-S NIKKOR 24–70 mm 1:2,8G ED"
+  aperture: "4,5"
+  shutterspeed: 1/320 s
+  focallength: 27 mm
   page: iceland # group for whole page
   section: reynisfjara # group for section of page
   pages: # modal required on these pages
@@ -104,10 +104,10 @@
   coordinates: 63.53205,-19.51137
   orientation: landscape
   camera: Nikon D7500
-  lens: 18-105mm f/3.5-5.6
-  aperture: f/7.1
-  shutterspeed: 1/200
-  focallength: 18mm
+  lens: "AF-S DX NIKKOR 18–105 mm 1:3,5–5,6G ED VR"
+  aperture: "7,1"
+  shutterspeed: 1/200 s
+  focallength: 18 mm
   page: iceland # group for whole page
   section: skogafoss # group for section of page
   pages: # modal required on these pages
@@ -119,14 +119,14 @@
   title: Geheime Wasserfälle
   location: Kvernufoss
   photographer: Eleanor Cording-Booth
-  content: Rechts vom Skógafoss, vorbei am Freilichtmuseum Skógar (das einen Besuch wirklich wert ist), gibt es einen geheimen Wasserfall, dem man sehr nahe kommen und den man sogar umlaufen kann. Dieses Foto ist auf genau diesem wunderschönen Weg dorthin aufgenommen. Ein Weitwinkelobjektiv bewirkt hier Wunder.
+  content: Rechts vom Skógafoss, vorbei am Freilichtmuseum Skógar (das einen Besuch wert ist und einige coole Torfhäuser als Fotomotiv bietet), gibt es einen geheimen Wasserfall, dem man sehr nahekommen und den man sogar umlaufen kann. Dieses Foto ist auf genau diesem wunderschönen Weg dorthin aufgenommen. Ein Weitwinkelobjektiv bewirkt hier Wunder.
   coordinates: 63.52816,-19.48094
   orientation: portrait
   camera: Nikon D7500
-  lens: 18-105mm f/3.5-5.6
-  aperture: f/9.0
-  shutterspeed: 1/100
-  focallength: 35mm
+  lens: "AF-S DX NIKKOR 18–105 mm 1:3,5–5,6G ED VR"
+  aperture: "9,0"
+  shutterspeed: 1/100 s
+  focallength: 35 mm
   page: iceland # group for whole page
   section: skogafoss # group for section of page
   pages: # modal required on these pages
@@ -138,14 +138,14 @@
   title: Das Haus am Felsen
   location: Skógafoss
   photographer: Eleanor Cording-Booth
-  content: Kurz bevor wir die Wasserfälle erreichten, fanden wir diesen kleinen romantischen Unterschlupf. Da er wie ein wunderliches Hobbithaus aussah, nutzten wir die Gelegenheit für ein paar Fotos. Die spitze Form des Felsens im Hintergrund machte dieses Motiv besonders interessant. Das Großartige an Island ist, dass skurrile Sehenswürdigkeiten wie diese überall zu finden sind – wenn Sie bereit sind, kurz aus dem Auto auszusteigen und nach ihnen zu suchen.
+  content: Kurz bevor wir die Wasserfälle erreichten, fanden wir diesen kleinen romantischen Unterschlupf. Da er wie eine wunderliche Hobbithöhle aussah, nutzten wir die Gelegenheit für ein paar Fotos. Die spitze Form des Felsens im Hintergrund machte dieses Motiv besonders interessant. Das Großartige an Island ist, dass skurrile Sehenswürdigkeiten wie diese überall zu finden sind – wenn Sie bereit sind, kurz aus dem Auto auszusteigen und nach ihnen zu suchen.
   coordinates:
   orientation: portrait
   camera: Nikon D7500
-  lens: 18-105mm f/3.5-5.6
-  aperture: f/5.6
-  shutterspeed: 1/250
-  focallength: 18mm
+  lens: "AF-S DX NIKKOR 18–105 mm 1:3,5–5,6G ED VR"
+  aperture: "5,6"
+  shutterspeed: 1/250 s
+  focallength: 18 mm
   page: iceland # group for whole page
   section: skogafoss # group for section of page
   pages: # modal required on these pages
@@ -157,14 +157,14 @@
   title: Hinter dem Wasserfall
   location: Skógafoss
   photographer: Craig Howes
-  content: "Da die Höhle hinter dem Wasserfall nicht tief ist, war ein Weitwinkelobjektiv ein echtes Muss und um die Ränder der Höhle mit ins Bild zu bekommen, empfahl sich eine 14-24mm Linse. Tipp: Überprüfen Sie die Belichtung, bevor Sie eine helle Szene aus dem Dunklen aufnehmen – und nehmen Sie vielleicht eine Person mit ins Bild, um der Naturaufnahme ein Gefühl des Maßstabes zu verleihen."
+  content: "Da die Höhle hinter dem Wasserfall nicht tief ist, war ein Weitwinkelobjektiv ein Muss und um die Ränder der Höhle mit ins Bild zu bekommen, empfahl sich ein 14–24-mm-Zoom. Tipp: Achten Sie genau auf die Belichtung, wenn Sie ein helles Motiv mit dunklem Vordergrund aufnehmen – und nehmen Sie vielleicht eine Person mit ins Bild, um der Naturaufnahme ein Gefühl des Maßstabes zu verleihen."
   coordinates: 63.52816,-19.48094
   orientation: landscape
   camera: Nikon D850
-  lens: 14-24mm f/2.8
-  aperture: f/9.0
-  shutterspeed: 1/100
-  focallength: 35mm
+  lens: "AF-S NIKKOR 14–24 mm 1:2,8G ED"
+  aperture: "9,0"
+  shutterspeed: 1/100 s
+  focallength: 35 mm
   page: iceland # group for whole page
   section: skogafoss # group for section of page
   pages: # modal required on these pages
@@ -176,14 +176,14 @@
   title: Skógafoss
   location: Skógafoss
   photographer: Craig Howes
-  content: Den kompletten Wasserfall einzufangen, schien hier etwas zu ambitioniert, also entschied ich mich dazu, das Wasser zwischen den Klippen einzurahmen – mit einem Tupfer grünen Grases, das mit den blauen Tönen kontrastiert. Erneut setzte ich eine Person in Szene, um ein Gefühl für die Relationen zu vermitteln. Eine schnelle Verschlusszeit ist wichtig, um die Dynamik des fallenden Wassers festzuhalten.
+  content: Anstatt den gesamten Wasserfall ins Bild zu fassen, entschied ich mich, ihn mit den Felsen einzurahmen – mit einem Tupfer grünen Grases, das mit den blauen Tönen kontrastiert. Erneut setzte ich eine Person in Szene, um ein Gefühl für die Größenverhältnisse zu vermitteln. Ich habe eine kurze Belichtungszeit gewählt, um die Dynamik des fallenden Wassers festzuhalten.
   coordinates:
   orientation: landscape
   camera: Nikon D850
-  lens: 18-105mm f/3.5-5.6
-  aperture: f/9.0
-  shutterspeed: 1/100
-  focallength: 35mm
+  lens: "AF-S DX NIKKOR 18–105 mm 1:3,5–5,6G ED VR"
+  aperture: "9,0"
+  shutterspeed: 1/100 s
+  focallength: 35 mm
   page: iceland # group for whole page
   section: skogafoss # group for section of page
   pages: # modal required on these pages
@@ -195,14 +195,14 @@
   title: Der Aufstieg
   location: Skógafoss
   photographer: Craig Howes
-  content: Islands Sehenswürdigkeiten sind so unglaublich, dass sie ans Surreale grenzen. Wenn man immer mal wieder die Perspektive ändert, fängt man den Eindruck dieser so anderen Welt am besten ein. Sich wie hier auf den Boden zu legen, auf nur einen Aspekt zu konzentrieren und so einen mystischen Hintergrund zu erzeugen, ist grandios. Alles wird akzentuiert vom Subjekt, das im Vergleich dann ganz klein wirkt.
+  content: Islands Sehenswürdigkeiten sind so unglaublich, dass sie ans Surreale grenzen. Wenn man immer mal wieder die Perspektive ändert, fängt man den Eindruck dieser so anderen Welt am besten ein. Aus der Froschperspektive wirkt hier der untere Teil des Wasserfalls wie eine mystische Kulisse. Alles wird akzentuiert von der Person im Bild, die im Vergleich fast verloren wirkt.
   coordinates: 63.53205,-19.51137
   orientation: portrait
   camera: Nikon D850
-  lens: 18-105mm f/3.5-5.6
-  aperture: f/9.0
-  shutterspeed: 1/100
-  focallength: 35mm
+  lens: "AF-S DX NIKKOR 18–105 mm 1:3,5–5,6G ED VR"
+  aperture: "9,0"
+  shutterspeed: 1/100 s
+  focallength: 35 mm
   page: iceland # group for whole page
   section: skogafoss # group for section of page
   pages: # modal required on these pages
@@ -214,14 +214,14 @@
   title: Wildpferde
   location:
   photographer: Eleanor Cording-Booth
-  content: Craig meinte, dass ich für diese Einstellung ein Zoomobjektiv einsetzen sollte – denn ich wollte gleichzeitig die Vertrautheit zwischen den beiden Pferden, wie auch den Konrast der unterschiedlichen Fellfarben einfangen. Ich finde, dieses Foto transportiert exakt die Ruhe und Zärtlichkeit, die diese beiden Tiere offenbar verbindet.
+  content: Craig meinte, dass ich für diese Einstellung ein Telezoom einsetzen sollte – denn ich wollte gleichzeitig die Vertrautheit zwischen den beiden Pferden, wie auch den Kontrast der unterschiedlichen Fellfarben einfangen. Ich finde, dieses Foto transportiert exakt die Ruhe und Zärtlichkeit, die diese beiden Tiere offenbar verbindet.
   coordinates: 63.83037,-18.00041
   orientation: landscape
   camera: Nikon D7500
-  lens: 70-300mm f/4.5-6.3
-  aperture: f/4.5
-  shutterspeed: 1/250
-  focallength: 70mm
+  lens: "AF-P DX NIKKOR 70–300 mm 1:4,5–6,3G ED VR"
+  aperture: "4,5"
+  shutterspeed: 1/250 s
+  focallength: 70 mm
   page: iceland # group for whole page
   section: horses-and-hills # group for section of page
   pages: # modal required on these pages
@@ -233,14 +233,14 @@
   title: Bizarre Formen
   location:
   photographer: Eleanor Cording-Booth
-  content: Als ich hier das Zoomobjektiv nutzte, fiel mir auf, wie der Nebel sich als dicke weiße Decke über die Hügel legte, ohne die Felsschlucht zu erreichen. Craig hat mir geholfen, das Licht in dieser Aufnahme auszugleichen, um die dunklen, stimmungsvollen Farbtöne in der Landschaft einzufangen, während der gespenstische Nebel weiter im Fokus bleibt.
+  content: Als ich hier das Teleobjektiv nutzte, fiel mir auf, wie der Nebel sich als dicke weiße Decke über die Hügel legte, ohne die Felsschlucht zu erreichen. Craig hat mir dabei geholfen, die Belichtung so auszugleichen, dass sowohl die stimmungsvollen dunklen Töne der Landschaft als auch der gespenstische blasse Nebel perfekt zur Geltung kommen.
   coordinates: 63.96872,-17.872
   orientation: portrait
   camera: Nikon D7500
-  lens: 70-300mm f/4.5-6.3
-  aperture: f/4.8
-  shutterspeed: 1/500
-  focallength: 145mm
+  lens: "AF-P DX NIKKOR 70–300 mm 1:4,5–6,3G ED VR"
+  aperture: "4,8"
+  shutterspeed: 1/500 s
+  focallength: 145 mm
   page: iceland # group for whole page
   section: horses-and-hills # group for section of page
   pages: # modal required on these pages
@@ -256,10 +256,10 @@
   coordinates:
   orientation: portrait
   camera: Nikon D7500
-  lens: 70-300mm f/4.5-6.3
-  aperture: f/6.0
-  shutterspeed: 1/250
-  focallength: 240mm
+  lens: "AF-P DX NIKKOR 70–300 mm 1:4,5–6,3G ED VR"
+  aperture: "6,0"
+  shutterspeed: 1/250 s
+  focallength: 240 mm
   page: iceland # group for whole page
   section: horses-and-hills # group for section of page
   pages: # modal required on these pages
@@ -271,14 +271,14 @@
   title: Kontrast-Reich
   location:
   photographer: Eleanor Cording-Booth
-  content: Dieses Licht! Ich liebe das Dunkle der Berge, zusammen mit dem dramatischen Himmel und diesem silbrigen Sonnenlicht, das sich durch die Gipfel streckt. Wenn etwas den isländischen Wetterwechsel einfangen kann, dann dieses Bild. Mit dem Zoom konnte ich die Details der Berggipfel genau so einfangen, wie ich es mir vorstellte.
+  content: Dieses Licht! Ich liebe das Dunkle der Berge, zusammen mit dem dramatischen Himmel und diesem silbrigen Sonnenlicht, das sich durch die Gipfel streckt. Wenn etwas den isländischen Wetterwechsel einfangen kann, dann dieses Bild. Mit dem Telezoom konnte ich die Details der Berggipfel genau so einfangen, wie ich es mir vorstellte.
   coordinates:
   orientation: landscape
   camera: Nikon D7500
-  lens: 70-300mm f/4.5-6.3
-  aperture: f/8.0
-  shutterspeed: 1/250
-  focallength: 70mm
+  lens: "AF-P DX NIKKOR 70–300 mm 1:4,5–6,3G ED VR"
+  aperture: "8,0"
+  shutterspeed: 1/250 s
+  focallength: 70 mm
   page: iceland # group for whole page
   section: horses-and-hills # group for section of page
   pages: # modal required on these pages
@@ -290,14 +290,14 @@
   title: Kamerascheu
   location:
   photographer: Craig Howes
-  content: Tiere sind immer ein faszinierendes Motiv und diese Ponys sieht man auf Island einfach immer wieder – es lohnt sich also, anzuhalten und ein paar Fotos zu machen. Warten Sie auf den perfekten Hintergrund, wie zum Beispiel Berge, oder ändern Sie die Perspektive indem Sie auf dem Boden liegend fotografieren, was die Tiere auch beruhigt. Eine Weitwinkellinse ist gut für Nahaufnahmen, da sie die Ränder verzerrt und Besonderheiten akzentuiert, wie hier den langen Kopf eines Islandpferdes.
+  content: Tiere sind immer ein faszinierendes Motiv und diese Ponys sieht man auf Island einfach immer wieder – es lohnt sich also, anzuhalten und ein paar Fotos zu machen. Warten Sie auf den perfekten Hintergrund, wie zum Beispiel Berge, oder ändern Sie die Perspektive indem Sie auf dem Boden liegend fotografieren, was die Tiere auch beruhigt. Weitwinkelobjektive eignen sich gut für Aufnahmen aus der Nähe, da ihre Perspektive und die Verzeichnung der Ränder das Hauptmotiv betonen – zum Beispiel das lange Gesicht eines Pferdes.
   coordinates:
   orientation: landscape
   camera: Nikon D850
-  lens: 18-105mm f/3.5-5.6
-  aperture: f/9.0
-  shutterspeed: 1/100
-  focallength: 35mm
+  lens: "AF-S DX NIKKOR 18–105 mm 1:3,5–5,6G ED VR"
+  aperture: "9,0"
+  shutterspeed: 1/100 s
+  focallength: 35 mm
   page: iceland # group for whole page
   section: horses-and-hills # group for section of page
   pages: # modal required on these pages
@@ -313,10 +313,10 @@
   coordinates: 64.04804,-16.18068
   orientation: landscape
   camera: Nikon D7500
-  lens: 18-105mm f/3.5-5.6
-  aperture: f/4.5
-  shutterspeed: 1/125
-  focallength: 40mm
+  lens: "AF-S DX NIKKOR 18–105 mm 1:3,5–5,6G ED VR"
+  aperture: "4,5"
+  shutterspeed: 1/125 s
+  focallength: 40 mm
   page: iceland # group for whole page
   section: jokulsarlon-lagoon # group for section of page
   pages: # modal required on these pages
@@ -328,14 +328,14 @@
   title: Eisberge
   location: Jökulsárlón Lagoon
   photographer: Eleanor Cording-Booth
-  content: Ich finde, dieses Foto sieht aus, als sei es auf dem Mond aufgenommen worden, obwohl Island nur einen kurzen Flug entfernt ist. Verrückt! Zwischen den Eisbergen schwammen Robben, der Blick änderte sich ständig, da sich das Eis bewegte und der Regen war unerbittlich –  aber meine Nikon wetterfest, sodass ich immer weiter auf den Auslöser drückte, bis dieses Foto entstand.
+  content: Ich finde, dieses Foto sieht aus, als sei es auf dem Mond aufgenommen worden, obwohl Island nur einen kurzen Flug entfernt ist. Verrückt! Zwischen den Eisbergen schwammen Robben, der Blick änderte sich ständig, da sich das Eis bewegte. Der Regen war unerbittlich –  aber meine Nikon war gegen Wasser abgedichtet, sodass ich bedenkenlos weiterfotografieren konnte.
   coordinates: 64.04804,-16.18068
   orientation: landscape
   camera: Nikon D7500
-  lens: 18-105mm f/3.5-5.6
-  aperture: f/6.3
-  shutterspeed: 1/200
-  focallength: 18mm
+  lens: "AF-S DX NIKKOR 18–105 mm 1:3,5–5,6G ED VR"
+  aperture: "6,3"
+  shutterspeed: 1/200 s
+  focallength: 18 mm
   page: iceland # group for whole page
   section: jokulsarlon-lagoon # group for section of page
   pages: # modal required on these pages
@@ -347,14 +347,14 @@
   title: Diamantstrand
   location: Jökulsárlón Lagoon
   photographer: Eleanor Cording-Booth
-  content: Die Gletscherlagune Jökulsárlón wird aus naheliegenden Gründen auch Diamantstrand genannt. Die Wetterbedingungen hier waren echt gewöhnungsbedürftig, aber die Beschaffenheit des Eisbrockens im Vordergrund sowie Craigs Kampf gegen den Wind in der Ferne mussten einfach festgehalten werden. Ok, man sieht ein paar Wasserspritzer auf der Linse – aber ich glaube, in diesem Fall ist das akzeptabel.
+  content: Die Gletscherlagune Jökulsárlón wird aus naheliegenden Gründen auch Diamantstrand genannt. Die Wetterbedingungen hier waren reichlich gewöhnungsbedürftig, aber die Beschaffenheit des Eisbrockens im Vordergrund sowie Craigs Kampf gegen den Wind in der Ferne mussten einfach festgehalten werden. OK, man sieht ein paar Wasserspritzer auf der Frontlinse – aber ich finde, in diesem Fall ist das sogar eine Bereicherung für das Bild.
   coordinates: 64.04288,-16.18229
   orientation: portrait
   camera: Nikon D7500
-  lens: 18-105mm f/3.5-5.6
-  aperture: f/6.3
-  shutterspeed: 1/200
-  focallength: 18mm
+  lens: "AF-S DX NIKKOR 18–105 mm 1:3,5–5,6G ED VR"
+  aperture: "6,3"
+  shutterspeed: 1/200 s
+  focallength: 18 mm
   page: iceland # group for whole page
   section: jokulsarlon-lagoon # group for section of page
   pages: # modal required on these pages
@@ -366,14 +366,14 @@
   title: Entdecker
   location: Jökulsárlón Lagoon
   photographer: Craig Howes
-  content: "Also, dieser Ort war einfach nur atemberaubend. Natürlich wirken die Farben an einem wolkenverhangenen Tag wie diesem irgendwie verblasst. Aber es gibt ja Tricks: Hier habe ich den Strand und Eleanor in den Vordergrund geholt, um das Blau der Lagune hervorzuheben. Nur auf ein Drittel des Bildes reduziert, sorgte dies mit dem Akzent des gelben Regenmantels für den nötigen Kontrast."
+  content: "Also, dieser Ort war einfach nur atemberaubend. Natürlich wirken die Farben an einem wolkenverhangenen Tag wie diesem irgendwie verblasst. Aber es gibt ja Tricks: Ein Motiv wie dieses kann helfen, einen Kontrast gegen das Blau der Lagune zu setzen. Indem ich ein Drittel des Bildes im Schnappschussstil mit dem Strand und Eleanor in ihrem gelben Regenmantel füllte, bekam das Bild den Kontrast, der ihm sonst gefehlt hätte."
   coordinates:
   orientation: landscape
   camera: Nikon D850
-  lens: 18-105mm f/3.5-5.6
-  aperture: f/6.3
-  shutterspeed: 1/320
-  focallength: 40mm
+  lens: "AF-S DX NIKKOR 18–105 mm 1:3,5–5,6G ED VR"
+  aperture: "6,3"
+  shutterspeed: 1/320 s
+  focallength: 40 mm
   page: iceland # group for whole page
   section: jokulsarlon-lagoon # group for section of page
   pages: # modal required on these pages
@@ -385,14 +385,14 @@
   title: Eisskulpturen
   location: Jökulsárlón Lagoon
   photographer: Craig Howes
-  content: "Diese Lagune bot uns eine absolut unglaubliche Spielfläche. Der visuelle Eindruck der Eisberge, von roher Felsfläche bis zu geschliffenem Kristall, wirkte vor dem dramtischen Hintergrund des Himmels absolut grandios. Achten Sie auf die Belichtung und wählen Sie deshalb so viele unterschiedliche Oberflächen und Farben wie möglich. Tipp: Am besten Abdrücken, sobald Sonnenstrahlen durch die Wolken brechen und das Eis beleuchten."
+  content: "Diese Lagune bot uns eine absolut unglaubliche Spielfläche. Der visuelle Eindruck der Eisberge, von roher Felsfläche bis zu geschliffenem Kristall, wirkte vor dem dramatischen Hintergrund des Himmels absolut grandios. Achten Sie auf die Belichtung und wählen Sie deshalb so viele unterschiedliche Oberflächen und Farben wie möglich. Tipp: Am besten abdrücken, sobald Sonnenstrahlen durch die Wolken brechen und das Eis beleuchten."
   coordinates:
   orientation: landscape
   camera: Nikon D850
-  lens: 18-105mm f/3.5-5.6
-  aperture: f/6.3
-  shutterspeed: 1/320
-  focallength: 40mm
+  lens: "AF-S DX NIKKOR 18–105 mm 1:3,5–5,6G ED VR"
+  aperture: "6,3"
+  shutterspeed: 1/320 s
+  focallength: 40 mm
   page: iceland # group for whole page
   section: jokulsarlon-lagoon # group for section of page
   pages: # modal required on these pages
@@ -404,14 +404,14 @@
   title: Smaragd-Himmel
   location: Iceland
   photographer: Craig Howes
-  content: "Der heilige Gral jeder Foto-Reise nach Island: Um eine gute Aufnahme des Himmels zu garantieren, braucht man ein Stativ und eine schnelle Linse, am besten die f2.8. Dadurch wird sichergestellt, dass so viel Licht wie möglich in den Sensor eindringt, die Schärfe sichergestellt ist und starkes Rauschen vermieden wird. Durch das Gebäude im Bild ensteht Tiefe."
+  content: "Der heilige Gral jeder Foto-Reise nach Island: Um eine gute Aufnahme des Himmels zu garantieren, braucht man ein gutes Stativ und ein lichtstarkes Objektiv. Eine große Blendenöffnung (kleine Blendenzahl) von 2,8 oder größer stellt sicher, dass so viel Licht wie möglich auf den Sensor trifft und dass alles scharf aufs Bild kommt. Sie hilft auch, zu hohe ISO-Werte zu vermeiden, bei denen sichtbares Bildrauschen ins Spiel kommen könnte. Das Haus im Vordergrund verhilft dem Bild zu Tiefe."
   coordinates: 63.44114,-18.9672
   orientation: landscape
   camera: Nikon D850
-  lens: 14-24mm f/2.8
-  aperture: f/2.8
-  shutterspeed: 3.0
-  focallength: 14mm
+  lens: "AF-S NIKKOR 14–24 mm 1:2,8G ED"
+  aperture: "2,8"
+  shutterspeed: 3.0 s
+  focallength: 14 mm
   page: iceland # group for whole page
   section: northern-lights # group for section of page
   pages: # modal required on these pages
@@ -427,10 +427,10 @@
   coordinates:
   orientation: portrait
   camera: Nikon D7500
-  lens: 70-300mm f/4.5-6.3
-  aperture: f/9.0
-  shutterspeed: 1/320
-  focallength: 85mm
+  lens: "AF-P DX NIKKOR 70–300 mm 1:4,5–6,3G ED VR"
+  aperture: "9,0"
+  shutterspeed: 1/320 s
+  focallength: 85 mm
   page: # group for whole page
   section: # group for section of page
   pages: # modal required on these pages
