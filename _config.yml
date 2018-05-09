@@ -1,5 +1,7 @@
 # Site settings
 title: Capture the Journey
+nav-title: Marokko
+
 client:
   name: Nikon
   link: "#client-name"

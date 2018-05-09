@@ -42,6 +42,13 @@
         color: $grey-darkest;
       }
     }
+    &-white {
+      &:before { border: 1px solid $white; }
+      &:hover {
+        background-color: $white;
+        color: $grey-darkest;
+      }
+    }
   }
   &--solid { background-color: $n-yellow; color: $grey-darkest;
     &:hover { background-color: darken($n-yellow,5); }

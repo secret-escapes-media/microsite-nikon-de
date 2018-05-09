@@ -22,6 +22,7 @@ function stickyNav(){
 }
 
 // runs on page load and scroll
-stickyNav();
-$(document).scroll(function(){ stickyNav(); });
-
+if( $(stickyNavClass).length ){
+  stickyNav();
+  $(document).scroll(function(){ stickyNav(); });
+}

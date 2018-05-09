@@ -2,6 +2,7 @@
 
 .bg {
   &--white { background-color: $white; }
+  &--black { background-color: #000000; }
   &--light { background-color: $grey-lightest; }
   &--dark  { background-color: $grey-dark; }
   &--img   { @include background-attributes; }

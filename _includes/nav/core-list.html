@@ -2,5 +2,5 @@
   <a class="{{include.block}}-link" href="https://www.secretescapes.de/aktuelle-angebote">AKTUELLE ANGEBOTE</a>
   <a class="{{include.block}}-link" href="https://www.secretescapes.de/top-destinations">BELIEBTE REISEZIELE</a>
   <a class="{{include.block}}-link" href="https://www.secretescapes.de/strandurlaub/filter">STRANDURLAUB</a>
-  <a class="{{include.block}}-link is-current" href="{{ site.baseurl }}">{{ site.title }}</a>
+  <a class="{{include.block}}-link is-current" href="{{ site.baseurl }}">{% if site.nav-title %}{{site.nav-title}}{% else %}{{ site.title }}{% endif %}</a>
 </div>
