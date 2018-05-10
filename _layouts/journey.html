@@ -58,7 +58,7 @@ layout: default
 
           <div class="row row--valign-center row--gutters-lg{% cycle ""," row--reverse" %}">
 
-            <div class="col col--7 journey__photo-image">
+            <div class="col col--xl-7 journey__photo-image">
               {% if photo.orientation == 'portrait' %}
                 <a href="javascript:void(0);" data-modal-item="{{photo.id}}" data-modal-group="section" class="js-open-modal bg-img bg-img--2-3" style="background-image:url({{site.img}}/content/{{page.id}}/photos/{{photo.id}}.jpg);">
                   <span class="bg-img__expand"></span>
@@ -70,7 +70,7 @@ layout: default
               {% endif %}
             </div>
 
-            <div class="col col--5 journey__photo-text">
+            <div class="col col--xl-5 journey__photo-text">
               <h4 class="title title--md text--bold">{{photo.title}}</h4>
               <p class="title title--xxxs">Eingefangen von <span class="text--bold">{{photo.photographer}}</span></p>
               <p>{{photo.content}}</p>
@@ -91,7 +91,7 @@ layout: default
 
 <!-- CONCLUSION -->
 <div class="container vpad--xxl">
-  <div class="row row--6-6 row--gutters">
+  <div class="row row--xl-6-6 row--gutters">
 
     <div class="col">
       <h2 class="title title--xxl text--bold">Fazit</h2>

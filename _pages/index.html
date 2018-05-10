@@ -28,7 +28,7 @@ intro: >
 
 {% assign destinations = site.html_pages | where: 'layout','journey' | sort:'nav-order' %}
 {% for destination in destinations %}
-<div class="container container--100 vpad--xxl bg--fixed" style="background-image:url({{site.img}}/content/{{page.id}}/{{destination.id}}-bg.png);">
+<div class="vpad--xxl bg--fixed" style="background-image:url({{site.img}}/content/{{page.id}}/{{destination.id}}-bg.png);">
   <div class="container">
     <div class="bob{% cycle "", " bob--swap" %}">
 
@@ -40,7 +40,7 @@ intro: >
           </a>
         </div>
 
-        <div class="row row--6-6 row--no-gutters">
+        <div class="row row--constant-6-6 row--no-gutters">
           <div class="col">
             <div class="boxpad--sm">
               <div class="bg-img bg-img--16-9" style="background-image: url('{{site.img}}/content/overview/{{destination.id}}-1.jpg');"></div>

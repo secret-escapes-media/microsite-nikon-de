@@ -66,6 +66,11 @@
     &-expert {
       position: relative;
       padding: $s4;
+      margin-left: $s4;
+      margin-top: $s4;
+      @include bp($xl){
+        margin: 0;
+      }
       &:before,
       &:after {
         content: "";

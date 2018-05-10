@@ -82,16 +82,18 @@ testimonials:
 <div class="container vpad--xl">
   {% for feature in page.features %}
   <div class="bob vpad--xl{% cycle "", " bob--swap" %}">
-    <a href="{{feature.link}}" class="bob__img bg-img bg-img--16-9" style="background-image: url({{site.img}}/content/nikon/{{feature.id}}.jpg);">
-      <span class="bg-img__content">
-        <img class="bg-img--zoom" src="{{site.img}}/content/{{page.id}}/{{feature.id}}-title.png" width="200">
-      </span>
-    </a>
+    <div class="bob__img">
+      <a href="{{feature.link}}" id="tracking-nikon-{{feature.id}}-image" class="bg-img bg-img--16-9" style="background-image: url({{site.img}}/content/nikon/{{feature.id}}.jpg);">
+        <span class="bg-img__content">
+          <img class="bg-img--zoom" src="{{site.img}}/content/{{page.id}}/{{feature.id}}-title.png" width="200">
+        </span>
+      </a>
+    </div>
     <div class="bob__text">
       <h3 class="title title--md text--bold">{{feature.title}}</h3>
       <p class="text--lg">{{feature.content}}</p>
       <div class="space--sm"></div>
-      <a href="{{feature.link}}" class="btn btn--solid">Mehr erfahren</a>
+      <a href="{{feature.link}}" id="tracking-nikon-{{feature.id}}-button" class="btn btn--solid">Mehr erfahren</a>
     </div>
   </div>
   {% endfor %}

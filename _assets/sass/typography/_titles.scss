@@ -98,7 +98,10 @@
     letter-spacing: 1rem;
     font-size: $s7;
   }
-  @include bp($xl){
+  @include bp($xxl){
+    font-size: $s9;
+  }
+  @include bp($xxxl){
     font-size: $s10;
   }
 
