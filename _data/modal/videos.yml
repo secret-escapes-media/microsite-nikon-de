@@ -2,7 +2,7 @@
 
 
 - id: iceland-video
-  youtube-id: JQTv4JczS-M
+  youtube-id: bYnO3H0OE-4
   page: journey
   pages:
     - id: overview
@@ -11,7 +11,7 @@
 
 
 - id: morocco-video
-  youtube-id: aRtlRuBWv7U
+  youtube-id: VgAe6mUgM8I
   page: journey
   pages:
     - id: overview
@@ -20,7 +20,7 @@
 
 
 - id: new-york-video
-  youtube-id: ElLHwYHnqxQ
+  youtube-id: Q0YuVmIDbcU
   page: journey
   pages:
     - id: overview
