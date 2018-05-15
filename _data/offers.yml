@@ -12,30 +12,8 @@
   price: 699
   price-description: pro Person für 3 Nächte
   saved: 26
-  expires: 2018/05/15
+  expires: 2018/05/23
   link: http://bit.ly/2Imjxpz
-
-- group: iceland
-  title: Das einzigartige Naturschauspiel Islands erleben
-  id: das-einzigartige-naturschauspiel-islands-erleben
-  location: CenterHotel Midgardur, Reykjavík, Island
-  description: Kurztrip zu den imosanten Highlights der Vulkaninsel – inkl. Flügen, Frühstück & Touren
-  price: 779
-  price-description: pro Person für 3 Nächte
-  saved: 23
-  expires: 2018/05/15
-  link: http://bit.ly/2IB7zeW
-
-- group: iceland
-  title: Erlebnisreise zu den Wundern Islands
-  id: erlebnisreise-zu-den-wundern-islands
-  location: Reykjavík, Golden-Circle, Vík, Jökulsarlon, Südküste, Blaue Lagune
-  description: Packende Reise zu den Highlights Islands – inkl. Flügen, Transfers, Frühstück, Touren & Extras
-  price: 999
-  price-description: pro Person für 4 Nächte
-  saved: 23
-  expires: 2018/05/15
-  link: http://bit.ly/2rEJNUQ
 
 
 
@@ -53,7 +31,7 @@
   price: 76
   price-description: Pro Person pro Nacht
   saved: 43
-  expires: 2018/05/15
+  expires: 2018/05/22
   link: http://bit.ly/2rGtiZ2
 
 - group: morocco
@@ -64,7 +42,7 @@
   price: 1069
   price-description: pro Person für 7 Nächte
   saved: 21
-  expires: 2018/05/22
+  expires: 2018/05/23
   link: http://bit.ly/2ICnREu
 
 
@@ -76,17 +54,6 @@
 ################################################################################
 
 - group: new-york
-  title: Viceroy Central Park
-  id: viceroy-central-park
-  location: New York, Vereinigte Staaten
-  description: New York vom perfekt gelegenen Boutiquehotel am Central Park aus erkunden – inkl. WLAN & Extras
-  price: 208
-  price-description: pro room pro Nacht
-  saved: 43
-  expires: 2018/05/15
-  link: http://bit.ly/2IbvsKy
-
-- group: new-york
   title: Arlo SoHo
   id: arlo-so-ho
   location: New York, USA
@@ -94,7 +61,7 @@
   price: 158
   price-description: pro room pro Nacht
   saved: 25
-  expires: 2018/05/15
+  expires: 2018/05/22
   link: http://bit.ly/2IbvqSW
 
 - group: new-york
@@ -105,7 +72,7 @@
   price: 83
   price-description: pro Zimmer pro Nacht
   saved: 59
-  expires: 2018/05/15
+  expires: 2018/05/22
   link: http://bit.ly/2wDWx3B
 
 - group: new-york
@@ -116,7 +83,7 @@
   price: 137
   price-description: pro Zimmer pro Nacht
   saved: 55
-  expires: 2018/05/15
+  expires: 2018/05/22
   link: http://bit.ly/2GgsbEc
 
 - group: new-york
@@ -127,7 +94,7 @@
   price: 145
   price-description: pro Zimmer pro Nacht
   saved: 28
-  expires: 2018/05/15
+  expires: 2018/05/22
   link: http://bit.ly/2IlyIPw
 
 - group: new-york
@@ -138,7 +105,7 @@
   price: 79
   price-description: pro Zimmer pro Nacht
   saved: 46
-  expires: 2018/05/15
+  expires: 2018/05/22
   link: http://bit.ly/2jVH1qR
 
 - group: new-york
@@ -149,7 +116,7 @@
   price: 109
   price-description: pro Zimmer pro Nacht
   saved: 23
-  expires: 2018/05/15
+  expires: 2018/05/22
   link: http://bit.ly/2GdxOmu
 
 - group: new-york
@@ -171,19 +138,8 @@
   price: 97
   price-description: pro Zimmer pro Nacht
   saved: 31
-  expires: 2018/05/15
+  expires: 2018/05/22
   link: http://bit.ly/2KlzlJA
-
-- group: new-york
-  title: The Manhattan at Times Square Hotel
-  id: the-manhattan-at-times-square-hotel
-  location: Midtown Manhattan, New York City, USA
-  description: Zentrales Hotel im Art déco-Gebäude mitten im Geschehen von Midtown Manhattan
-  price: 117
-  price-description: pro Zimmer pro Nacht
-  saved: 27
-  expires: 2018/05/15
-  link: http://bit.ly/2Ih0AEA
 
 - group: new-york
   title: Eleganter Komfort im Herzen von Brooklyn
@@ -193,7 +149,7 @@
   price: 130
   price-description: pro Unterkunft pro Nacht
   saved: 33
-  expires: 2018/05/15
+  expires: 2018/05/22
   link: http://bit.ly/2rDdwhS
 
 - group: new-york
@@ -204,7 +160,7 @@
   price: 75
   price-description: pro Zimmer pro Nacht
   saved: 20
-  expires: 2018/05/15
+  expires: 2018/05/22
   link: http://bit.ly/2wCpxJ4
 
 - group: new-york
@@ -215,5 +171,5 @@
   price: 164
   price-description: pro Zimmer pro Nacht
   saved: 45
-  expires: 2018/05/15
+  expires: 2018/05/22
   link: http://bit.ly/2KTY7lf
