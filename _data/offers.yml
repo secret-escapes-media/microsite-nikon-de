@@ -5,15 +5,26 @@
 ################################################################################
 
 - group: iceland
-  title: Winterwunderland Island
-  id: winterwunderland-island
-  location: Icelandair Hotel Reykjavik Natura, Reykjavík, Island
-  description: Die Sensationen der kalten Jahreszeit  – inkl. Flügen, Frühstück, Touren nach Wahl & Extras
-  price: 699
+  title: Natur pur im faszinierenden Island
+  id: natur-pur-im-faszinierenden-island
+  location: Hotel Klettur, Reykjavík & Hotel Selfoss, Selfoss
+  description: "Island mit Wellness: Reise zu Vulkanen, Polarlichtern & heißen Quellen"
+  price: 1099
+  price-description: pro Person für 4 Nächte
+  saved: 20
+  expires:
+  link: http://bit.ly/2k8MSJk
+
+- group: iceland
+  title: "24h Frühbucher-Special: Islands Magie erleben"
+  id: 24h-frühbucher-special-islands-magie-erleben
+  location: Nordurey Hotel Reykjavik Road, Hafnarfjördur, Island
+  description: "Abenteuer Island: Unvergessliche Touren durch die spektakuläre Natur"
+  price: 659
   price-description: pro Person für 3 Nächte
-  saved: 26
-  expires: 2018/05/23
-  link: http://bit.ly/2Imjxpz
+  saved: 27
+  expires:
+  link: http://bit.ly/2IuG2wo
 
 
 
@@ -22,17 +33,6 @@
 #   morocco
 #
 ################################################################################
-
-- group: morocco
-  title: Riad Kniza
-  id: riad-kniza
-  location: Marrakesch, Marokko
-  description: Luxuriöses Boutiquehotel in Marokkos ehemaliger Königsstadt – inkl. Frühstück, 1x Massage & Transfer
-  price: 76
-  price-description: Pro Person pro Nacht
-  saved: 43
-  expires: 2018/05/22
-  link: http://bit.ly/2rGtiZ2
 
 - group: morocco
   title: Marokkos Königsstädte, Wüstenoase & Badeparadies
@@ -54,15 +54,15 @@
 ################################################################################
 
 - group: new-york
-  title: Arlo SoHo
-  id: arlo-so-ho
-  location: New York, USA
-  description: Urbaner Lifestyle im Hotel mit Rooftop-Bar mitten in Lower Manhattan
-  price: 158
-  price-description: pro room pro Nacht
-  saved: 25
-  expires: 2018/05/22
-  link: http://bit.ly/2IbvqSW
+  title: WestHouse Hotel
+  id: westhouse-hotel
+  location: Manhattan, New York, USA
+  description: Ein Hauch von altem Hollyood im Herzen Manhattans
+  price: 127
+  price-description: pro Zimmer pro Nacht
+  saved: 46
+  expires: 2018/05/29
+  link: http://bit.ly/2k5RTm1
 
 - group: new-york
   title: Hudson New York
@@ -76,17 +76,6 @@
   link: http://bit.ly/2wDWx3B
 
 - group: new-york
-  title: Urbane Lebensart in New York
-  id: urbane-lebensart-in-new-york
-  location: Cassa Hotel, New York, USA
-  description: Nahe Times Square, MoMA & der 5th Avenue logieren – inkl. Highspeed-WLAN
-  price: 137
-  price-description: pro Zimmer pro Nacht
-  saved: 55
-  expires: 2018/05/22
-  link: http://bit.ly/2GgsbEc
-
-- group: new-york
   title: The Time New York
   id: the-time-new-york
   location: Manhattan, New York, USA
@@ -96,17 +85,6 @@
   saved: 28
   expires: 2018/05/22
   link: http://bit.ly/2IlyIPw
-
-- group: new-york
-  title: Vintage-Glamour in New York
-  id: vintage-glamour-in-new-york
-  location: The Redbury New York, Manhattan, New York, USA
-  description: Moderner Boutiquestil im lebendigen Midtown Manhattan
-  price: 79
-  price-description: pro Zimmer pro Nacht
-  saved: 46
-  expires: 2018/05/22
-  link: http://bit.ly/2jVH1qR
 
 - group: new-york
   title: Schickes Boutique Hotel in Manhatten
