@@ -12,7 +12,6 @@
   price: 1099
   price-description: pro Person für 4 Nächte
   saved: 20
-  expires:
   link: http://bit.ly/2k8MSJk
 
 - group: iceland
@@ -23,8 +22,17 @@
   price: 659
   price-description: pro Person für 3 Nächte
   saved: 27
-  expires:
   link: http://bit.ly/2IuG2wo
+
+- group: iceland
+  title: Magische Momente in Island erleben
+  id: magische-momente-in-island-erleben
+  location: CenterHotel Midgardur, Reykjavík, Island
+  description: Geysire, Gletscher & Nordlichter – Den Zauber Islands hautnah erleben
+  price: 75
+  price-description: pro Person pro Nacht
+  saved: 58
+  link: http://bit.ly/2Lj2re0
 
 
 
@@ -42,8 +50,27 @@
   price: 1069
   price-description: pro Person für 7 Nächte
   saved: 21
-  expires: 2018/05/23
   link: http://bit.ly/2ICnREu
+
+- group: morocco
+  title: Riad Kniza
+  id: riad-kniza
+  location: Marrakesch, Marokko
+  description: Luxuriöses Boutiquehotel in Marokkos ehemaliger Königsstadt – inkl. Frühstück, 1x Massage & Transfer
+  price: 76
+  price-description: pro Person pro Nacht
+  saved: 43
+  link: http://bit.ly/2rGtiZ2
+
+- group: morocco
+  title: Riad Wow
+  id: riad-wow
+  location: Marrakesch, Marokko
+  description: "Authentisches Marrakesch: Orient-Luxus mit Panoramablick über das Atlas-Gebirge"
+  price: 44
+  price-description: pro Person pro Nacht
+  saved: 61
+  link: http://bit.ly/2IYuEZe
 
 
 
@@ -54,6 +81,36 @@
 ################################################################################
 
 - group: new-york
+  title: Viceroy Central Park
+  id: viceroy-central-park
+  location: New York, USA
+  description: New York vom perfekt gelegenen Boutiquehotel am Central Park aus erkunden – inkl. WLAN & Extras
+  price: 208
+  price-description: pro Zimmer pro Nacht
+  saved: 43
+  link: http://bit.ly/2IbvsKy
+
+- group: new-york
+  title: Freehand New York
+  id: freehand-new-york
+  location: New York, USA
+  description: "Frisch eröffnet in NYC: Konzepthotel nahe dem Flatiron Building"
+  price: 63
+  price-description: pro Zimmer pro Nacht
+  saved: 42
+  link: http://bit.ly/2GGYqfI
+
+- group: new-york
+  title: Urbanes Designhotel im Herzen Manhattans
+  id: urbanes-designhotel-im-herzen-manhattans
+  location: The New York EDITION, New York, Manhatten, USA
+  description: Luxuriöser Komfort im New Yorker Designhotel nahe Times Square & Broadway
+  price: 179
+  price-description: pro Zimmer pro Nacht
+  saved: 60
+  link: http://bit.ly/2IZEoCp
+
+- group: new-york
   title: WestHouse Hotel
   id: westhouse-hotel
   location: Manhattan, New York, USA
@@ -61,7 +118,6 @@
   price: 127
   price-description: pro Zimmer pro Nacht
   saved: 46
-  expires: 2018/05/29
   link: http://bit.ly/2k5RTm1
 
 - group: new-york
@@ -72,7 +128,6 @@
   price: 83
   price-description: pro Zimmer pro Nacht
   saved: 59
-  expires: 2018/05/22
   link: http://bit.ly/2wDWx3B
 
 - group: new-york
@@ -83,7 +138,6 @@
   price: 145
   price-description: pro Zimmer pro Nacht
   saved: 28
-  expires: 2018/05/22
   link: http://bit.ly/2IlyIPw
 
 - group: new-york
@@ -94,7 +148,6 @@
   price: 109
   price-description: pro Zimmer pro Nacht
   saved: 23
-  expires: 2018/05/22
   link: http://bit.ly/2GdxOmu
 
 - group: new-york
@@ -105,7 +158,6 @@
   price: 121
   price-description: pro Zimmer pro Nacht
   saved: 25
-  expires: 2018/05/22
   link: http://bit.ly/2GeepSi
 
 - group: new-york
@@ -116,7 +168,6 @@
   price: 97
   price-description: pro Zimmer pro Nacht
   saved: 31
-  expires: 2018/05/22
   link: http://bit.ly/2KlzlJA
 
 - group: new-york
@@ -127,7 +178,6 @@
   price: 130
   price-description: pro Unterkunft pro Nacht
   saved: 33
-  expires: 2018/05/22
   link: http://bit.ly/2rDdwhS
 
 - group: new-york
@@ -138,7 +188,6 @@
   price: 75
   price-description: pro Zimmer pro Nacht
   saved: 20
-  expires: 2018/05/22
   link: http://bit.ly/2wCpxJ4
 
 - group: new-york
@@ -149,5 +198,4 @@
   price: 164
   price-description: pro Zimmer pro Nacht
   saved: 45
-  expires: 2018/05/22
   link: http://bit.ly/2KTY7lf
