@@ -15,16 +15,6 @@
   link: http://bit.ly/2k8MSJk
 
 - group: iceland
-  title: "24h Frühbucher-Special: Islands Magie erleben"
-  id: 24h-frühbucher-special-islands-magie-erleben
-  location: Nordurey Hotel Reykjavik Road, Hafnarfjördur, Island
-  description: "Abenteuer Island: Unvergessliche Touren durch die spektakuläre Natur"
-  price: 659
-  price-description: pro Person für 3 Nächte
-  saved: 27
-  link: http://bit.ly/2IuG2wo
-
-- group: iceland
   title: Magische Momente in Island erleben
   id: magische-momente-in-island-erleben
   location: CenterHotel Midgardur, Reykjavík, Island
@@ -33,6 +23,16 @@
   price-description: pro Person pro Nacht
   saved: 58
   link: http://bit.ly/2Lj2re0
+
+- group: iceland
+  title: Islands mystische Naturwunder entdecken
+  id: islands-mystische-naturwunder-entdecken
+  location: Skuggi Hotel, Reykjavík, Island
+  description: Rund um das zauberhafte Reykjavík die spektakuläre Natur Islands entdecken
+  price: 679
+  price-description: pro Person für 3 Nächte
+  saved: 25
+  link: http://bit.ly/2slcZQY
 
 
 
@@ -72,6 +72,36 @@
   saved: 61
   link: http://bit.ly/2IYuEZe
 
+- group: morocco
+  title: Traumhafte Auszeit in Marokko
+  id: traumhafte-auszeit-in-marokko
+  location: Traumhafte Auszeit in Marokko
+  description: Vor den Toren der Roten Stadt herrschaftlich residieren
+  price: 25
+  price-description: pro Person pro Nacht
+  saved: 43
+  link: http://bit.ly/2shHnMd
+
+- group: morocco
+  title: Marokko – Magisches Tor zum Orient
+  id: marokko-magisches-tor-zum-orient
+  location: Marrakesch & Agadir, Marokko
+  description: Orientalischer Zauber in der Altstadt von Marrakesch & am Strand von Agadir
+  price: 699
+  price-description: pro Person für 7 Nächte
+  saved: 27
+  link: http://bit.ly/2J8MIjh
+
+- group: morocco
+  title: Boutique-Riad in Marrakesch
+  id: boutique-riad-in-marrakesch
+  location: Riad Dar Karma. Marrakesch, Marokko
+  description: Charmantes Riad-Hotel mit Dachterrasse nahe der Medina von Marrakesch
+  price: 44
+  price-description: pro Person pro Nacht
+  saved: 64
+  link: http://bit.ly/2J9fjVD
+
 
 
 ################################################################################
@@ -79,16 +109,6 @@
 #   new-york
 #
 ################################################################################
-
-- group: new-york
-  title: Viceroy Central Park
-  id: viceroy-central-park
-  location: New York, USA
-  description: New York vom perfekt gelegenen Boutiquehotel am Central Park aus erkunden – inkl. WLAN & Extras
-  price: 208
-  price-description: pro Zimmer pro Nacht
-  saved: 43
-  link: http://bit.ly/2IbvsKy
 
 - group: new-york
   title: Freehand New York
@@ -199,3 +219,24 @@
   price-description: pro Zimmer pro Nacht
   saved: 45
   link: http://bit.ly/2KTY7lf
+
+- group: new-york
+  title: The Wagner at the Battery
+  id: the-wagner-at-the-battery
+  location: Lower Manhattan, New York, USA
+  description: Elegantes NYC-Hotel mit Blick auf den Hudson River und die Freiheitsstatue
+  price: 188
+  price-description: pro Zimmer pro Nacht
+  saved: 28
+  link: http://bit.ly/2LDVBjd
+
+- group: new-york
+  title: Iberostar 70 Park Avenue
+  id: iberostar-70-park-avenue
+  location: New York, USA
+  description: Stylischer Boutique-Charme im Herzen Manhattans
+  price: 176
+  price-description: pro Zimmer pro Nacht
+  saved: 41
+  link: http://bit.ly/2kwsDFE
+
