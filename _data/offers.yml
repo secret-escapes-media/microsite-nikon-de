@@ -5,26 +5,6 @@
 ################################################################################
 
 - group: iceland
-  title: Natur pur im faszinierenden Island
-  id: natur-pur-im-faszinierenden-island
-  location: Hotel Klettur, Reykjavík & Hotel Selfoss, Selfoss
-  description: "Island mit Wellness: Reise zu Vulkanen, Polarlichtern & heißen Quellen"
-  price: 1099
-  price-description: pro Person für 4 Nächte
-  saved: 20
-  link: http://bit.ly/2k8MSJk
-
-- group: iceland
-  title: Magische Momente in Island erleben
-  id: magische-momente-in-island-erleben
-  location: CenterHotel Midgardur, Reykjavík, Island
-  description: Geysire, Gletscher & Nordlichter – Den Zauber Islands hautnah erleben
-  price: 75
-  price-description: pro Person pro Nacht
-  saved: 58
-  link: http://bit.ly/2Lj2re0
-
-- group: iceland
   title: Islands mystische Naturwunder entdecken
   id: islands-mystische-naturwunder-entdecken
   location: Skuggi Hotel, Reykjavík, Island
@@ -34,6 +14,26 @@
   saved: 25
   link: http://bit.ly/2slcZQY
 
+- group: iceland
+  title: "Wintermärchen Island: Wale, Wasserfälle & Polarlichter"
+  id: wintermarchen-island-wale-wasserfalle-polarlichter
+  location: Reykjavik Lights Hotel, Reykjavík, Island
+  description:  Vulkane, Geysire und Nordlichter – inkl. Flügen, Transfers & Touren nach Wahl
+  price: 659
+  price-description: pro Person für 3 Nächte
+  saved: 18
+  link: http://bit.ly/2LXMI49
+
+- group: iceland
+  title: Spannender Kurztrip ins phänomenale Island
+  id: spannender-kurztrip-ins-phanomenale-island
+  location: CenterHotel Thingholt, Reykjavik, Island
+  description:  Geysire, Wasserfälle & Nordlichter entdecken – inkl. Frühstück oder Halbpension & Extras
+  price: 200
+  price-description: pro Zimmer pro Nacht
+  saved: 46
+  link: http://bit.ly/2suSGS2
+
 
 
 ################################################################################
@@ -41,46 +41,6 @@
 #   morocco
 #
 ################################################################################
-
-- group: morocco
-  title: Marokkos Königsstädte, Wüstenoase & Badeparadies
-  id: marokkos-konigsstadte-wustenoase-badeparadies
-  location: Agadir, Ouarzazate, Zagora, Marrakesch
-  description: Märchenhafte Rundreise mit finaler Stranderholung in Agadir – inkl. Flügen, Transfers & Extras
-  price: 1069
-  price-description: pro Person für 7 Nächte
-  saved: 21
-  link: http://bit.ly/2ICnREu
-
-- group: morocco
-  title: Riad Kniza
-  id: riad-kniza
-  location: Marrakesch, Marokko
-  description: Luxuriöses Boutiquehotel in Marokkos ehemaliger Königsstadt – inkl. Frühstück, 1x Massage & Transfer
-  price: 76
-  price-description: pro Person pro Nacht
-  saved: 43
-  link: http://bit.ly/2rGtiZ2
-
-- group: morocco
-  title: Riad Wow
-  id: riad-wow
-  location: Marrakesch, Marokko
-  description: "Authentisches Marrakesch: Orient-Luxus mit Panoramablick über das Atlas-Gebirge"
-  price: 44
-  price-description: pro Person pro Nacht
-  saved: 61
-  link: http://bit.ly/2IYuEZe
-
-- group: morocco
-  title: Traumhafte Auszeit in Marokko
-  id: traumhafte-auszeit-in-marokko
-  location: Traumhafte Auszeit in Marokko
-  description: Vor den Toren der Roten Stadt herrschaftlich residieren
-  price: 25
-  price-description: pro Person pro Nacht
-  saved: 43
-  link: http://bit.ly/2shHnMd
 
 - group: morocco
   title: Marokko – Magisches Tor zum Orient
@@ -93,14 +53,14 @@
   link: http://bit.ly/2J8MIjh
 
 - group: morocco
-  title: Boutique-Riad in Marrakesch
-  id: boutique-riad-in-marrakesch
-  location: Riad Dar Karma. Marrakesch, Marokko
-  description: Charmantes Riad-Hotel mit Dachterrasse nahe der Medina von Marrakesch
-  price: 44
-  price-description: pro Person pro Nacht
-  saved: 64
-  link: http://bit.ly/2J9fjVD
+  title: Les Cinq Djellabas
+  id: les-cinq-djellabas
+  location: Marrakesch, Marokko
+  description: Ruhige Eleganz im Gartenresort in Marrakesch – inkl. Frühstück & Extra
+  price: 145
+  price-description: pro Suite pro Nacht
+  saved: 40
+  link: http://bit.ly/2JayzTJ
 
 
 
@@ -109,16 +69,6 @@
 #   new-york
 #
 ################################################################################
-
-- group: new-york
-  title: Freehand New York
-  id: freehand-new-york
-  location: New York, USA
-  description: "Frisch eröffnet in NYC: Konzepthotel nahe dem Flatiron Building"
-  price: 63
-  price-description: pro Zimmer pro Nacht
-  saved: 42
-  link: http://bit.ly/2GGYqfI
 
 - group: new-york
   title: Urbanes Designhotel im Herzen Manhattans
@@ -141,16 +91,6 @@
   link: http://bit.ly/2k5RTm1
 
 - group: new-york
-  title: Hudson New York
-  id: hudson-new-york
-  location: New York, USA
-  description: Legendäres Boutiquehotel mit Interieur von Philippe Starck, Fitnesscenter & spektakulären Bars
-  price: 83
-  price-description: pro Zimmer pro Nacht
-  saved: 59
-  link: http://bit.ly/2wDWx3B
-
-- group: new-york
   title: The Time New York
   id: the-time-new-york
   location: Manhattan, New York, USA
@@ -159,16 +99,6 @@
   price-description: pro Zimmer pro Nacht
   saved: 28
   link: http://bit.ly/2IlyIPw
-
-- group: new-york
-  title: Schickes Boutique Hotel in Manhatten
-  id: schickes-boutique-hotel-in-manhatten
-  location: Lex Boutique Hotel, Manhattan, New York, USA
-  description: Zentrales Boutiquehotel nahe dem berühmten Flatiron Building – inkl. Frühstück
-  price: 109
-  price-description: pro Zimmer pro Nacht
-  saved: 23
-  link: http://bit.ly/2GdxOmu
 
 - group: new-york
   title: Spektakuläres Design in Midtown Manhattan
@@ -201,16 +131,6 @@
   link: http://bit.ly/2rDdwhS
 
 - group: new-york
-  title: Hotel Mela
-  id: hotel-mela
-  location: Midtown, Manhattan, New York City, USA
-  description: Big-City-Life mitten in Manhattan mit stilvoller Boutiquehotel-Übernachtung
-  price: 75
-  price-description: pro Zimmer pro Nacht
-  saved: 20
-  link: http://bit.ly/2wCpxJ4
-
-- group: new-york
   title: The Willamsburg Hotel
   id: the-willamsburg-hotel
   location: Brooklyn, New York, USA
@@ -239,4 +159,14 @@
   price-description: pro Zimmer pro Nacht
   saved: 41
   link: http://bit.ly/2kwsDFE
+
+- group: new-york
+  title: Sehnsucht nach New York City
+  id: sehnsucht-nach-new-york-city
+  location: McCarren Hotel & Pool, New York, USA
+  description: Zentrales Hotel im Trendviertel Williamsburg mit Rooftop-Bar & Skyline-Blick – inkl. Flügen
+  price: 655
+  price-description: pro Person für 5 Nächte
+  saved: 41
+  link: http://bit.ly/2xDEviL
 
