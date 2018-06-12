@@ -5,16 +5,6 @@
 ################################################################################
 
 - group: iceland
-  title: Islands mystische Naturwunder entdecken
-  id: islands-mystische-naturwunder-entdecken
-  location: Skuggi Hotel, Reykjavík, Island
-  description: Rund um das zauberhafte Reykjavík die spektakuläre Natur Islands entdecken
-  price: 679
-  price-description: pro Person für 3 Nächte
-  saved: 25
-  link: http://bit.ly/2slcZQY
-
-- group: iceland
   title: "Wintermärchen Island: Wale, Wasserfälle & Polarlichter"
   id: wintermarchen-island-wale-wasserfalle-polarlichter
   location: Reykjavik Lights Hotel, Reykjavík, Island
@@ -25,14 +15,14 @@
   link: http://bit.ly/2LXMI49
 
 - group: iceland
-  title: Spannender Kurztrip ins phänomenale Island
-  id: spannender-kurztrip-ins-phanomenale-island
-  location: CenterHotel Thingholt, Reykjavik, Island
-  description:  Geysire, Wasserfälle & Nordlichter entdecken – inkl. Frühstück oder Halbpension & Extras
-  price: 200
-  price-description: pro Zimmer pro Nacht
-  saved: 46
-  link: http://bit.ly/2suSGS2
+  title: Phänomenale Naturerlebnisse in Island
+  id: phanomenale-naturerlebnisse-in-island
+  location: Hótel Ísland, Reykjavík, Island
+  description: Polarlichtmagie und winterliche Naturabenteuer auf Island
+  price: 699
+  price-description: pro Person für 3 Nächte
+  saved: 24
+  link: http://bit.ly/2sR31YH
 
 
 
@@ -43,24 +33,24 @@
 ################################################################################
 
 - group: morocco
-  title: Marokko – Magisches Tor zum Orient
-  id: marokko-magisches-tor-zum-orient
-  location: Marrakesch & Agadir, Marokko
-  description: Orientalischer Zauber in der Altstadt von Marrakesch & am Strand von Agadir
-  price: 699
-  price-description: pro Person für 7 Nächte
-  saved: 27
-  link: http://bit.ly/2J8MIjh
+  title: Marrakesch – Perle Marokkos
+  id: marrakesch-perle-marokkos
+  location: Angsana Riads Collection, Marrakesch, Marokko
+  description: "Orientalische Oase: Traditioneller Riad in der Medina von Marrakesch"
+  price: 499
+  price-description: pro Person für 4 Nächte
+  saved: 0
+  link: http://bit.ly/2t1iKUd
 
 - group: morocco
-  title: Les Cinq Djellabas
-  id: les-cinq-djellabas
+  title: Art Place Hotel & Ryad
+  id: art-place-hotel-ryad
   location: Marrakesch, Marokko
-  description: Ruhige Eleganz im Gartenresort in Marrakesch – inkl. Frühstück & Extra
-  price: 145
-  price-description: pro Suite pro Nacht
-  saved: 40
-  link: http://bit.ly/2JayzTJ
+  description: "Prämierter Orienttraum: Boutique-Chic in Marokkos märchenhafter Metropole"
+  price: 56
+  price-description: Pro Person pro Nacht
+  saved: 30
+  link: http://bit.ly/2LI8Mih
 
 
 
@@ -71,16 +61,6 @@
 ################################################################################
 
 - group: new-york
-  title: Urbanes Designhotel im Herzen Manhattans
-  id: urbanes-designhotel-im-herzen-manhattans
-  location: The New York EDITION, New York, Manhatten, USA
-  description: Luxuriöser Komfort im New Yorker Designhotel nahe Times Square & Broadway
-  price: 179
-  price-description: pro Zimmer pro Nacht
-  saved: 60
-  link: http://bit.ly/2IZEoCp
-
-- group: new-york
   title: WestHouse Hotel
   id: westhouse-hotel
   location: Manhattan, New York, USA
@@ -89,16 +69,6 @@
   price-description: pro Zimmer pro Nacht
   saved: 46
   link: http://bit.ly/2k5RTm1
-
-- group: new-york
-  title: The Time New York
-  id: the-time-new-york
-  location: Manhattan, New York, USA
-  description: Stylisches Designhotel nahe Broadway & Times Square
-  price: 145
-  price-description: pro Zimmer pro Nacht
-  saved: 28
-  link: http://bit.ly/2IlyIPw
 
 - group: new-york
   title: Spektakuläres Design in Midtown Manhattan
@@ -169,4 +139,44 @@
   price-description: pro Person für 5 Nächte
   saved: 41
   link: http://bit.ly/2xDEviL
+
+- group: new-york
+  title: The Roger New York
+  id: the-roger-new-york
+  location: Midtown Manhattan, New York, USA
+  description: Urbaner New-York-Lifestyle mit Bestlage im NoMad-Viertel
+  price: 126
+  price-description: pro Zimmer pro Nacht
+  saved: 48
+  link: http://bit.ly/2y0YyI8
+
+- group: new-york
+  title: Paramount Hotel
+  id: paramount-hotel
+  location: Times Square, Manhattan, New York, USA
+  description: Historisches Boutiquehotel im Herzen Manhattans
+  price: 114
+  price-description: pro Zimmer pro Nacht
+  saved: 40
+  link: http://bit.ly/2JvQ7db
+
+- group: new-york
+  title: The William
+  id: the-william
+  location: New York City, USA
+  description: "New York super zentral: Boutiquehotel unweit des Times Square"
+  price: 162
+  price-description: pro Zimmer pro Nacht
+  saved: 55
+  link: http://bit.ly/2Ml8YoN
+
+- group: new-york
+  title: Einmal am Times Square Silvester feiern
+  id: einmal-am-times-square-silvester-feiern
+  location: Millennium Hilton New York Downtown, New York, USA
+  description: "New York zum Jahreswechsel: Unvergessliches Silvester im Big Apple"
+  price: 1399
+  price-description: pro Person für 4 Nächte
+  saved: 8
+  link: http://bit.ly/2LGSIxm
 
