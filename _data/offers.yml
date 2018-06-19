@@ -5,16 +5,6 @@
 ################################################################################
 
 - group: iceland
-  title: "Wintermärchen Island: Wale, Wasserfälle & Polarlichter"
-  id: wintermarchen-island-wale-wasserfalle-polarlichter
-  location: Reykjavik Lights Hotel, Reykjavík, Island
-  description:  Vulkane, Geysire und Nordlichter – inkl. Flügen, Transfers & Touren nach Wahl
-  price: 659
-  price-description: pro Person für 3 Nächte
-  saved: 18
-  link: http://bit.ly/2LXMI49
-
-- group: iceland
   title: Phänomenale Naturerlebnisse in Island
   id: phanomenale-naturerlebnisse-in-island
   location: Hótel Ísland, Reykjavík, Island
@@ -23,6 +13,46 @@
   price-description: pro Person für 3 Nächte
   saved: 24
   link: http://bit.ly/2sR31YH
+
+- group: iceland
+  title: Moderne Welt & unberührte Natur in Island
+  id: moderne-welt-unberührte-natur-in-island
+  location: CenterHotel Skjaldbreid, Reykjavik, Island
+  description: "Winterliche Entdeckerreise auf die Vulkaninsel – inkl. Frühstück & spätem Check-out"
+  price: 125
+  price-description: pro Zimmer pro Nacht
+  saved: 43
+  link: http://bit.ly/2I2Lz8f
+
+- group: iceland
+  title: "Spektakulär & wunderschön: Islands Winterwelt"
+  id: spektakulär-wunderschön-islands-winterwelt
+  location: Icelandair Hotel Reykjavík Marina, Reykjavík, Island
+  description: "Islands Polarlichter und Natur entdecken – inkl. Flügen, Transfers, Frühstück & Touren nach Wahl "
+  price: 769
+  price-description: pro Person für 3 Nächte
+  saved: 18
+  link: http://bit.ly/2yo16jF
+
+- group: iceland
+  title: Malerisches Island & Kreuzfahrt durch Grönland
+  id: malerisches-island-kreuzfahrt-durch-grönland
+  location: MS Ocean Diamond
+  description: "Polarmeer-Kreuzfahrt – inkl. Flug ab Island, Exkursionen & optional Flügen ab Deutschland "
+  price: 2649
+  price-description: pro Person für 10 Nächte
+  saved: 53
+  link: http://bit.ly/2ypOOqY
+
+- group: iceland
+  title: Erlebnisreise zu den Wundern Islands
+  id: erlebnisreise-zu-den-wundern-islands
+  location: Reykjavík, Golden-Circle, Vík, Jökulsarlon, Südküste, Blaue Lagune
+  description: "Packende Reise zu den Highlights Islands – inkl. Flügen, Transfers, Frühstück, Touren & Extras "
+  price: 1099
+  price-description: pro Person für 4 Nächte
+  saved: 24
+  link: http://bit.ly/2tiW2ao
 
 
 
@@ -43,14 +73,14 @@
   link: http://bit.ly/2t1iKUd
 
 - group: morocco
-  title: Art Place Hotel & Ryad
-  id: art-place-hotel-ryad
-  location: Marrakesch, Marokko
-  description: "Prämierter Orienttraum: Boutique-Chic in Marokkos märchenhafter Metropole"
+  title: Luxus-Suite im Orient
+  id: luxus-suite-im-orient
+  location: Hivernage Secret Suites & Garden, Marrakesch, Marokko
+  description: "Art-déco-Traum im orientalischen Marrakesch – inkl. Frühstück, Cocktail & Extras"
   price: 56
   price-description: Pro Person pro Nacht
-  saved: 30
-  link: http://bit.ly/2LI8Mih
+  saved: 51
+  link: http://bit.ly/2HZJsC9
 
 
 
@@ -69,16 +99,6 @@
   price-description: pro Zimmer pro Nacht
   saved: 46
   link: http://bit.ly/2k5RTm1
-
-- group: new-york
-  title: Spektakuläres Design in Midtown Manhattan
-  id: spektakulares-design-in-midtown-manhattan
-  location: Royalton New York, USA
-  description: Zeitgenössisch interpretierte Extravaganz im Herzen New Yorks
-  price: 121
-  price-description: pro Zimmer pro Nacht
-  saved: 25
-  link: http://bit.ly/2GeepSi
 
 - group: new-york
   title: Park Central Hotel
@@ -129,16 +149,6 @@
   price-description: pro Zimmer pro Nacht
   saved: 41
   link: http://bit.ly/2kwsDFE
-
-- group: new-york
-  title: Sehnsucht nach New York City
-  id: sehnsucht-nach-new-york-city
-  location: McCarren Hotel & Pool, New York, USA
-  description: Zentrales Hotel im Trendviertel Williamsburg mit Rooftop-Bar & Skyline-Blick – inkl. Flügen
-  price: 655
-  price-description: pro Person für 5 Nächte
-  saved: 41
-  link: http://bit.ly/2xDEviL
 
 - group: new-york
   title: The Roger New York
